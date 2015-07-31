@@ -9190,7 +9190,8 @@ Section 3 - Règles relatives aux limites de vitesse dans les rues
 
              Rue                              Localisation
                                               De:                               À:
-             8e Avenue Nord                   Papineau, rue                     # 130, 8e Avenue Nord
+              e
+             8 Avenue Nord                    Papineau, rue                     # 130, 8e Avenue Nord
              9e Avenue Nord                   Papineau, rue                     # 120, 9e Avenue Nord
              10e Avenue Nord                  Rondeau, rue                      Langlois, rue
              15e Avenue Sud                   Chalifoux, rue                    Conseil, rue du
@@ -9447,8 +9448,9 @@ Sous-section 3 - Circulation des camions et des véhicules-outils
                plan i0793c0f daté du 31 juillet 2013 de la Ville de Sherbrooke, joint au présent
                règlement en annexe pour en faire partie intégrante.
 
-                            RUE                                   DE                       À
-               3e Avenue
+                             RUE                                  DE                       À
+                e
+               3 Avenue
                4e Avenue
                5e Avenue
                6e Avenue
@@ -9540,7 +9542,7 @@ Sous-section 3 - Circulation des camions et des véhicules-outils
              Annie
 
                                                                        
-                         RUE        DE   À
+                           RUE      DE   À
              Anse, de l'
              Antoine-Dorion
              Antoine-Naaman
@@ -11037,8 +11039,7 @@ Sous-section 3 - Circulation des camions et des véhicules-outils
              est prohibée entre 22 h et 7 h sur les rues suivantes :
 
                            RUE                                   DE                                   À
-              e
-             7 Avenue Sud                        Woodward                            Galt Est
+             7e Avenue Sud                       Woodward                            Galt Est
              10e Avenue Sud                      du Conseil                          Woodward
              24-Juin, du
              Belvédère Nord                      King Ouest                          Boulevard Queen Victoria
@@ -11375,6 +11376,7 @@ Sous-section 5 - Circulation des véhicules hors route
               Édouard-Roy, chemin           À proximité du 1184, chemin Édouard-Roy
               Édouard-Roy, chemin           À l intersection du chemin Saint-Roch Nord
               Émery-Fontaine, rue           À l intersection de la rue Bergeron
+
                                                                            
                                Rues                                             Localisation
 
@@ -11428,7 +11430,8 @@ Sous-section 5 - Circulation des véhicules hors route
                                           limite municipale, sur l accotement
 
                                           1150 mètres à partir du passage situé près du 489,
-             3e Rang, chemin du           chemin du 3e Rang jusqu au passage situé près du
+              e
+             3 Rang, chemin du            chemin du 3e Rang jusqu au passage situé près du
                                           563, chemin du 3e Rang, sur l accotement
 
                                           125 mètres à partir du chemin du 5e Rang vers la
@@ -11628,6 +11631,12 @@ Sous-section 5 - Circulation des véhicules hors route
               7e Rang, chemin du
                                                        proximité du 1870, chemin du 7e Rang, sur
                                                        l accotement
+                                                       998 mètres, à partir de la limite municipale jusqu au
+              7e Rang, chemin du
+                                                       chemin Albert-Nicol
+                                                       988 mètres, à partir du lot 3 101 722 jusqu au lot
+              7e Rang, chemin du
+                                                       3 101 769, cadastre du Québec
 
                                                        300 mètres à partir du passage situé à proximité du
               Parc-Industriel, rue du                  526, rue du Parc-Industriel jusqu à la bretelle de
@@ -11640,15 +11649,14 @@ Sous-section 5 - Circulation des véhicules hors route
              2)      Arrondissement de Fleurimont
 
                      Aucun
-
                                                                                                   
-             3)    Arrondissement de Lennoxville
+                   3)             Arrondissement de Lennoxville
 
-                           Rue                                Localisation
+                           Rue                                  Localisation
 
-                                           485 mètres à partir du croisement de la voie ferrée
+                                             485 mètres à partir du croisement de la voie ferrée
               Mitchell, chemin
-                                           vers l est, sur l accotement
+                                             vers l est, sur l accotement
 
              4)    Arrondissement du Mont-Bellevue
 
@@ -11656,57 +11664,57 @@ Sous-section 5 - Circulation des véhicules hors route
 
              5)    Arrondissement de Rock Forest–Saint-Élie–Deauville
 
-                           Rue                                Localisation
+                           Rue                                  Localisation
 
-                                           770 mètres à partir du passage situé à proximité du
-              Édouard-Roy, chemin          1383, chemin Édouard-Roy jusqu au chemin
-                                           Saint-Roch Nord, sur l accotement
+                                             770 mètres à partir du passage situé à proximité du
+              Édouard-Roy, chemin            1383, chemin Édouard-Roy jusqu au chemin
+                                             Saint-Roch Nord, sur l accotement
 
-                                           590 mètres à partir du passage situé à proximité du
-              Édouard-Roy, chemin          1711, chemin Édouard-Roy jusqu au passage situé
-                                           au 1960, chemin Édouard-Roy, sur l accotement
+                                             590 mètres à partir du passage situé à proximité du
+              Édouard-Roy, chemin            1711, chemin Édouard-Roy jusqu au passage situé
+                                             au 1960, chemin Édouard-Roy, sur l accotement
 
-                                           2 275 mètres à partir du chemin Saint-Roch Nord
-              Édouard-Roy, chemin          jusqu au 1955, chemin Édouard-Roy, sur la
-                                           chaussée
+                                             2 275 mètres à partir du chemin Saint-Roch Nord
+              Édouard-Roy, chemin            jusqu au 1955, chemin Édouard-Roy, sur la
+                                             chaussée
 
-                                           180 mètres à partir du chemin Saint-Roch Sud à la
+                                             180 mètres à partir du chemin Saint-Roch Sud à la
               Émery-Fontaine, rue
-                                           rue Bergeron, sur la chaussée
+                                             rue Bergeron, sur la chaussée
 
-                                           2450 mètres à partir du chemin Georges-Vallières
+                                             2450 mètres à partir du chemin Georges-Vallières
               Fer-Droit, rue du
-                                           jusqu au 3455, rue du Fer-Droit, sur l accotement
+                                             jusqu au 3455, rue du Fer-Droit, sur l accotement
 
-                                           1600 mètres à partir du chemin Hamel jusqu à 175
+                                             1600 mètres à partir du chemin Hamel jusqu à 175
               Georges-Vallières, chemin
-                                           mètres à l est du chemin Dion, sur l accotement
-                                           350 mètres à partir d une distance de 220 mètres à
-              Georges-Vallières, chemin    l est du chemin Gendron jusqu à sa fin à l ouest du
-                                           chemin Gendron, sur la chaussée
-                                           300 mètres à partir du 2245, chemin Hamel jusqu à
-              Hamel, chemin                l intersection du chemin Georges-Vallières, sur
-                                           l accotement
+                                             mètres à l est du chemin Dion, sur l accotement
+                                             350 mètres à partir d une distance de 220 mètres à
+              Georges-Vallières, chemin      l est du chemin Gendron jusqu à sa fin à l ouest du
+                                             chemin Gendron, sur la chaussée
+                                             300 mètres à partir du 2245, chemin Hamel jusqu à
+              Hamel, chemin                  l intersection du chemin Georges-Vallières, sur
+                                             l accotement
 
-                                           80 mètres à partir du boulevard Bourque vers le
+                                             80 mètres à partir du boulevard Bourque vers le
               Joyal, rue
-                                           nord, sur la chaussée
+                                             nord, sur la chaussée
 
-                                           75 mètres à partir du boulevard Bourque jusqu à la
+                                             75 mètres à partir du boulevard Bourque jusqu à la
               Jules-Rivard, rue
-                                           rue Ludger-Provencher, sur la chaussée
+                                             rue Ludger-Provencher, sur la chaussée
 
-                                           1270 mètres du côté nord, face aux lots 3 196 758,
-                                           3 193 455, 4 246 469, 4 246 470, 4 246 468,
+                                             1270 mètres du côté nord, face aux lots 3 196 758,
+                                             3 193 455, 4 246 469, 4 246 470, 4 246 468,
               Laliberté, chemin
-                                           3 193 246 et 3 193 245, cadastre du Québec, sur
-                                           l accotement
+                                             3 193 246 et 3 193 245, cadastre du Québec, sur
+                                             l accotement
 
-                                           1 750 mètres à partir du chemin Légaré jusqu à 135
+                                             1 750 mètres à partir du chemin Légaré jusqu à 135
               Laliberté, chemin
-                                           mètres au nord de la rue des Dahlias, sur la chaussée
+                                             mètres au nord de la rue des Dahlias, sur la chaussée
 
-                                                                          
+                                                                            
                                Rue                                                Localisation
 
                                                          1 750 mètres à partir du 4641, chemin Laliberté
@@ -11753,7 +11761,7 @@ Sous-section 5 - Circulation des véhicules hors route
              par les art. 11 et 12 de 1-36 / Modifié par l art. 8 de 1-39 / Modifié par les art. 4, 5 et 6 de 1-41 /
              Modifié par l art. 4 de 1-60 / Modifié par l art. 30 de 1-73 / Modifié par l art. 11 de 1-80 / Modifié par
              l art. 10 de 1-81 / Modifié par l art. 16.1 de 1-89 / Modifié par l art. 13 de 1-93 / Modifié par l art. 2
-             de 1-94 / Modifié par l art. 3 de 1-101)
+             de 1-94 / Modifié par l art. 3 de 1-101 / Modifié par l art. 10 de 1-104)
 
 5.1.45.11    Conditions à respecter sur un chemin public
 
