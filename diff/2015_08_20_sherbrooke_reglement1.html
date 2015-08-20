@@ -1,0 +1,1280 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<style type="text/css">
+.ef0,.f0 { color: #000000; } .eb0,.b0 { background-color: #000000; }
+.ef1,.f1 { color: #AA0000; } .eb1,.b1 { background-color: #AA0000; }
+.ef2,.f2 { color: #00AA00; } .eb2,.b2 { background-color: #00AA00; }
+.ef3,.f3 { color: #AA5500; } .eb3,.b3 { background-color: #AA5500; }
+.ef4,.f4 { color: #0000AA; } .eb4,.b4 { background-color: #0000AA; }
+.ef5,.f5 { color: #AA00AA; } .eb5,.b5 { background-color: #AA00AA; }
+.ef6,.f6 { color: #00AAAA; } .eb6,.b6 { background-color: #00AAAA; }
+.ef7,.f7 { color: #AAAAAA; } .eb7,.b7 { background-color: #AAAAAA; }
+.ef8, .f0 > .bold,.bold > .f0 { color: #555555; font-weight: normal; }
+.ef9, .f1 > .bold,.bold > .f1 { color: #FF5555; font-weight: normal; }
+.ef10,.f2 > .bold,.bold > .f2 { color: #55FF55; font-weight: normal; }
+.ef11,.f3 > .bold,.bold > .f3 { color: #FFFF55; font-weight: normal; }
+.ef12,.f4 > .bold,.bold > .f4 { color: #5555FF; font-weight: normal; }
+.ef13,.f5 > .bold,.bold > .f5 { color: #FF55FF; font-weight: normal; }
+.ef14,.f6 > .bold,.bold > .f6 { color: #55FFFF; font-weight: normal; }
+.ef15,.f7 > .bold,.bold > .f7 { color: #FFFFFF; font-weight: normal; }
+.eb8  { background-color: #555555; }
+.eb9  { background-color: #FF5555; }
+.eb10 { background-color: #55FF55; }
+.eb11 { background-color: #FFFF55; }
+.eb12 { background-color: #5555FF; }
+.eb13 { background-color: #FF55FF; }
+.eb14 { background-color: #55FFFF; }
+.eb15 { background-color: #FFFFFF; }
+.ef16 { color: #000000; } .eb16 { background-color: #000000; }
+.ef17 { color: #00005f; } .eb17 { background-color: #00005f; }
+.ef18 { color: #000087; } .eb18 { background-color: #000087; }
+.ef19 { color: #0000af; } .eb19 { background-color: #0000af; }
+.ef20 { color: #0000d7; } .eb20 { background-color: #0000d7; }
+.ef21 { color: #0000ff; } .eb21 { background-color: #0000ff; }
+.ef22 { color: #005f00; } .eb22 { background-color: #005f00; }
+.ef23 { color: #005f5f; } .eb23 { background-color: #005f5f; }
+.ef24 { color: #005f87; } .eb24 { background-color: #005f87; }
+.ef25 { color: #005faf; } .eb25 { background-color: #005faf; }
+.ef26 { color: #005fd7; } .eb26 { background-color: #005fd7; }
+.ef27 { color: #005fff; } .eb27 { background-color: #005fff; }
+.ef28 { color: #008700; } .eb28 { background-color: #008700; }
+.ef29 { color: #00875f; } .eb29 { background-color: #00875f; }
+.ef30 { color: #008787; } .eb30 { background-color: #008787; }
+.ef31 { color: #0087af; } .eb31 { background-color: #0087af; }
+.ef32 { color: #0087d7; } .eb32 { background-color: #0087d7; }
+.ef33 { color: #0087ff; } .eb33 { background-color: #0087ff; }
+.ef34 { color: #00af00; } .eb34 { background-color: #00af00; }
+.ef35 { color: #00af5f; } .eb35 { background-color: #00af5f; }
+.ef36 { color: #00af87; } .eb36 { background-color: #00af87; }
+.ef37 { color: #00afaf; } .eb37 { background-color: #00afaf; }
+.ef38 { color: #00afd7; } .eb38 { background-color: #00afd7; }
+.ef39 { color: #00afff; } .eb39 { background-color: #00afff; }
+.ef40 { color: #00d700; } .eb40 { background-color: #00d700; }
+.ef41 { color: #00d75f; } .eb41 { background-color: #00d75f; }
+.ef42 { color: #00d787; } .eb42 { background-color: #00d787; }
+.ef43 { color: #00d7af; } .eb43 { background-color: #00d7af; }
+.ef44 { color: #00d7d7; } .eb44 { background-color: #00d7d7; }
+.ef45 { color: #00d7ff; } .eb45 { background-color: #00d7ff; }
+.ef46 { color: #00ff00; } .eb46 { background-color: #00ff00; }
+.ef47 { color: #00ff5f; } .eb47 { background-color: #00ff5f; }
+.ef48 { color: #00ff87; } .eb48 { background-color: #00ff87; }
+.ef49 { color: #00ffaf; } .eb49 { background-color: #00ffaf; }
+.ef50 { color: #00ffd7; } .eb50 { background-color: #00ffd7; }
+.ef51 { color: #00ffff; } .eb51 { background-color: #00ffff; }
+.ef52 { color: #5f0000; } .eb52 { background-color: #5f0000; }
+.ef53 { color: #5f005f; } .eb53 { background-color: #5f005f; }
+.ef54 { color: #5f0087; } .eb54 { background-color: #5f0087; }
+.ef55 { color: #5f00af; } .eb55 { background-color: #5f00af; }
+.ef56 { color: #5f00d7; } .eb56 { background-color: #5f00d7; }
+.ef57 { color: #5f00ff; } .eb57 { background-color: #5f00ff; }
+.ef58 { color: #5f5f00; } .eb58 { background-color: #5f5f00; }
+.ef59 { color: #5f5f5f; } .eb59 { background-color: #5f5f5f; }
+.ef60 { color: #5f5f87; } .eb60 { background-color: #5f5f87; }
+.ef61 { color: #5f5faf; } .eb61 { background-color: #5f5faf; }
+.ef62 { color: #5f5fd7; } .eb62 { background-color: #5f5fd7; }
+.ef63 { color: #5f5fff; } .eb63 { background-color: #5f5fff; }
+.ef64 { color: #5f8700; } .eb64 { background-color: #5f8700; }
+.ef65 { color: #5f875f; } .eb65 { background-color: #5f875f; }
+.ef66 { color: #5f8787; } .eb66 { background-color: #5f8787; }
+.ef67 { color: #5f87af; } .eb67 { background-color: #5f87af; }
+.ef68 { color: #5f87d7; } .eb68 { background-color: #5f87d7; }
+.ef69 { color: #5f87ff; } .eb69 { background-color: #5f87ff; }
+.ef70 { color: #5faf00; } .eb70 { background-color: #5faf00; }
+.ef71 { color: #5faf5f; } .eb71 { background-color: #5faf5f; }
+.ef72 { color: #5faf87; } .eb72 { background-color: #5faf87; }
+.ef73 { color: #5fafaf; } .eb73 { background-color: #5fafaf; }
+.ef74 { color: #5fafd7; } .eb74 { background-color: #5fafd7; }
+.ef75 { color: #5fafff; } .eb75 { background-color: #5fafff; }
+.ef76 { color: #5fd700; } .eb76 { background-color: #5fd700; }
+.ef77 { color: #5fd75f; } .eb77 { background-color: #5fd75f; }
+.ef78 { color: #5fd787; } .eb78 { background-color: #5fd787; }
+.ef79 { color: #5fd7af; } .eb79 { background-color: #5fd7af; }
+.ef80 { color: #5fd7d7; } .eb80 { background-color: #5fd7d7; }
+.ef81 { color: #5fd7ff; } .eb81 { background-color: #5fd7ff; }
+.ef82 { color: #5fff00; } .eb82 { background-color: #5fff00; }
+.ef83 { color: #5fff5f; } .eb83 { background-color: #5fff5f; }
+.ef84 { color: #5fff87; } .eb84 { background-color: #5fff87; }
+.ef85 { color: #5fffaf; } .eb85 { background-color: #5fffaf; }
+.ef86 { color: #5fffd7; } .eb86 { background-color: #5fffd7; }
+.ef87 { color: #5fffff; } .eb87 { background-color: #5fffff; }
+.ef88 { color: #870000; } .eb88 { background-color: #870000; }
+.ef89 { color: #87005f; } .eb89 { background-color: #87005f; }
+.ef90 { color: #870087; } .eb90 { background-color: #870087; }
+.ef91 { color: #8700af; } .eb91 { background-color: #8700af; }
+.ef92 { color: #8700d7; } .eb92 { background-color: #8700d7; }
+.ef93 { color: #8700ff; } .eb93 { background-color: #8700ff; }
+.ef94 { color: #875f00; } .eb94 { background-color: #875f00; }
+.ef95 { color: #875f5f; } .eb95 { background-color: #875f5f; }
+.ef96 { color: #875f87; } .eb96 { background-color: #875f87; }
+.ef97 { color: #875faf; } .eb97 { background-color: #875faf; }
+.ef98 { color: #875fd7; } .eb98 { background-color: #875fd7; }
+.ef99 { color: #875fff; } .eb99 { background-color: #875fff; }
+.ef100 { color: #878700; } .eb100 { background-color: #878700; }
+.ef101 { color: #87875f; } .eb101 { background-color: #87875f; }
+.ef102 { color: #878787; } .eb102 { background-color: #878787; }
+.ef103 { color: #8787af; } .eb103 { background-color: #8787af; }
+.ef104 { color: #8787d7; } .eb104 { background-color: #8787d7; }
+.ef105 { color: #8787ff; } .eb105 { background-color: #8787ff; }
+.ef106 { color: #87af00; } .eb106 { background-color: #87af00; }
+.ef107 { color: #87af5f; } .eb107 { background-color: #87af5f; }
+.ef108 { color: #87af87; } .eb108 { background-color: #87af87; }
+.ef109 { color: #87afaf; } .eb109 { background-color: #87afaf; }
+.ef110 { color: #87afd7; } .eb110 { background-color: #87afd7; }
+.ef111 { color: #87afff; } .eb111 { background-color: #87afff; }
+.ef112 { color: #87d700; } .eb112 { background-color: #87d700; }
+.ef113 { color: #87d75f; } .eb113 { background-color: #87d75f; }
+.ef114 { color: #87d787; } .eb114 { background-color: #87d787; }
+.ef115 { color: #87d7af; } .eb115 { background-color: #87d7af; }
+.ef116 { color: #87d7d7; } .eb116 { background-color: #87d7d7; }
+.ef117 { color: #87d7ff; } .eb117 { background-color: #87d7ff; }
+.ef118 { color: #87ff00; } .eb118 { background-color: #87ff00; }
+.ef119 { color: #87ff5f; } .eb119 { background-color: #87ff5f; }
+.ef120 { color: #87ff87; } .eb120 { background-color: #87ff87; }
+.ef121 { color: #87ffaf; } .eb121 { background-color: #87ffaf; }
+.ef122 { color: #87ffd7; } .eb122 { background-color: #87ffd7; }
+.ef123 { color: #87ffff; } .eb123 { background-color: #87ffff; }
+.ef124 { color: #af0000; } .eb124 { background-color: #af0000; }
+.ef125 { color: #af005f; } .eb125 { background-color: #af005f; }
+.ef126 { color: #af0087; } .eb126 { background-color: #af0087; }
+.ef127 { color: #af00af; } .eb127 { background-color: #af00af; }
+.ef128 { color: #af00d7; } .eb128 { background-color: #af00d7; }
+.ef129 { color: #af00ff; } .eb129 { background-color: #af00ff; }
+.ef130 { color: #af5f00; } .eb130 { background-color: #af5f00; }
+.ef131 { color: #af5f5f; } .eb131 { background-color: #af5f5f; }
+.ef132 { color: #af5f87; } .eb132 { background-color: #af5f87; }
+.ef133 { color: #af5faf; } .eb133 { background-color: #af5faf; }
+.ef134 { color: #af5fd7; } .eb134 { background-color: #af5fd7; }
+.ef135 { color: #af5fff; } .eb135 { background-color: #af5fff; }
+.ef136 { color: #af8700; } .eb136 { background-color: #af8700; }
+.ef137 { color: #af875f; } .eb137 { background-color: #af875f; }
+.ef138 { color: #af8787; } .eb138 { background-color: #af8787; }
+.ef139 { color: #af87af; } .eb139 { background-color: #af87af; }
+.ef140 { color: #af87d7; } .eb140 { background-color: #af87d7; }
+.ef141 { color: #af87ff; } .eb141 { background-color: #af87ff; }
+.ef142 { color: #afaf00; } .eb142 { background-color: #afaf00; }
+.ef143 { color: #afaf5f; } .eb143 { background-color: #afaf5f; }
+.ef144 { color: #afaf87; } .eb144 { background-color: #afaf87; }
+.ef145 { color: #afafaf; } .eb145 { background-color: #afafaf; }
+.ef146 { color: #afafd7; } .eb146 { background-color: #afafd7; }
+.ef147 { color: #afafff; } .eb147 { background-color: #afafff; }
+.ef148 { color: #afd700; } .eb148 { background-color: #afd700; }
+.ef149 { color: #afd75f; } .eb149 { background-color: #afd75f; }
+.ef150 { color: #afd787; } .eb150 { background-color: #afd787; }
+.ef151 { color: #afd7af; } .eb151 { background-color: #afd7af; }
+.ef152 { color: #afd7d7; } .eb152 { background-color: #afd7d7; }
+.ef153 { color: #afd7ff; } .eb153 { background-color: #afd7ff; }
+.ef154 { color: #afff00; } .eb154 { background-color: #afff00; }
+.ef155 { color: #afff5f; } .eb155 { background-color: #afff5f; }
+.ef156 { color: #afff87; } .eb156 { background-color: #afff87; }
+.ef157 { color: #afffaf; } .eb157 { background-color: #afffaf; }
+.ef158 { color: #afffd7; } .eb158 { background-color: #afffd7; }
+.ef159 { color: #afffff; } .eb159 { background-color: #afffff; }
+.ef160 { color: #d70000; } .eb160 { background-color: #d70000; }
+.ef161 { color: #d7005f; } .eb161 { background-color: #d7005f; }
+.ef162 { color: #d70087; } .eb162 { background-color: #d70087; }
+.ef163 { color: #d700af; } .eb163 { background-color: #d700af; }
+.ef164 { color: #d700d7; } .eb164 { background-color: #d700d7; }
+.ef165 { color: #d700ff; } .eb165 { background-color: #d700ff; }
+.ef166 { color: #d75f00; } .eb166 { background-color: #d75f00; }
+.ef167 { color: #d75f5f; } .eb167 { background-color: #d75f5f; }
+.ef168 { color: #d75f87; } .eb168 { background-color: #d75f87; }
+.ef169 { color: #d75faf; } .eb169 { background-color: #d75faf; }
+.ef170 { color: #d75fd7; } .eb170 { background-color: #d75fd7; }
+.ef171 { color: #d75fff; } .eb171 { background-color: #d75fff; }
+.ef172 { color: #d78700; } .eb172 { background-color: #d78700; }
+.ef173 { color: #d7875f; } .eb173 { background-color: #d7875f; }
+.ef174 { color: #d78787; } .eb174 { background-color: #d78787; }
+.ef175 { color: #d787af; } .eb175 { background-color: #d787af; }
+.ef176 { color: #d787d7; } .eb176 { background-color: #d787d7; }
+.ef177 { color: #d787ff; } .eb177 { background-color: #d787ff; }
+.ef178 { color: #d7af00; } .eb178 { background-color: #d7af00; }
+.ef179 { color: #d7af5f; } .eb179 { background-color: #d7af5f; }
+.ef180 { color: #d7af87; } .eb180 { background-color: #d7af87; }
+.ef181 { color: #d7afaf; } .eb181 { background-color: #d7afaf; }
+.ef182 { color: #d7afd7; } .eb182 { background-color: #d7afd7; }
+.ef183 { color: #d7afff; } .eb183 { background-color: #d7afff; }
+.ef184 { color: #d7d700; } .eb184 { background-color: #d7d700; }
+.ef185 { color: #d7d75f; } .eb185 { background-color: #d7d75f; }
+.ef186 { color: #d7d787; } .eb186 { background-color: #d7d787; }
+.ef187 { color: #d7d7af; } .eb187 { background-color: #d7d7af; }
+.ef188 { color: #d7d7d7; } .eb188 { background-color: #d7d7d7; }
+.ef189 { color: #d7d7ff; } .eb189 { background-color: #d7d7ff; }
+.ef190 { color: #d7ff00; } .eb190 { background-color: #d7ff00; }
+.ef191 { color: #d7ff5f; } .eb191 { background-color: #d7ff5f; }
+.ef192 { color: #d7ff87; } .eb192 { background-color: #d7ff87; }
+.ef193 { color: #d7ffaf; } .eb193 { background-color: #d7ffaf; }
+.ef194 { color: #d7ffd7; } .eb194 { background-color: #d7ffd7; }
+.ef195 { color: #d7ffff; } .eb195 { background-color: #d7ffff; }
+.ef196 { color: #ff0000; } .eb196 { background-color: #ff0000; }
+.ef197 { color: #ff005f; } .eb197 { background-color: #ff005f; }
+.ef198 { color: #ff0087; } .eb198 { background-color: #ff0087; }
+.ef199 { color: #ff00af; } .eb199 { background-color: #ff00af; }
+.ef200 { color: #ff00d7; } .eb200 { background-color: #ff00d7; }
+.ef201 { color: #ff00ff; } .eb201 { background-color: #ff00ff; }
+.ef202 { color: #ff5f00; } .eb202 { background-color: #ff5f00; }
+.ef203 { color: #ff5f5f; } .eb203 { background-color: #ff5f5f; }
+.ef204 { color: #ff5f87; } .eb204 { background-color: #ff5f87; }
+.ef205 { color: #ff5faf; } .eb205 { background-color: #ff5faf; }
+.ef206 { color: #ff5fd7; } .eb206 { background-color: #ff5fd7; }
+.ef207 { color: #ff5fff; } .eb207 { background-color: #ff5fff; }
+.ef208 { color: #ff8700; } .eb208 { background-color: #ff8700; }
+.ef209 { color: #ff875f; } .eb209 { background-color: #ff875f; }
+.ef210 { color: #ff8787; } .eb210 { background-color: #ff8787; }
+.ef211 { color: #ff87af; } .eb211 { background-color: #ff87af; }
+.ef212 { color: #ff87d7; } .eb212 { background-color: #ff87d7; }
+.ef213 { color: #ff87ff; } .eb213 { background-color: #ff87ff; }
+.ef214 { color: #ffaf00; } .eb214 { background-color: #ffaf00; }
+.ef215 { color: #ffaf5f; } .eb215 { background-color: #ffaf5f; }
+.ef216 { color: #ffaf87; } .eb216 { background-color: #ffaf87; }
+.ef217 { color: #ffafaf; } .eb217 { background-color: #ffafaf; }
+.ef218 { color: #ffafd7; } .eb218 { background-color: #ffafd7; }
+.ef219 { color: #ffafff; } .eb219 { background-color: #ffafff; }
+.ef220 { color: #ffd700; } .eb220 { background-color: #ffd700; }
+.ef221 { color: #ffd75f; } .eb221 { background-color: #ffd75f; }
+.ef222 { color: #ffd787; } .eb222 { background-color: #ffd787; }
+.ef223 { color: #ffd7af; } .eb223 { background-color: #ffd7af; }
+.ef224 { color: #ffd7d7; } .eb224 { background-color: #ffd7d7; }
+.ef225 { color: #ffd7ff; } .eb225 { background-color: #ffd7ff; }
+.ef226 { color: #ffff00; } .eb226 { background-color: #ffff00; }
+.ef227 { color: #ffff5f; } .eb227 { background-color: #ffff5f; }
+.ef228 { color: #ffff87; } .eb228 { background-color: #ffff87; }
+.ef229 { color: #ffffaf; } .eb229 { background-color: #ffffaf; }
+.ef230 { color: #ffffd7; } .eb230 { background-color: #ffffd7; }
+.ef231 { color: #ffffff; } .eb231 { background-color: #ffffff; }
+.ef232 { color: #080808; } .eb232 { background-color: #080808; }
+.ef233 { color: #121212; } .eb233 { background-color: #121212; }
+.ef234 { color: #1c1c1c; } .eb234 { background-color: #1c1c1c; }
+.ef235 { color: #262626; } .eb235 { background-color: #262626; }
+.ef236 { color: #303030; } .eb236 { background-color: #303030; }
+.ef237 { color: #3a3a3a; } .eb237 { background-color: #3a3a3a; }
+.ef238 { color: #444444; } .eb238 { background-color: #444444; }
+.ef239 { color: #4e4e4e; } .eb239 { background-color: #4e4e4e; }
+.ef240 { color: #585858; } .eb240 { background-color: #585858; }
+.ef241 { color: #626262; } .eb241 { background-color: #626262; }
+.ef242 { color: #6c6c6c; } .eb242 { background-color: #6c6c6c; }
+.ef243 { color: #767676; } .eb243 { background-color: #767676; }
+.ef244 { color: #808080; } .eb244 { background-color: #808080; }
+.ef245 { color: #8a8a8a; } .eb245 { background-color: #8a8a8a; }
+.ef246 { color: #949494; } .eb246 { background-color: #949494; }
+.ef247 { color: #9e9e9e; } .eb247 { background-color: #9e9e9e; }
+.ef248 { color: #a8a8a8; } .eb248 { background-color: #a8a8a8; }
+.ef249 { color: #b2b2b2; } .eb249 { background-color: #b2b2b2; }
+.ef250 { color: #bcbcbc; } .eb250 { background-color: #bcbcbc; }
+.ef251 { color: #c6c6c6; } .eb251 { background-color: #c6c6c6; }
+.ef252 { color: #d0d0d0; } .eb252 { background-color: #d0d0d0; }
+.ef253 { color: #dadada; } .eb253 { background-color: #dadada; }
+.ef254 { color: #e4e4e4; } .eb254 { background-color: #e4e4e4; }
+.ef255 { color: #eeeeee; } .eb255 { background-color: #eeeeee; }
+
+.f9 { color: #000000; }
+.b9 { background-color: #FFFFFF; }
+.f9 > .bold,.bold > .f9, body.f9 > pre > .bold {
+  /* Bold is heavy black on white, or bright white
+     depending on the default background */
+  color: #000000;
+  font-weight: bold;
+}
+.reverse {
+  /* CSS does not support swapping fg and bg colours unfortunately,
+     so just hardcode something that will look OK on all backgrounds. */
+  color: #000000; background-color: #AAAAAA;
+}
+.underline { text-decoration: underline; }
+.line-through { text-decoration: line-through; }
+.blink { text-decoration: blink; }
+
+</style>
+</head>
+
+<body class="f9 b9">
+<pre>
+<span class="bold">diff --git a/texte/sherbrooke_reglement1.txt b/texte/sherbrooke_reglement1.txt</span>
+<span class="bold">index 8949c91..5238a25 100644</span>
+<span class="bold">--- a/texte/sherbrooke_reglement1.txt</span>
+<span class="bold">+++ b/texte/sherbrooke_reglement1.txt</span>
+<span class="f6">@@ -894,7 +894,56 @@</span> Chapitre 9. Activités lucratives ..............................................
+
+Chapitre 10.            Activités communautaires ....................................................................... 7/10/1
+
+TITRE <span class="f2">{+7.1 – SOCIÉTÉ DE DÉVELOPPEMENT COMMERCIAL ............................ 7.1/1/1+}</span>
+
+<span class="f2">{+Chapitre 1.             Dispositions générales .............................................................................. 7.1/1/1+}
+</span>
+<span class="f2">{+     Section 1.         Dispositions interprétatives ....................................................................... 7.1/1/1+}</span>
+
+<span class="f2">{+     Section 2.         Représentation............................................................................................ 7.1/1/1+}
+</span>
+<span class="f2">{+Chapitre 2.             Limites de la zone commerciale .............................................................. 7.1/2/1+}</span>
+
+<span class="f2">{+Chapitre 3.             Cotisation .................................................................................................. 7.1/3/1+}
+</span>
+<span class="f2">{+     Section 1.         Perception de la cotisation et remise à la société ...................................... 7.1/3/1+}</span>
+
+<span class="f2">{+     Section 2.         Imposition de la cotisation ......................................................................... 7.1/3/1+}</span>
+
+<span class="f2">{+Chapitre 4.             Constitution .............................................................................................. 7.1/4/1+}</span>
+
+<span class="f2">{+     Section 1.         Requête en constitution.............................................................................. 7.1/4/1+}</span>
+
+<span class="f2">{+     Section 2.         Tenue d un registre .................................................................................... 7.1/4/2+}</span>
+
+<span class="f2">{+     Section 3.         Tenue d un scrutin référendaire ................................................................. 7.1/4/4+}</span>
+
+<span class="f2">{+     Section 4.         Constitution ................................................................................................ 7.1/4/5+}
+</span>
+<span class="f2">{+ +}</span>
+<span class="f2">{+Chapitre 5.             Organisation, fonctionnement et dissolution ........................................ 7.1/5/1+}</span>
+
+<span class="f2">{+     Section 1.         Pouvoirs de la société................................................................................. 7.1/5/1+}</span>
+
+<span class="f2">{+     Section 2.          Assemblée générale d organisation .......................................................... 7.1/5/1+}</span>
+
+<span class="f2">{+     Section 3.         Conseil d administration ............................................................................ 7.1/5/3+}</span>
+
+<span class="f2">{+     Section 4. Assemblées générales ................................................................................ 7.1/5/5+}</span>
+<span class="f2">{+         Sous-ection 1. Dispositions applicables à toutes les assemblées+}</span>
+<span class="f2">{+                         générales ....................................................................................... 7.1/5/5+}</span>
+<span class="f2">{+         Sous-section 2. Dispositions applicables à l assemblée générale+}</span>
+<span class="f2">{+                         annuelle......................................................................................... 7.1/5/5+}</span>
+<span class="f2">{+         Sous-seciton 3. Dispositions applicables à l assemblée générale+}</span>
+<span class="f2">{+                         du budget ...................................................................................... 7.1/5/6+}</span>
+<span class="f2">{+         Sous-section 4. Disposition applicable à une assemblée générale+}</span>
+<span class="f2">{+                         spéciale ......................................................................................... 7.1/5/6+}</span>
+
+<span class="f2">{+     Section 5.         Budget ...................................................................................................... 7.1/5/7+}
+</span>
+<span class="f2">{+     Section 6.         Dissolution ................................................................................................. 7.1/5/7+}
+</span>
+<span class="f2">{+TITRE+}</span> 8. DISPOSITIONS FINALES <span class="f2">{+................................................................................ 8/1/1+}</span>
+
+Chapitre 1. Dispositions abrogatives...................................................................................... 8/1/1
+
+<span class="f6">@@ -38853,6 +38902,924 @@</span> CHAPITRE 10 - ACTIVITÉS COMMUNAUTAIRES
+             (100,00 $) et maximale de deux cents dollars (200,00 $).
+
+                                                                                 7/10/3
+<span class="f2">{+TITRE 7.1 – SOCIÉTÉ DE DÉVELOPPEMENT COMMERCIAL+}</span>
+<span class="f2">{+(Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+CHAPITRE 1 – DISPOSITIONS GÉNÉRALES+}</span>
+<span class="f2">{+(Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Section 1 - Dispositions interprétatives+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.1.1            Définitions+}</span>
+
+<span class="f2">{+                   À moins de déclaration contraire, expresse ou résultant du contexte de la+}</span>
+<span class="f2">{+                   disposition, les expressions, termes et mots suivants, ont, dans le présent titre, le+}</span>
+<span class="f2">{+                   sens et l'application que leur attribue le présent article :+}</span>
+
+<span class="f2">{+                  1)       L expression « conseil municipal » signifie le conseil composé du maire et+}</span>
+<span class="f2">{+                           des conseillers municipaux de la Ville de Sherbrooke;+}</span>
+
+<span class="f2">{+                  2)       Le mot « contribuable » désigne l occupant d un établissement d entreprise tel+}</span>
+<span class="f2">{+                           que défini à la Loi sur la fiscalité municipale (RLRQ, c. F-2.1), soit la+}</span>
+<span class="f2">{+                           personne qui exerce dans un tel établissement une activité donnant ouverture+}</span>
+<span class="f2">{+                           à l'assujettissement à la taxe d'affaires ou au paiement d'une somme qui en+}</span>
+<span class="f2">{+                           tient lieu;+}</span>
+
+<span class="f2">{+                  3)       L expression « district commercial » ou « district » désigne le territoire+}</span>
+<span class="f2">{+                           déterminé par la résolution constituant une société;+}</span>
+
+<span class="f2">{+                  4)       L expression « établissement d entreprise » désigne toute unité d'évaluation+}</span>
+<span class="f2">{+                           devant être portée au rôle d'évaluation foncière où est exercée une activité+}</span>
+<span class="f2">{+                           mentionnée à l'article 232 de la Loi sur la fiscalité municipale+}</span>
+<span class="f2">{+                           (RLRQ, c. F-2.1) et en raison de laquelle la personne qui l'exerce peut être+}</span>
+<span class="f2">{+                           tenue de payer la taxe d'affaires visée à cet article;+}</span>
+
+<span class="f2">{+                  5)       Le mot « Loi » désigne la Loi sur les cités et villes (RLRQ, c. C-19);+}</span>
+
+<span class="f2">{+                  6)       Le mot « membres » désigne les membres de la société de développement+}</span>
+<span class="f2">{+                           commercial, c'est-à-dire tous les contribuables du district;+}</span>
+
+<span class="f2">{+                  7)       Le mot « société » désigne une société de développement commercial+}</span>
+<span class="f2">{+                           constituée en vertu du présent titre;+}</span>
+
+<span class="f2">{+                  8)       Le mot « terme » désigne la période comprise entre deux assemblées+}</span>
+<span class="f2">{+                           générales annuelles;+}</span>
+
+<span class="f2">{+                  9)       L expression « zone commerciale » désigne une zone à l intérieur de laquelle+}</span>
+<span class="f2">{+                           peut être formé un seul district commercial comprenant au moins+}</span>
+<span class="f2">{+                           50 établissements et plus de 50 % des établissements de cette zone.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Section 2 - Représentation+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.1.2            Représentation+}</span>
+
+<span class="f2">{+                   Les contribuables peuvent exercer leurs droits comme suit :+}</span>
+
+<span class="f2">{+                                                                                          7.1/1/1+}</span>
+<span class="f2">{+             1°     si ce contribuable est une société ou une association visée aux articles 2186+}</span>
+<span class="f2">{+                    à 2279 du Code civil du Québec : par l entremise de l un de ses associés,+}</span>
+<span class="f2">{+                    membres ou administrateurs, désigné par procuration;+}</span>
+
+<span class="f2">{+             2°     si ce contribuable est une personne morale : par l entremise de l un de ses+}</span>
+<span class="f2">{+                    membres, administrateurs, dirigeants ou employés, désigné par résolution;+}</span>
+
+<span class="f2">{+             3°     dans les autres cas, le contribuable signe personnellement.+}</span>
+
+<span class="f2">{+             La procuration ou la résolution, selon le cas, prend effet lors de sa réception par la+}</span>
+<span class="f2">{+             Ville et demeure valide pour toutes les procédures requises au présent règlement+}</span>
+<span class="f2">{+             tant qu elle n est pas remplacée.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+                                                                                 7.1/1/2+}</span>
+<span class="f2">{+CHAPITRE 2 – LIMITES DE LA ZONE COMMERCIALE+}</span>
+<span class="f2">{+(Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.2.1            Limites de la zone+}</span>
+
+<span class="f2">{+                   En vue de la constitution d une société de développement commercial, les limites+}</span>
+<span class="f2">{+                   de la zone commerciale à l intérieur de laquelle peut être formé un seul district+}</span>
+<span class="f2">{+                   commercial sont identifiées sur le plan intitulé « Plan 1 – Centre-ville », préparé+}</span>
+<span class="f2">{+                   par la Division de la géomatique du Service de la planification et du+}</span>
+<span class="f2">{+                   développement urbain de la Ville de Sherbrooke en date du 20 mai 2015, lequel+}</span>
+<span class="f2">{+                   est joint au présent règlement pour en faire partie intégrante.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+                                                                                     7.1/2/1+}</span>
+<span class="f2">{+CHAPITRE 3 – COTISATION+}</span>
+<span class="f2">{+(Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Section 1 - Perception de la cotisation et remise à la société+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.3.1            Cotisation+}</span>
+
+<span class="f2">{+                   Une cotisation annuelle est décrétée à l égard de tout contribuable tenant un+}</span>
+<span class="f2">{+                   établissement d entreprise dans le district de la société.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.3.2            Réputée taxes d affaires+}</span>
+
+<span class="f2">{+                   Une cotisation décrétée en vertu du présent chapitre est réputée être une taxe+}</span>
+<span class="f2">{+                   d affaires spéciale aux fins de sa perception et le greffier et le trésorier de la Ville+}</span>
+<span class="f2">{+                   peuvent exercer tous les pouvoirs que leurs confèrent le présent règlement ainsi+}</span>
+<span class="f2">{+                   que la Loi sur les cités et villes (RLRQ, c. C-19) et la Loi sur la fiscalité+}</span>
+<span class="f2">{+                   municipale (RLRQ, c. F.-2.1) à cet égard.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.3.3            Intérêts+}</span>
+
+<span class="f2">{+                   Le montant dû porte intérêt, à compter de son échéance, aux taux fixé par la Ville+}</span>
+<span class="f2">{+                   pour les taxes et est assujetti au paiement de la pénalité fixée en vertu de la Loi+}</span>
+<span class="f2">{+                   sur la fiscalité municipale (RLRQ, ch. F-2.1).+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.3.4            Perception+}</span>
+
+<span class="f2">{+                   La Ville perçoit la cotisation et fait remise à la société de 100 % du montant des+}</span>
+<span class="f2">{+                   cotisations perçues pour l exercice financier en cours.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Section 2 - Imposition de la cotisation+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.3.5            Liste des contribuables assujettis+}</span>
+
+<span class="f2">{+                   Les noms et adresses des contribuables assujettis à une cotisation en vertu du+}</span>
+<span class="f2">{+                   présent chapitre sont inscrits sur une liste devant être produite par la société au+}</span>
+<span class="f2">{+                   Service des finances de la Ville, au plus tard le 30 janvier de chaque année.+}</span>
+
+<span class="f2">{+                   La liste ainsi transmise doit comprendre minimalement les informations+}</span>
+<span class="f2">{+                   suivantes :+}</span>
+
+<span class="f2">{+                  1)       le nom de l établissement d entreprise tel qu inscrit auprès du registraire des+}</span>
+<span class="f2">{+                           entreprises;+}</span>
+<span class="f2">{+                  2)       l adresse de l établissement d entreprise;+}</span>
+<span class="f2">{+                  3)       l adresse de correspondance de l établissement d entreprise;+}</span>
+<span class="f2">{+                  4)       les nom et prénom de la personne responsable;+}</span>
+<span class="f2">{+                  5)       la date d occupation de l établissement d entreprise dans l immeuble.+}</span>
+
+<span class="f2">{+                   La société doit également transmettre toute modification à ces informations se+}</span>
+<span class="f2">{+                   produisant en cours d année.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+                                                                                         7.1/3/1+}</span>
+<span class="f2">{+7.1.3.6      Montant de la cotisation+}</span>
+
+<span class="f2">{+             La cotisation est établie à 300 $ par contribuable assujetti par année.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.3.7      Modalités de paiement+}</span>
+
+<span class="f2">{+             Un compte sera transmis à chaque contribuable assujetti au plus tard le 1er avril de+}</span>
+<span class="f2">{+             chaque année.+}</span>
+
+<span class="f2">{+             Les cotisations sont payables en un (1) seul versement exigible au plus tard le+}</span>
+<span class="f2">{+             1er juin 2015.+}</span>
+
+<span class="f2">{+             Un compte transmis en cours d exercice financier à un nouveau contribuable+}</span>
+<span class="f2">{+             occupant un établissement d entreprise dans le district de la société est payable en+}</span>
+<span class="f2">{+             un (1) seul versement, exigible au plus tard le (60e) jour suivant la date d émission+}</span>
+<span class="f2">{+             du compte.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.3.8      Occupation successive d un lieu d affaires+}</span>
+
+<span class="f2">{+             Si un contribuable assujetti au paiement de la cotisation cesse d occuper, au cours+}</span>
+<span class="f2">{+             d un exercice financier, un établissement d entreprise pour en occuper un autre dans+}</span>
+<span class="f2">{+             le même district commercial de la société, ce dernier est exempté du paiement de la+}</span>
+<span class="f2">{+             cotisation pour cet exercice financier s il démontre à la Ville qu il a déjà acquitté sa+}</span>
+<span class="f2">{+             cotisation annuelle à son ancien établissement d entreprise.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+                                                                                   7.1/3/2+}</span>
+<span class="f2">{+CHAPITRE 4 – CONSTITUTION+}</span>
+<span class="f2">{+(Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Section 1 - Requête en constitution+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.1            Représentation+}</span>
+
+<span class="f2">{+                   Aux fins de la signature du registre d opposition et de la votation lors d un scrutin+}</span>
+<span class="f2">{+                   référendaire prévues au présent chapitre, les dispositions suivantes s appliquent+}</span>
+<span class="f2">{+                   aux personnes désignées en vertu des paragraphes 1° et 2° du premier alinéa de+}</span>
+<span class="f2">{+                   l article 7.1.1.2 du présent règlement et à la personne qui signe personnellement :+}</span>
+
+<span class="f2">{+                  a)       la personne doit, au moment d'exercer un de ces droits, être majeure et de+}</span>
+<span class="f2">{+                           citoyenneté canadienne et n'être ni en curatelle, ni frappée d'une incapacité+}</span>
+<span class="f2">{+                           de voter prévue à l'article 524 de la Loi sur les élections et les référendums+}</span>
+<span class="f2">{+                           dans les municipalités (RLRQ, c. E-2.2);+}</span>
+
+<span class="f2">{+                  b)       le nom de la personne désignée est, le cas échéant, accolé à celui de la+}</span>
+<span class="f2">{+                           société ou personne morale sur la liste référendaire.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.2            Requête en constitution+}</span>
+
+<span class="f2">{+                   La requête en constitution d une société de développement doit, en vue de sa+}</span>
+<span class="f2">{+                   présentation au conseil municipal, être déposée auprès du greffier.+}</span>
+
+<span class="f2">{+                   La requête doit être signée par un nombre minimal de contribuables tenant un+}</span>
+<span class="f2">{+                   établissement d entreprise dans le district. Ce nombre est de :+}</span>
+
+<span class="f2">{+                  1°       10, s ils sont moins de 100;+}</span>
+
+<span class="f2">{+                  2°       20, s ils sont 100 ou plus mais moins de 250;+}</span>
+
+<span class="f2">{+                  3°       30, s ils sont 250 ou plus mais moins de 500;+}</span>
+
+<span class="f2">{+                  4°       40, s ils sont 500 ou plus.+}</span>
+
+<span class="f2">{+                   La requête doit être conforme au chapitre 5 du présent règlement et contenir au+}</span>
+<span class="f2">{+                   moins les mentions suivantes :+}</span>
+
+<span class="f2">{+                  a)       le nom des requérants;+}</span>
+<span class="f2">{+                  b)       l adresse de leur établissement d entreprise;+}</span>
+<span class="f2">{+                  c)       les limites du district commercial, en utilisant, autant que possible, le nom+}</span>
+<span class="f2">{+                           des rues;+}</span>
+<span class="f2">{+                  d)       le nom proposé pour la société;+}</span>
+<span class="f2">{+                  e)       l adresse proposée pour son siège social.+}</span>
+
+<span class="f2">{+                   La requête doit être accompagnée d une liste des noms et adresses des+}</span>
+<span class="f2">{+                   contribuables tenant un établissement d entreprise dans le district, de même que+}</span>
+<span class="f2">{+                   d un croquis du district commercial.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+                                                                                        7.1/4/1+}</span>
+<span class="f2">{+Section 2 - Tenue d un registre+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.3            Application+}</span>
+
+<span class="f2">{+                   La procédure d'enregistrement s'applique afin de déterminer si un scrutin+}</span>
+<span class="f2">{+                   référendaire doit être tenu.+}</span>
+
+<span class="f2">{+                   Toutefois, elle ne s'applique pas lorsque la majorité des contribuables ayant le+}</span>
+<span class="f2">{+                   droit d'être inscrits sur la liste référendaire du secteur concerné renoncent à la+}</span>
+<span class="f2">{+                   tenue d'un scrutin référendaire en transmettant au greffier un avis en ce sens signé+}</span>
+<span class="f2">{+                   par elles avant le premier jour d'accessibilité au registre.  Dans ce cas, la+}</span>
+<span class="f2">{+                   requête en constitution faisant l'objet du référendum est réputée approuvée par les+}</span>
+<span class="f2">{+                   contribuables. Le greffier en avise le conseil à la première séance qui suit.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.4            Modalités+}</span>
+
+<span class="f2">{+                   Sous réserve de ce qui est prévu au présent chapitre, le chapitre IV du titre II de la+}</span>
+<span class="f2">{+                   Loi sur les élections et les référendums dans les municipalités (RLRQ, c. E-2.2)+}</span>
+<span class="f2">{+                   s applique, compte tenu des adaptations nécessaires, à la procédure+}</span>
+<span class="f2">{+                   d enregistrement.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.5            Avis+}</span>
+
+<span class="f2">{+                   Dans les 45 jours du dépôt de la requête auprès du conseil municipal, le greffier+}</span>
+<span class="f2">{+                   expédie par poste recommandée ou signifie, au moins 15 jours avant la tenue du+}</span>
+<span class="f2">{+                   registre, un avis informant tous les contribuables qui tiennent un établissement+}</span>
+<span class="f2">{+                   d entreprise dans le district qu un registre sera ouvert afin de recevoir la signature+}</span>
+<span class="f2">{+                   de ceux qui s opposent à la formation de la société.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.6            Contenu de l avis+}</span>
+
+<span class="f2">{+                   L avis doit mentionner :+}</span>
+
+<span class="f2">{+                  a)      l objet de la requête;+}</span>
+
+<span class="f2">{+                  b)      le droit pour les contribuables qui tiennent un établissement d entreprise+}</span>
+<span class="f2">{+                          dans le district de demander, par la signature du registre, que la requête+}</span>
+<span class="f2">{+                          fasse l objet d un scrutin référendaire;+}</span>
+
+<span class="f2">{+                  c)      le nombre requis de personnes pour qu un scrutin référendaire ait lieu et le+}</span>
+<span class="f2">{+                          fait qu à défaut de ce nombre, la requête sera réputée approuvée par les+}</span>
+<span class="f2">{+                          contribuables;+}</span>
+
+<span class="f2">{+                  d)      le fait que si la requête est approuvée, le conseil municipal pourra, par+}</span>
+<span class="f2">{+                          résolution, autoriser la constitution de la société, que tous les contribuables+}</span>
+<span class="f2">{+                          qui tiennent un établissement d entreprise dans le district seront membres+}</span>
+<span class="f2">{+                          de la société et que celle-ci pourra imposer une cotisation à ses membres;+}</span>
+
+<span class="f2">{+                  e)      l endroit, les dates et les heures d enregistrement des signatures.+}</span>
+
+<span class="f2">{+                   De plus, le greffier doit joindre à l avis:+}</span>
+<span class="f2">{+                  -       une copie de la requête en constitution de la société et des documents qui+}</span>
+<span class="f2">{+                          l accompagnent;+}</span>
+<span class="f2">{+                  -       le nom et l adresses des contribuables à qui l avis est expédié;+}</span>
+
+<span class="f2">{+                                                                                       7.1/4/2+}</span>
+<span class="f2">{+             -      le texte de la sous-section 14.1 intitulée « Des sociétés de développement+}</span>
+<span class="f2">{+                    commercial » de la Loi et copie du présent règlement.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.7      Ouverture du registre+}</span>
+
+<span class="f2">{+             Le registre ne peut être ouvert avant l expiration de 15 jours à compter de+}</span>
+<span class="f2">{+             l expédition de l avis.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.8      Jours d enregistrement+}</span>
+
+<span class="f2">{+             Le greffier détermine l endroit, les dates et les heures d enregistrement des+}</span>
+<span class="f2">{+             signatures et fournit le registre requis. L endroit doit être accessible aux personnes+}</span>
+<span class="f2">{+             handicapées.+}</span>
+
+<span class="f2">{+             Il fixe autant de jours consécutifs, jusqu à concurrence de 5, qu il y a de tranches+}</span>
+<span class="f2">{+             complètes de 500 dans le nombre de demandes requis selon l article 7.1.4.11 du+}</span>
+<span class="f2">{+             présent règlement pour qu un scrutin référendaire soit tenu. Lorsque ce nombre+}</span>
+<span class="f2">{+             est inférieur à 500, il ne fixe qu un jour.+}</span>
+
+<span class="f2">{+             De plus, le greffier doit faire afficher à l endroit où est tenu le registre :+}</span>
+
+<span class="f2">{+             -      une copie de la requête en constitution de la société;+}</span>
+<span class="f2">{+             -      une copie du présent règlement.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.9      Signature+}</span>
+
+<span class="f2">{+             Il ne peut y avoir qu une seule signature par établissement d entreprise.+}</span>
+
+<span class="f2">{+             Un contribuable qui n a pas reçu l avis du greffier peut signer le registre s il+}</span>
+<span class="f2">{+             prouve qu il tient un établissement d entreprise dans le district et s il détient la+}</span>
+<span class="f2">{+             résolution ou la procuration, selon le cas, l autorisant à signer ledit registre. La+}</span>
+<span class="f2">{+             procédure d enregistrement des signatures n est pas invalide en raison du fait+}</span>
+<span class="f2">{+             qu un contribuable tenant un établissement d entreprise dans le district n a pas+}</span>
+<span class="f2">{+             reçu l avis.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.10     Certificat des jours d enregistrement+}</span>
+
+<span class="f2">{+             À la séance du conseil municipal qui suit la tenue du registre, le greffier informe+}</span>
+<span class="f2">{+             le conseil du résultat du registre.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.11     Résultat du registre+}</span>
+
+<span class="f2">{+             Un scrutin référendaire est nécessaire lorsqu à la fin de la période d accessibilité+}</span>
+<span class="f2">{+             au registre, le nombre de demandes atteint le moins élevé entre 500 et le nombre+}</span>
+<span class="f2">{+             obtenu par l addition du nombre 13 et de celui qui équivaut à 10 % des+}</span>
+<span class="f2">{+             contribuables en excédent des 25 premiers.+}</span>
+
+<span class="f2">{+             Lorsque le résultat de ce calcul donne un nombre comportant une fraction, celle-ci+}</span>
+<span class="f2">{+             est comptée comme une unité.+}</span>
+
+<span class="f2">{+                                                                                    7.1/4/3+}</span>
+<span class="f2">{+                   Lorsque, à la fin de la période d'accessibilité au registre, le nombre de demandes+}</span>
+<span class="f2">{+                   est inférieur à celui qui est requis pour la tenue d'un scrutin référendaire, la+}</span>
+<span class="f2">{+                   requête en constitution est réputée approuvée par les contribuables+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Section 3 - Tenue d un scrutin référendaire+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.12           Modalités+}</span>
+
+<span class="f2">{+                   Sous réserve de ce qui est prévu au présent chapitre, le chapitre VI du titre II de la+}</span>
+<span class="f2">{+                   Loi sur les élections et les référendums dans les municipalités (RLRQ, c. E-2.2)+}</span>
+<span class="f2">{+                   s applique, compte tenu des adaptations nécessaires, au scrutin référendaire.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.13           Délai+}</span>
+
+<span class="f2">{+                   Lorsqu un scrutin référendaire est nécessaire, il est tenu à la date que fixe le+}</span>
+<span class="f2">{+                   conseil municipal, laquelle doit être dans les 90 jours du dépôt de la requête en+}</span>
+<span class="f2">{+                   constitution.+}</span>
+
+<span class="f2">{+                   Lorsque la résolution du conseil municipal indique qu aucun scrutin référendaire+}</span>
+<span class="f2">{+                   ne sera tenu, la requête en constitution est rejetée et une nouvelle requête ne peut+}</span>
+<span class="f2">{+                   être présentée avant l expiration d une période de 24 mois.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.14           Avis+}</span>
+
+<span class="f2">{+                   Au moins 15 jours avant le jour fixé, le greffier expédie par poste recommandée+}</span>
+<span class="f2">{+                   ou signifie, un avis informant tous les contribuables qui tiennent un établissement+}</span>
+<span class="f2">{+                   d entreprise dans le district de la tenue d un scrutin référendaire.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.15           Contenu de l avis+}</span>
+
+<span class="f2">{+                   L avis doit mentionner :+}</span>
+
+<span class="f2">{+                  a)       l endroit, les dates et les heures du scrutin référendaire;+}</span>
+
+<span class="f2">{+                  b)       le texte de la question référendaire;+}</span>
+
+<span class="f2">{+                  c)       le jour et l heure où commencera le recensement des votes et le lieu où il+}</span>
+<span class="f2">{+                           s effectuera.+}</span>
+
+<span class="f2">{+                  d)       le fait que si la requête est approuvée, le conseil municipal pourra, par+}</span>
+<span class="f2">{+                           résolution, autoriser la constitution de la société, que tous les contribuables+}</span>
+<span class="f2">{+                           qui tiennent un établissement d entreprise dans le district seront membres+}</span>
+<span class="f2">{+                           de la société et que celle-ci pourra imposer une cotisation à ses membres.+}</span>
+
+<span class="f2">{+                   De plus, le greffier doit joindre à l avis:+}</span>
+<span class="f2">{+                  -        une copie de la requête en constitution de la société et des documents qui+}</span>
+<span class="f2">{+                           l accompagnent;+}</span>
+<span class="f2">{+                  -        le nom et l adresses des contribuables à qui l avis est expédié;+}</span>
+<span class="f2">{+                  -        le texte de la sous-section 14.1 intitulée « Des sociétés de développement+}</span>
+<span class="f2">{+                           commercial » de la Loi et copie du présent règlement.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+                                                                                        7.1/4/4+}</span>
+<span class="f2">{+7.1.4.16           Question+}</span>
+
+<span class="f2">{+                   Le greffier formule la question qui fait l objet du scrutin référendaire, en vue de+}</span>
+<span class="f2">{+                   savoir si le contribuable est pour ou contre la constitution de la société.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.17           Résultat du scrutin référendaire+}</span>
+
+<span class="f2">{+                   À la séance du conseil municipal qui suit la tenue du scrutin référendaire, le+}</span>
+<span class="f2">{+                   greffier informe le conseil du résultat du vote.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Section 4 - Constitution+}</span>
+<span class="f2">{+(Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.18           Résolution+}</span>
+
+<span class="f2">{+                   Si plus de 50 % des contribuables qui ont voté lors du scrutin référendaire+}</span>
+<span class="f2">{+                   indiquent qu ils y sont favorables, le conseil peut autoriser par résolution la+}</span>
+<span class="f2">{+                   constitution de la société.+}</span>
+
+<span class="f2">{+                   Dans le cas contraire, la requête en constitution est rejetée et une nouvelle requête+}</span>
+<span class="f2">{+                   ne peut être présentée avant l expiration d une période de 24 mois.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.4.19           Copies certifiées conformes+}</span>
+
+<span class="f2">{+                   Le greffier doit transmettre au registraire des entreprises trois copies certifiées+}</span>
+<span class="f2">{+                   conformes de la résolution autorisant la constitution de la société.+}</span>
+
+<span class="f2">{+                   À compter de la date de dépôt de la résolution auprès du registraire des+}</span>
+<span class="f2">{+                   entreprises, la société est une personne morale.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+                                                                                      7.1/4/5+}</span>
+<span class="f2">{+CHAPITRE 5 – ORGANISATION, FONCTIONNEMENT ET DISSOLUTION+}</span>
+<span class="f2">{+(Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Section 1 - Pouvoirs de la société+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.1            Compétence+}</span>
+
+<span class="f2">{+                   Une société a compétence dans le district commercial pour lequel elle est+}</span>
+<span class="f2">{+                   constituée.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.2            Pouvoirs+}</span>
+
+<span class="f2">{+                   Une société peut promouvoir le développement économique du district, établir+}</span>
+<span class="f2">{+                   des services communs à l intention de ses membres et de leurs clients, exploiter+}</span>
+<span class="f2">{+                   un commerce dans le district, construire et gérer un garage ou un parc de+}</span>
+<span class="f2">{+                   stationnement et exécuter des travaux sur la propriété, publique ou privée, avec le+}</span>
+<span class="f2">{+                   consentement du propriétaire.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Section 2 - Assemblée générale d organisation+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.3            Délai+}</span>
+
+<span class="f2">{+                   Une première assemblée générale des membres, dite assemblée générale+}</span>
+<span class="f2">{+                   d organisation, doit être tenue dans les 60 jours suivant la constitution de la+}</span>
+<span class="f2">{+                   société.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.4            Membres+}</span>
+
+<span class="f2">{+                   Tous les contribuables qui tiennent un établissement d entreprise dans le district+}</span>
+<span class="f2">{+                   sont membres de la société et, sous réserve de l article 7.1.5.13, ont droit de vote+}</span>
+<span class="f2">{+                   à ses assemblées.+}</span>
+
+<span class="f2">{+                   Ils ne possèdent qu un seul droit de vote par établissement d entreprise.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.5            Convocation+}</span>
+
+<span class="f2">{+                   Une personne désignée par les signataires de la requête en constitution de la+}</span>
+<span class="f2">{+                   société expédie par la poste, par télécopieur ou par courriel un avis de+}</span>
+<span class="f2">{+                   convocation à l assemblée générale d organisation à tous les membres au moins+}</span>
+<span class="f2">{+                   10 jours avant l assemblée.+}</span>
+
+<span class="f2">{+                   Dans le cas d une société composée d au moins 1000 membres, la personne+}</span>
+<span class="f2">{+                   désignée par les signataires de la requête doit plutôt, au moins 10 jours avant cette+}</span>
+<span class="f2">{+                   assemblée, publier un avis de convocation aux membres, dans au moins un+}</span>
+<span class="f2">{+                   quotidien distribué sur le territoire de la ville.+}</span>
+
+<span class="f2">{+                   L avis de convocation doit préciser le lieu, la date et l heure de l assemblée et+}</span>
+<span class="f2">{+                   reproduire l ordre du jour de celle-ci.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+<span class="f2">{+                                                                                      7.1/5/1+}</span>
+<span class="f2">{+7.1.5.6      Ordre du jour+}</span>
+
+<span class="f2">{+             Les matières suivantes doivent être inscrites à l ordre du jour de l assemblée+}</span>
+<span class="f2">{+             générale d organisation :+}</span>
+
+<span class="f2">{+             1°     élection du président et du secrétaire d assemblée;+}</span>
+
+<span class="f2">{+             2°     lecture de la résolution constituant la société;+}</span>
+
+<span class="f2">{+             3°     étude et adoption d un règlement de régie interne;+}</span>
+
+<span class="f2">{+             4°     élection d un président d élection, d un secrétaire d élection et d au moins 2+}</span>
+<span class="f2">{+                    scrutateurs;+}</span>
+
+<span class="f2">{+             5°     élection de 6 administrateurs;+}</span>
+
+<span class="f2">{+             6°     choix d un vérificateur.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.7      Registre des présences+}</span>
+
+<span class="f2">{+             Un préposé doit tenir, à l entrée du local où a lieu l assemblée, un registre des+}</span>
+<span class="f2">{+             présences dans lequel doivent être mentionnés les noms et les adresses des+}</span>
+<span class="f2">{+             établissements d entreprise des membres.+}</span>
+
+<span class="f2">{+             Chaque membre qui assiste à l assemblée générale d organisation doit s inscrire+}</span>
+<span class="f2">{+             auprès du préposé et lui remettre, s il y a lieu, la procuration ou la résolution qui+}</span>
+<span class="f2">{+             l autorise à assister à l assemblée.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.8      Élection des administrateurs+}</span>
+
+<span class="f2">{+             Les administrateurs sont élus par les membres présents à l assemblée générale+}</span>
+<span class="f2">{+             d organisation.+}</span>
+
+<span class="f2">{+             L assemblée élit :+}</span>
+<span class="f2">{+             1°     3 administrateurs dont le premier mandat prend fin à la première assemblée+}</span>
+<span class="f2">{+                    générale annuelle;+}</span>
+<span class="f2">{+             2°     3 administrateurs dont le premier mandat prend fin à la deuxième assemblée+}</span>
+<span class="f2">{+                    générale.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.9      Vote+}</span>
+
+<span class="f2">{+             L élection des administrateurs se fait par scrutin secret. La mise en candidature se+}</span>
+<span class="f2">{+             fait sur place, sur proposition d un membre appuyée par 2 autres membres.+}</span>
+
+<span class="f2">{+             Pour toute autre matière que l élection des administrateurs, le vote se fait à main+}</span>
+<span class="f2">{+             levée sauf si, sur la proposition d un membre, l assemblée se prononce à la+}</span>
+<span class="f2">{+             majorité simple sur le choix d un scrutin secret.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.10     Bulletins de vote+}</span>
+
+<span class="f2">{+             Lors d un vote par scrutin secret, le dépôt des bulletins de vote se fait sur appel+}</span>
+<span class="f2">{+             d après la liste des membres présents. Toutefois, dans le cas d une société+}</span>
+<span class="f2">{+             composée d au moins 1 000 membres, l appel des membres par leur nom n est+}</span>
+<span class="f2">{+             fait que si, sur la proposition d un membre, l assemblée se prononce à la majorité+}</span>
+<span class="f2">{+             simple sur le choix de cette méthode.+}</span>
+<span class="f2">{+                                                                               7.1/5/2+}</span>
+<span class="f2">{+                   Les bulletins de vote sont déposés dans une boîte et le scrutin est ensuite+}</span>
+<span class="f2">{+                   dépouillé devant l assistance.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.11           Avis du siège social+}</span>
+
+<span class="f2">{+                   Dans les 15 jours suivant la date de l assemblée d organisation, la société doit+}</span>
+<span class="f2">{+                   transmettre un avis de l adresse de son siège social ainsi que la liste de ses+}</span>
+<span class="f2">{+                   administrateurs au registraire des entreprises qui les dépose au registre.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Section 3 - Conseil d administration+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.12           Composition+}</span>
+
+<span class="f2">{+                   Le conseil d administration de la société est formé de neuf personnes :+}</span>
+
+<span class="f2">{+                  -       6 personnes élues lors de l assemblée générale;+}</span>
+
+<span class="f2">{+                  -       1 personne désignée par le conseil municipal parmi ses membres ou parmi+}</span>
+<span class="f2">{+                          les fonctionnaires ou employés de la Ville;+}</span>
+
+<span class="f2">{+                  -       2 personnes sont désignées par les 6 membres élus du conseil+}</span>
+<span class="f2">{+                          d administration.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.13           Admissibilité+}</span>
+
+<span class="f2">{+                   Un membre ne peut être élu au conseil d administration, ni exercer son droit de+}</span>
+<span class="f2">{+                   vote lors d une assemblée générale, que s il a acquitté sa cotisation ou la partie de+}</span>
+<span class="f2">{+                   sa cotisation devenue exigible, avant le jour de l assemblée.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.14           Dirigeants+}</span>
+
+<span class="f2">{+                   Lors d une réunion du conseil d administration, ce dernier élit, parmi les+}</span>
+<span class="f2">{+                   administrateurs élus, un président, un vice-président, un secrétaire et un trésorier,+}</span>
+<span class="f2">{+                   qui ont titre de dirigeants. La même personne peut être secrétaire et trésorier.+}</span>
+
+<span class="f2">{+                   L élection des dirigeants doit être faite chaque année après l assemblée générale+}</span>
+<span class="f2">{+                   annuelle.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.15           Durée du mandat+}</span>
+
+<span class="f2">{+                   Après leur premier mandat, les administrateurs ont un mandat de 2 termes.+}</span>
+
+<span class="f2">{+                   Le règlement de régie interne de la société peut prévoir la reconduction des+}</span>
+<span class="f2">{+                   administrateurs à leur poste.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.16           Poste vacant+}</span>
+
+<span class="f2">{+                   La charge d un administrateur devient vacante en cas de démission, de révocation+}</span>
+<span class="f2">{+                   ou de perte de la qualité de membre.+}</span>
+<span class="f2">{+                                                                                  7.1/5/3+}</span>
+<span class="f2">{+             Un administrateur a démissionné s il a remis une lettre de démission au conseil+}</span>
+<span class="f2">{+             d administration ou s il a été absent sans motif suffisant à 3 réunions consécutives+}</span>
+<span class="f2">{+             du conseil d administration.+}</span>
+
+<span class="f2">{+             Le conseil d administration peut, par résolution, remplacer un administrateur élu+}</span>
+<span class="f2">{+             dont la charge devient vacante. Le remplaçant demeure en fonction jusqu à la fin+}</span>
+<span class="f2">{+             du mandat de l administrateur qu il remplace.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.17     Pouvoirs+}</span>
+
+<span class="f2">{+             En plus de gérer les affaires courantes de la société, le conseil d administration+}</span>
+<span class="f2">{+             doit, notamment :+}</span>
+
+<span class="f2">{+             1°     transmettre une copie certifiée du règlement de régie interne de la société au+}</span>
+<span class="f2">{+                    secrétaire;+}</span>
+
+<span class="f2">{+             2°     contrôler la tenue des registres;+}</span>
+
+<span class="f2">{+             3°     effectuer et contrôler les placements;+}</span>
+
+<span class="f2">{+             4°     exiger un cautionnement de toute personne ayant l administration ou la+}</span>
+<span class="f2">{+                    garde des fonds de la société;+}</span>
+
+<span class="f2">{+             5°     assurer le siège social et les biens de la société contre les risques d incendie,+}</span>
+<span class="f2">{+                    de vol et de responsabilité;+}</span>
+
+<span class="f2">{+             6°     lors de l assemblée générale annuelle, rendre compte de son mandat et+}</span>
+<span class="f2">{+                    soumettre le rapport annuel aux membres;+}</span>
+
+<span class="f2">{+             7°     transmettre, dans les 3 mois de la fins de l exercice financier, une copie des+}</span>
+<span class="f2">{+                    états financiers certifiés au secrétaire et, sur demande, aux membres;+}</span>
+
+<span class="f2">{+             8°     faciliter le travail du vérificateur;+}</span>
+
+<span class="f2">{+             9°     entretenir, avec les représentants des autres sociétés, des rapports propres à+}</span>
+<span class="f2">{+                    susciter des échanges favorables.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.18     Réunions+}</span>
+
+<span class="f2">{+             Le conseil d administration tient autant de réunions que nécessaire.+}</span>
+
+<span class="f2">{+             Le quorum est de 5 administrateurs.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.19     Décisions+}</span>
+
+<span class="f2">{+             Les décisions du conseil d administration sont prises à la majorité. En cas+}</span>
+<span class="f2">{+             d égalité des voix, le président a un vote prépondérant.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.20     Règlements de régie interne+}</span>
+
+<span class="f2">{+             Le conseil d administration peut adopter des règlements concernant sa régie+}</span>
+<span class="f2">{+             interne, la création de comités et leur fonctionnement et tout autre matière pour la+}</span>
+<span class="f2">{+             poursuite de ses fins.+}</span>
+
+<span class="f2">{+                                                                                   7.1/5/4+}</span>
+<span class="f2">{+                   Un tel règlement doit être adopté par les deux tiers (2/3) des administrateurs+}</span>
+<span class="f2">{+                   présents.+}</span>
+
+<span class="f2">{+                   Il doit être ratifié par résolution des membres réunis en assemblée générale+}</span>
+<span class="f2">{+                   ordinaire ou annuelle.+}</span>
+
+<span class="f2">{+                   Il entre en vigueur après avoir été approuvé par le conseil municipal.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Section 4 - Assemblées générales+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Sous-section 1 - Dispositions applicables à toutes les assemblées générales+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.21           Convocation+}</span>
+
+<span class="f2">{+                   Une assemblée générale doit être convoquée au moyen d un avis expédié par la+}</span>
+<span class="f2">{+                   poste, par télécopieur ou par courriel à tous les membres au moins 10 jours avant+}</span>
+<span class="f2">{+                   l assemblée.+}</span>
+
+<span class="f2">{+                   Dans le cas d une société composée d au moins 1 000 membres, l avis de+}</span>
+<span class="f2">{+                   convocation des membres de la société à une assemblée générale doit être publié,+}</span>
+<span class="f2">{+                   au moins 10 jours avant l assemblée, dans un quotidien distribué dans le territoire+}</span>
+<span class="f2">{+                   de la ville.+}</span>
+
+<span class="f2">{+                   L avis de convocation doit préciser le lieu, la date et l heure de l assemblée et+}</span>
+<span class="f2">{+                   reproduire l ordre du jour de celle-ci.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.22           Tenue de l assemblée+}</span>
+
+<span class="f2">{+                   Lors d une assemblée générale, les articles 7.1.5.7, 7.1.5.8, 7.1.5.9 et 7.1.5.10+}</span>
+<span class="f2">{+                   s appliquent, avec les adaptations nécessaires, à l inscription des membres, à la+}</span>
+<span class="f2">{+                   mise en candidature, à l élection des administrateurs et aux modalités du vote.+}</span>
+
+<span class="f2">{+                   Dans le cas d une société composée d au moins 1 000 membres, l appel des+}</span>
+<span class="f2">{+                   membres par leur nom lors d un scrutin secret n est fait que si le règlement de+}</span>
+<span class="f2">{+                   régie interne de la société impose cette méthode.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.23           Décisions+}</span>
+
+<span class="f2">{+                   Les décisions d une assemblée générale sont prises à la majorité des membres+}</span>
+<span class="f2">{+                   présents et votants. En cas d égalité des voix, le président a un vote prépondérant.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Sous-section 2 - Dispositions applicables à l assemblée générale annuelle+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.24           Délai+}</span>
+
+<span class="f2">{+                   Chaque année, à compter de l année suivant celle de la constitution d une société,+}</span>
+<span class="f2">{+                   une assemblée générale annuelle des membres doit être tenue avant le 31 mars ou,+}</span>
+<span class="f2">{+                   dans le cas d une société composée d au moins 1 000 membres, avant le+}</span>
+<span class="f2">{+                   30 septembre.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+<span class="f2">{+                                                                                      7.1/5/5+}</span>
+<span class="f2">{+7.1.5.25           Ordre du jour+}</span>
+
+<span class="f2">{+                   Les matières suivantes doivent être inscrites à l ordre du jour de cette assemblée :+}</span>
+
+<span class="f2">{+                  1°       rapport du conseil d administration;+}</span>
+
+<span class="f2">{+                  2°       présentation des états financiers certifiés et du rapport du vérificateur;+}</span>
+
+<span class="f2">{+                  3°       élection des administrateurs dont le mandat est terminé;+}</span>
+
+<span class="f2">{+                  4°       choix d un vérificateur.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Sous-section 3 - Dispositions applicables à l assemblée générale du budget+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.26           Délai+}</span>
+
+<span class="f2">{+                   Chaque année, y compris celle de la constitution de la société, le conseil+}</span>
+<span class="f2">{+                   d administration doit convoquer ses membres à une assemblée générale du+}</span>
+<span class="f2">{+                   budget.+}</span>
+
+<span class="f2">{+                   L adoption du budget peut également se faire lors de l assemblée générale+}</span>
+<span class="f2">{+                   annuelle, selon ce que décide le conseil d administration.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.27           Présentation+}</span>
+
+<span class="f2">{+                   À cette assemblée, ou lors de l assemblée générale annuelle, le conseil+}</span>
+<span class="f2">{+                   d administration présente le budget de fonctionnement de l année budgétaire+}</span>
+<span class="f2">{+                   subséquente et les projets comportant des dépenses en capital dont le financement+}</span>
+<span class="f2">{+                   peut être effectué par un emprunt avec l autorisation du conseil municipal.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.28           Convocation+}</span>
+
+<span class="f2">{+                   L avis de convocation à l assemblée au cours de laquelle le budget est adopté doit+}</span>
+<span class="f2">{+                   être accompagné d une copie des documents relatifs au budget et aux projets+}</span>
+<span class="f2">{+                   comportant des dépenses en capital. Dans le cas où l avis est publié, le budget+}</span>
+<span class="f2">{+                   doit l être également dans le même quotidien.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Sous-section 4 - Disposition applicable à une assemblée générale spéciale+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.29           Nombre+}</span>
+
+<span class="f2">{+                   Lorsqu une assemblée générale spéciale est convoquée à la demande des membres+}</span>
+<span class="f2">{+                   pour un objet particulier, il ne peut être tenu une deuxième assemblée+}</span>
+<span class="f2">{+                   relativement au même objet avant l expiration de l exercice financier au cours+}</span>
+<span class="f2">{+                   duquel elle est tenu, sauf avec l accord du conseil d administration.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+                                                                                              7.1/5/6+}</span>
+<span class="f2">{+Section 5 - Budget+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.30           Exercice financier+}</span>
+
+<span class="f2">{+                   L exercice financier de la société s étend du 1er janvier au 31 décembre, sauf+}</span>
+<span class="f2">{+                   l année de sa constitution.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.31           Dépôt+}</span>
+
+<span class="f2">{+                   Le budget adopté par les membres doit être déposé auprès du secrétaire au plus+}</span>
+<span class="f2">{+                   tard le 1er novembre, sauf le premier budget qui peut être déposé après cette date+}</span>
+<span class="f2">{+                   et qui peut couvrir une période allant de la date de la constitution de la société+}</span>
+<span class="f2">{+                   jusqu au 31 décembre de l année qui suit celle de la constitution.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.32           Approbation+}</span>
+
+<span class="f2">{+                   Le budget de la société est approuvé par le conseil municipal.+}</span>
+
+<span class="f2">{+                   Le conseil peut l approuver après s être assuré que toutes les formalités ont été+}</span>
+<span class="f2">{+                   suivies pour son adoption.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+Section 6 - Dissolution+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.33           Requête+}</span>
+
+<span class="f2">{+                   La requête en dissolution d une société de développement commercial doit, en+}</span>
+<span class="f2">{+                   vue de sa présentation au conseil municipal, être déposée auprès du greffier.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.34           Procédure+}</span>
+
+<span class="f2">{+                   Les articles 7.1.4.1 à 7.1.4.17 inclusivement du présent règlement s appliquent à+}</span>
+<span class="f2">{+                   toute requête en dissolution, compte tenu des adaptations nécessaires, outre les+}</span>
+<span class="f2">{+                   suivantes :+}</span>
+
+<span class="f2">{+                  1°      le registre est ouvert afin de recevoir la signature de ceux qui sont+}</span>
+<span class="f2">{+                          favorables à la dissolution de la société;+}</span>
+
+<span class="f2">{+                  2°      à défaut du nombre requis de personnes pour qu un scrutin référendaire ait+}</span>
+<span class="f2">{+                          lieu, la requête est réputée désapprouvée.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.35           Dissolution+}</span>
+
+<span class="f2">{+                   Si la requête en dissolution est approuvée, le greffier la transmet au conseil+}</span>
+<span class="f2">{+                   d administration de la société avec un certificat attestant que la requête a été+}</span>
+<span class="f2">{+                   approuvée conformément à la loi.+}</span>
+
+<span class="f2">{+                                                                                    7.1/5/7+}</span>
+<span class="f2">{+             Le conseil d administration doit soumettre, conformément à la Loi sur les+}</span>
+<span class="f2">{+             compagnies (RLRQ, c. C-38), une demande de dissolution de la société au+}</span>
+<span class="f2">{+             registraire des entreprises.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+7.1.5.36     Distribution des actifs+}</span>
+
+<span class="f2">{+             Les actifs de la société au moment de sa dissolution sont utilisés pour le paiement+}</span>
+<span class="f2">{+             des dettes échues et à échoir.+}</span>
+
+<span class="f2">{+             Si un solde demeure disponible suite à la liquidation, il est distribué aux membres+}</span>
+<span class="f2">{+             en proportion de la cotisation payée au cours du dernier exercice financier.+}</span>
+
+<span class="f2">{+             Malgré l alinéa précédant, les actifs acquis avec des fonds provenant d une+}</span>
+<span class="f2">{+             contribution de la Ville sont remis à cette dernière.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-106)+}</span>
+
+<span class="f2">{+                                                                               7.1/5/8+}</span>
+TITRE 8 - DISPOSITIONS FINALES
+
+CHAPITRE 1 - Dispositions abrogatives
+</pre>
+</body>
+</html>
