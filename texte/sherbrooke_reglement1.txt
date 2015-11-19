@@ -39189,9 +39189,18 @@ Section 2 - Imposition de la cotisation
                                                                                          7.1/3/1
 7.1.3.6      Montant de la cotisation
 
-             La cotisation est établie à 300 $ par contribuable assujetti par année.
+             Pour chacun des contribuables assujettis, la cotisation annuelle est établie comme
+             suit :
 
-             (Ajouté par l art. 1 de 1-106)
+             -      Organisme à but non lucratif                               50,00 $
+
+             Selon la superficie occupée pour les autres contribuables :
+
+             -      Moins de 50 m2                                            100,00 $
+             -      50 m2 à moins de 100 m2                                   200,00 $
+             -      100 m2 et plus                                            300,00 $.
+
+             (Ajouté par l art. 1 de 1-106 / Modifié par l art. 1 de 1-108)
 
 7.1.3.7      Modalités de paiement
 
