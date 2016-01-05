@@ -428,6 +428,8 @@ Chapitre 7. Nuisances ..........................................................
           Sous-section 1. Sollicitation de porte-à-porte pour des fins non lucratives........... 
           Sous-section 2. Sollicitation dans un endroit public ou une place publique ......... 
           Sous-section 2.1 Barrage routier ............................................................................... 
+              § 1. Barrage routier - Arrondissement ............................................................... 
+              § 2. Barrage routier – Ensemble du territoire .................................................... 
           Sous-section 3. Sollicitation par la tenue d un lavethon extérieur......................... 
 
       Section 5.         Nuisances par le bruit.................................................................................. 
@@ -16388,7 +16390,7 @@ Section 5 - Permis de stationnement pour les terrains de stationnement publics
 
                   - Magog
 
-         B                                                                                                      420 $ / an
+         B                                                                                                      440 $ / an
                   - Abénaquis
 
                   - Webster                         - niveaux 1 à 6, du 1er juin au 15 septembre
@@ -16396,12 +16398,12 @@ Section 5 - Permis de stationnement pour les terrains de stationnement publics
                   - La Grenouillère                 - section réservée aux détenteurs du permis « C »
 
                   - Webster                         - niveaux 2 à 6
-         C                                                                                                      540 $ / an
+         C                                                                                                      565 $ / an
                   - Magog
 
                   - Abénaquis
 
-         D                                                                                                      420 $ / an
+         D                                                                                                      440 $ / an
                   - Webster                         - niveaux 1 à 6
 
                                                                                                     
@@ -16439,19 +16441,19 @@ Section 5 - Permis de stationnement pour les terrains de stationnement publics
 
                  - rue Goodhue
 
-        G        - Gillepsie                                                                          420 $ / an
+        G        - Gillepsie                                                                          440 $ / an
 
-        H        - La Cigarerie                                                                       420 $ / an
+        H        - La Cigarerie                                                                       440 $ / an
 
                  - Marché de la gare          - du lundi au vendredi
-        I                                                                                             420 $ / an
+        I                                                                                             440 $ / an
                  - La Cigarerie               - les samedis et dimanches
 
                  - Place de la Cité
 
                  - La Cigarerie
 
-        J                                                                                             660 $ / an
+        J                                                                                             695 $ / an
                  - rue Couture
 
                  - rue Goodhue
@@ -16462,7 +16464,7 @@ Section 5 - Permis de stationnement pour les terrains de stationnement publics
                  Bibliothèque
 
                  - La Cigarerie
-        K                                                                                             660 $ / an
+        K                                                                                             695 $ / an
                  - rue Couture
 
                  - rue Goodhue
@@ -16470,10 +16472,10 @@ Section 5 - Permis de stationnement pour les terrains de stationnement publics
                  - rue Marquette              - de la rue Belvédère Nord à la rue Couture
 
                  - Wellington Sud
-        L                                                                                             420 $ / an
+        L                                                                                             440 $ / an
                  - du Dépôt
 
-                 - Plateau Sylvie-Daigle                                                               100 $ /
+                 - Plateau Sylvie-Daigle                                                               105 $ /
         P
                                                                                                        session
                  - Stade Amédée-Roy
@@ -16481,7 +16483,7 @@ Section 5 - Permis de stationnement pour les terrains de stationnement publics
                  - Webster                    - niveaux 1 à 6
 
                  - Magog
-                                                                                                      300 $ / an
+                                                                                                      315 $ / an
         Z
                  - Abénaquis
 
@@ -16502,7 +16504,7 @@ Section 5 - Permis de stationnement pour les terrains de stationnement publics
                                                        - tous les jours de 17 h à 8 h 30 le lendemain
 
                    - du Dépôt
-   C.S.R.S. / L                                                                                                          420 $ / an
+   C.S.R.S. / L                                                                                                          440 $ / an
                    - Wellington Sud
 
    St-François     - St-François                                                                                         180 $ / an
@@ -16575,7 +16577,7 @@ Section 5 - Permis de stationnement pour les terrains de stationnement publics
                     procurer un permis journalier au coût de 5,00 $ en se présentant à la
                     billeterie du train Orford-Express qui est en charge de la distribution.
 
-             5)       Permis temporaire
+             5)     Permis temporaire
 
                     Ce permis donne le privilège de stationner sur le terrain de stationnement
                     désigné sur ledit permis ou dans les espaces de stationnement sur rue réservés
@@ -16599,7 +16601,8 @@ Section 5 - Permis de stationnement pour les terrains de stationnement publics
              Modifié par l art. 9 de 1-70 / Modifié par l art. 5 de 1-71 / Modifié par l art. 18 de 1-72 / Modifié par
              l art. 41 de 1-73 / Modifié par l art. 15 de 1-80 / Modifié par l art. 12 de 1-81 / Modifié par l art. 20
              de 1-89 / Modifié par l art. 18 de 1-93 / Modifié par l art. 11 de 1-95 / Modifié par l art. 30 de 1-96 /
-             Modifié par l art. 13 de 1-99 / Modifié par l art. 11 de 1-101 / Modifié par l art. 10 de 1-103)
+             Modifié par l art. 13 de 1-99 / Modifié par l art. 11 de 1-101 / Modifié par l art. 10 de 1-103 /
+             Modifié par l art. 22 de 1-107)
 
                                                                                                 
 5.2.67       Attribution des permis
@@ -20541,60 +20544,89 @@ Sous-section 2.1 – Barrage routier
 
 5.7.66.1           Sollicitation sur un chemin public
 
-                   Sous réserve des articles 5.7.66.2 à 5.7.66.12, il est défendu à toute personne de
-                   solliciter de l'argent ou des dons ou de vendre des biens ou des services aux usagers
-                   d'un chemin public, à des fins lucratives ou non, sur toute partie d'un chemin public
-                   comprenant entre autres, le trottoir, la chaussée, une bande médiane ou une voie
-                   cyclable de façon à entraver à la circulation.
-                   (Ajouté par l art. 21 de 1-22 / Modifié par l art. 24 de 1-27)
+                   Sous réserve de l article 5.7.66.2 et des § 1 et 2 de la présente sous-section, il est
+                   défendu à toute personne de solliciter de l'argent ou des dons ou de vendre des biens
+                   ou des services aux usagers d'un chemin public, à des fins lucratives ou non, sur
+                   toute partie d'un chemin public comprenant entre autres, le trottoir, la chaussée, une
+                   bande médiane ou une voie cyclable de façon à entraver à la circulation.
 
-5.7.66.2           Barrage routier
+                   (Ajouté par l art. 21 de 1-22 / Modifié par l art. 24 de 1-27 / Modifié par l art. 19 de 1-110)
 
-                   Les activités de type « barrage routier » sont autorisées dans l arrondissement de
-                   Brompton sur la rue Comeau, au centre, entre les intersections des rues
-                   Saint-Lambert et Saint-Joseph, et dans l arrondissement de Rock Forest–Saint-Élie–
-                   Deauville à l intersection des boulevards Bourque et du Mi-Vallon pour les
-                   organismes à but non lucratif ayant demandé et obtenu au préalable une autorisation
-                   écrite à cet effet du directeur de l arrondissement conformément aux articles
-                   5.7.66.3 et suivants.
+5.7.66.2           Territoire d application des activités de type « barrage routier »
 
-                   (Ajouté par l art. 21 de 1-22 / Modifié par l art. 19 de 1-24 / Modifié par l art. 15 de 1-26)
+                   Les activités de type « barrage routier - arrondissement » visés à la § 1 de la
+                   présente sous-section sont autorisées dans l arrondissement de Brompton sur la rue
+                   Comeau, au centre, entre les intersections des rues Saint-Lambert et Saint-Joseph, et
+                   dans l arrondissement de Rock Forest–Saint-Élie–Deauville à l intersection des
+                   boulevards Bourque et du Mi-Vallon pour les organismes à but non lucratif ayant
+                   demandé et obtenu au préalable une autorisation écrite à cet effet du directeur de
+                   l arrondissement conformément à la § 1 de la présente sous-section.
+
+                   Les activités de type « barrage routier » d envergure municipal sont également
+                   autorisées sur l ensemble du territoire conformément aux conditions énumérées à la
+                   § 2 de la présente sous-section. Seules les intersections suivantes sont autorisées :
+
+                  Arrondissement de Fleurimont
+                     - 12e Avenue Nord / du 24-Juin
+                     - 13e Avenue Nord / du 24-Juin
+                     - King Est / Papineau-Murray
+                     - King Est / Galt Est-Duplessis
+
+                  Arrondissement du Mont-Bellevue
+                     - King Ouest / Radisson-Marconi
+                     - King Ouest / Belvédère (direction est/ouest)
+                     - Université / Bachand
+
+                  Arrondissement de Rock Forest-Saint-Élie-Deauville
+                     - Bourque / Mi-Vallon
+
+                  Arrondissement de Jacques-Cartier
+                     - Portland / Jacques-Cartier Nord
+                     - Portland / Industriel
+                     - Jacques-Cartier Sud / Denault
+
+                   (Ajouté par l art. 21 de 1-22 / Modifié par l art. 19 de 1-24 / Modifié par l art. 15 de 1-26 / Modifié
+                   par l art. 19 de 1-110)
+
+§ 1 – Barrage routier - Arrondissement
+(Ajoutée par l art. 19 de 1-110)
 
 5.7.66.3           Autorisation
 
                    Seuls les organismes à but non lucratif qui sont reconnus en vertu de la politique de
                    reconnaissance des organismes de l arrondissement de Brompton et de
                    l arrondissement de Rock Forest–Saint-Élie–Deauville peuvent adresser une
-                   demande à cet effet au directeur de l arrondissement ou à son représentant autorisé.
+                   demande visée par le premier alinéa de l article 5.7.66.2 au directeur de
+                   l arrondissement ou à son représentant autorisé.
 
-                   Les barrages routiers doivent avoir lieu entre le 1er mai et le 30 octobre d une même
-                   année. Il ne peut y avoir plus de 2 barrages routiers pendant cette période.
+                                                                                                      
+             Les barrages routiers doivent avoir lieu entre le 1er mai et le 30 octobre d une même
+             année. Il ne peut y avoir plus de 2 barrages routiers pendant cette période.
 
-                   La demande doit être déposée au bureau de l arrondissement au moins 60 jours
-                   avant la date désirée pour la tenue du barrage routier. Les demandes seront traitées
-                   par priorité dans l ordre de réception de celles-ci. Une seule demande peut être
-                   autorisée chaque année par organisme à but non lucratif.
+             La demande doit être déposée au bureau de l arrondissement au moins 60 jours
+             avant la date désirée pour la tenue du barrage routier. Les demandes seront traitées
+             par priorité dans l ordre de réception de celles-ci. Une seule demande peut être
+             autorisée chaque année par organisme à but non lucratif.
 
-                   Le directeur de l arrondissement analyse les demandes reçues et avise l organisme
-                   au moins 45 jours avant la date fixée pour la tenue du barrage routier qu une
-                   autorisation lui sera délivrée selon les conditions prescrites à la présente section ou
-                   de son refus le cas échéant.
+             Le directeur de l arrondissement analyse les demandes reçues et avise l organisme
+             au moins 45 jours avant la date fixée pour la tenue du barrage routier qu une
+             autorisation lui sera délivrée selon les conditions prescrites à la présente section ou
+             de son refus le cas échéant.
 
-                   (Ajouté par l art. 21 de 1-22 / Modifié par l art. 19 de 1-24 / Modifié par l art. 15 de 1-26)
+             (Ajouté par l art. 21 de 1-22 / Modifié par l art. 19 de 1-24 / Modifié par l art. 15 de 1-26 / Modifié
+             par l art. 19 de 1-110)
 
-5.7.66.4           Demande d autorisation
+5.7.66.4     Demande d autorisation
 
-                   La demande d autorisation pour la tenue d un barrage routier à des fins non
-                   lucratives doit être faite sur la formule disponible à cet effet au bureau de
-                   l arrondissement et être dûment signée. Elle doit notamment contenir les
-                   renseignements suivants :
+             La demande d autorisation doit être faite sur la formule disponible à cet effet au
+             bureau de l arrondissement et être dûment signée. Elle doit notamment contenir les
+             renseignements suivants :
 
-                   1)     Le nom, l adresse et le numéro de téléphone de la personne requérante;
+             1)     Le nom, l adresse et le numéro de téléphone de la personne requérante;
 
-                   2)     Le nom, l adresse, le numéro de téléphone et le nom du responsable de
-                          l organisme sans but lucratif au nom duquel le barrage routier sera réalisé;
+             2)     Le nom, l adresse, le numéro de téléphone et le nom du responsable de
+                    l organisme sans but lucratif au nom duquel le barrage routier sera réalisé;
 
-                                                                                                          
              3)     Le cas échéant, le nom, l adresse, le numéro de téléphone et le nom du
                     responsable du ou des autres organismes sans but lucratif au bénéfice duquel
                     la sollicitation sera réalisée;
@@ -20607,29 +20639,29 @@ Sous-section 2.1 – Barrage routier
 
              La demande doit être accompagnée du paiement du coût de l autorisation.
 
-             (Ajouté par l art. 21 de 1-22)
+             (Ajouté par l art. 21 de 1-22 / Modifié par l art. 19 de 1-110)
 
 5.7.66.5     Documents accompagnant la demande
 
              La demande d autorisation pour la tenue d une activité de type barrage routier doit
              être accompagnée des documents suivants :
 
-             1)     La résolution du conseil d administration de l organisme sans but lucratif
+             1)     La résolution du conseil d administration de l organisme à but non lucratif
                     autorisant la signature de la demande d autorisation, autorisant la tenue de
                     l activité de sollicitation et décrivant sommairement ses objectifs ;
 
-             2)     Une copie de l acte constitutif de l organisme sans but lucratif;
+             2)     Une copie de l acte constitutif de l organisme à but non lucratif;
 
              3)     Une lettre d autorisation ou d entente émise par le responsable du ou des
                     autres organismes au nom duquel la sollicitation sera réalisée.
-
-             (Ajouté par l art. 21 de 1-22)
+             (Ajouté par l art. 21 de 1-22 / Modifié par l art. 19 de 1-110)
 
 5.7.66.6     Conditions d émission de l autorisation
 
              Le directeur de l arrondissement ou son représentant autorisé doit émettre
              l autorisation si les conditions suivantes sont respectées :
 
+                                                                                              
              1)     Il s agit d une demande d autorisation pour de la sollicitation à des fins non
                     lucratives par un organisme à but non lucratif reconnu par l arrondissement;
 
@@ -20654,7 +20686,6 @@ Sous-section 2.1 – Barrage routier
 
              (Ajouté par l art. 21 de 1-22 / Modifié par l art. 27 de 1-43)
 
-                                                                                
 5.7.66.7     Assurances et formule de renonciation
 
              L organisme à but non lucratif doit déposer au directeur de l arrondissement, au
@@ -20680,19 +20711,20 @@ Sous-section 2.1 – Barrage routier
 5.7.66.9     Révocation de l autorisation
 
              Le directeur de l arrondissement ou son représentant peut révoquer en tout temps
-             une autorisation de barrage routier si un organisme sans but lucratif cesse de
+             une autorisation de barrage routier si un organisme à but non lucratif cesse de
              satisfaire aux conditions d émission de l autorisation ou s il contrevient, ou si un
              des participants contrevient, à l une ou l autre des dispositions de la présente
              section.
+             (Ajouté par l art. 21 de 1-22 / Modifié par l art. 20 de 1-110)
 
-             (Ajouté par l art. 21 de 1-22)
-
+                                                                                
 5.7.66.10    Coût
 
              Le coût de l'autorisation de barrage routier est de 100,00 $ et est payable lors du
              dépôt de la demande d'autorisation. Ce montant n'est pas remboursable sauf si un
              trop grand nombre de demandes justifie le directeur de l arrondissement de refuser à
              l organisme l autorisation de tenir un barrage routier.
+
              (Ajouté par l art. 21 de 1-22)
 
 5.7.66.11    Directives
@@ -20717,30 +20749,294 @@ Sous-section 2.1 – Barrage routier
                     d'intimidation envers les personnes sollicitées, d'utiliser un langage grossier
                     ou injurieux ou de proférer des menaces;
 
-                                                                                
-               5)     Remettre à l automobiliste sollicité un billet de courtoisie ou un signet
-                      indiquant qu il a été sollicité;
+             5)     Remettre à l automobiliste sollicité un billet de courtoisie ou un signet
+                    indiquant qu il a été sollicité;
 
+             6)     Demeurer sur le trottoir, sur le terre-plein ou dans la zone de sécurité
+                    délimitée au plan de signalisation;
+
+             7)     Ne pas circuler dans la rue ou au milieu des voitures;
+
+             8)     Porter une veste de sécurité avec bandes fluorescentes;
+
+             9)     Solliciter les automobilistes ou leur passager seulement lorsque les véhicules
+                    sont complètement immobilisés au feu rouge ou au feu intermittent rouge.
+
+             (Ajouté par l art. 21 de 1-22 / Modifié par l art. 28 de 1-43)
+
+5.7.66.12    Documents et rapports
+
+             La personne à qui une autorisation de barrage routier a été émise ou l'organisme à
+             but non lucratif au nom duquel l'activité de sollicitation a été autorisée doit fournir
+             au directeur de l arrondissement, dans les quinze (15) jours suivant la tenue de
+             l activité, les rapports d'activités ou rapports financiers démontrant que l'activité de
+             sollicitation a été réalisée à des fins non lucratives et conformément aux dispositions
+             du présent règlement.
+
+             (Ajouté par l art. 21 de 1-22 / Modifié par l art. 21 de 1-110)
+
+                                                                                
+§ 2 – Barrage routier - Ensemble du territoire
+(Ajoutée par l art. 22 de 1-110)
+
+5.7.66.13          Demandeur admissible
+
+                  Seuls les organismes à but non lucratif qui sont admis en vertu de la politique
+                  d admissibilité des organismes de la Ville de Sherbrooke peuvent adresser une
+                  demande d autorisation pour la tenue d une activité de type « barrage routier sur
+                  l ensemble du territoire ».
+
+                  Une demande d autorisation prenant l une des formes suivantes peut également être
+                  jugée admissible :
+
+                  -           Une demande déposée par un regroupement d organismes reconnus par la
+                              Ville dont l un d eux est identifié comme organisme responsable;
+
+                  -           Une demande déposée au nom d un organisme parrainé par un organisme
+                              reconnu par la Ville au bénéfice duquel la sollicitation est réalisée.
+                   (Ajouté par l art. 22 de 1-110)
+
+5.7.66.14          Délai
+
+                  Pour chaque année civile, la demande d autorisation doit être déposée au Service de
+                  police entre le 1er janvier et au plus tard le 31 mars de l année de l activité. Une
+                  seule demande peut être autorisée chaque année par organisme à but non lucratif.
+
+                  Les barrages routiers peuvent avoir lieu entre le 1er mai et le 20 décembre d une
+                  même année. Il ne peut y avoir plus de deux activités de type « barrage routier sur
+                  l ensemble du territoire » autorisées pendant cette période.
+
+                   (Ajouté par l art. 22 de 1-110)
+
+5.7.66.15          Demande d autorisation
+
+                  La demande d autorisation doit être faite sur la formule disponible à cet effet au
+                  Service de police et être dûment signée. Elle doit notamment contenir les
+                  renseignements suivants :
+
+                  1)       Le nom, l adresse et le numéro de téléphone de l organisme requérant;
+
+                  2)       Le nom, l adresse, le numéro de téléphone et le nom du responsable désigné
+                           par l organisme;
+
+                  3)       Le cas échéant, le nom, l adresse, le numéro de téléphone et le nom du
+                           responsable du ou des autres organismes à but non lucratif au bénéfice duquel
+                           la sollicitation sera réalisée;
+
+                  4)       La date pour laquelle la tenue de l activité est demandée;
+
+                  5)       La liste des intersections occupées;
+
+                  6)       Le nombre de bénévoles disponibles par intersection;
+
+                   7)      La répartition prévue en pourcentage des revenus entre les organismes
+                           participants provenant de l activité de barrage routier, le cas échéant;
+
+                   6)      L engagement à respecter les dispositions de la présente section.
+
+                   La demande doit être accompagnée du paiement du coût de l autorisation.
+
+                   (Ajouté par l art. 22 de 1-110)
+
+                                                                                     
+5.7.66.16    Documents accompagnant la demande
+
+             La demande d autorisation doit être accompagnée des documents suivants :
+
+             1)     La résolution du conseil d administration de l organisme à but non lucratif
+                    autorisant la signature de la demande d autorisation, autorisant la tenue de
+                    l activité de sollicitation et décrivant sommairement ses objectifs;
+
+             2)     Une copie de l acte constitutif de l organisme à but non lucratif;
+
+             3)     Une lettre d autorisation ou d entente émise par le responsable du ou des
+                    autres organismes au nom duquel la sollicitation sera réalisée.
+
+             (Ajouté par l art. 22 de 1-110)
+
+5.7.66.17    Étude de la demande
+
+             À la fin du délai prévu à l article 5.7.66.14 pour le dépôt d une demande
+             d autorisation, le Service de police analyse les demandes d autorisation reçues afin
+             de vérifier si les conditions d admissibilité prévues à l article 5.7.66.13 sont
+             rencontrées, si elles sont conformes à l article 5.7.66.15 et si elles sont
+             accompagnées des documents décrits à l article 5.7.66.16 de la présente sous-sous-
+             section. S il ne reçoit pas plus de deux demandes d autorisation conformes, il
+             autorise les demandes et transmet un avis à cet effet à l organisme requérant
+             conformément à l article 5.7.66.18.
+
+             Si le Service de police reçoit plus de deux demandes d autorisation conformes, un
+             comité composé de représentants autorisés du Service de police, du Service des
+             infrastructures urbaines et de l environnement et du Service des sports, de la culture
+             et de la vie communautaire est formé. Ce comité est responsable de transmettre au
+             comité exécutif ses recommandations quant aux organismes devant bénéficier d une
+             autorisation de tenir un barrage routier sur l ensemble du territoire. Le comité doit
+             baser son analyse, entre autres, sur les critères suivants :
+
+             1)       L envergure de l organisme requérante et sa notoriété;
+
+             2)       Le rayonnement de l organisme lors de la levée de fonds (le nombre et
+                      l emplacement des sites choisis);
+
+             3)       Le nombre de bénévoles disponibles par intersection;
+
+             4)       L évaluation des dons anticipés;
+
+             5)       Les modalités de redistribution des dons à la communauté locale ou aux
+                      organismes locaux;
+
+             6)       Tout autre critère pertinent permettant d évaluer les retombées de la levée de
+                      fonds sur la communauté locale.
+
+             Le comité exécutif transmet au Service de police sa décision quant aux deux
+             organismes requérants bénéficiant d une autorisation pour l année civile en cours.
+
+             (Ajouté par l art. 22 de 1-110)
+
+5.7.66.18    Émission de l autorisation
+
+             Le Service de police émet l autorisation de tenir un barrage routier à l organisme
+             requérant si les conditions suivantes sont rencontrées :
+
+                                                                                
+             1)       La demande d autorisation est jugée conforme par le Service de police;
+
+             2)       S il y a plus de deux demandes d autorisation conformes déposées à la
+                      Ville, une décision du comité exécutif autorise l organisme requérant à
+                      tenir une telle activité;
+
+             3)        L organisme requérant n a pas été déclaré en défaut d avoir rempli l une ou
+                      l autre des obligations qui lui sont dévolues en vertu de la présente
+                      sous-section pour une activité de type barrage routier ayant eu lieu au cours
+                      des cinq (5) années précédentes;
+
+             4)       Une autorisation pour la tenue d un barrage routier émise en vertu de la
+                      présente sous-section au nom de l organisme requérant n a pas été révoquée
+                      en raison d une infraction au présent règlement au cours des cinq (5) années
+                      précédentes.
+
+             5)       Le coût du permis est acquitté.
+
+             Le directeur du Service de police ou son représentant désigné transmet une copie de
+             l autorisation à l organisme requérant. Il en transmet également une copie au
+             directeur du Service des infrastructures urbaines et de l environnement et au
+             directeur du Service des sports, de la culture et de la vie communautaire.
+
+             (Ajouté par l art. 22 de 1-110)
+
+5.7.66.19    Assurances et formule de renonciation
+
+             L organisme requérant à qui une autorisation est délivrée doit déposer au directeur
+             du Service de police, au moins 30 jours avant la tenue du barrage routier, un
+             certificat d assurance confirmant la souscription d une police d assurance
+             responsabilité d un montant minimal de 2 000 000$ ainsi qu une formule de
+             renonciation à toute poursuite contre la Ville pour quelque dommage corporel ou
+             matériel pouvant survenir pendant l activité du barrage routier, le tout dûment
+             signée par l organisme et tous les participants à l événement.
+
+             (Ajouté par l art. 22 de 1-110)
+
+5.7.66.20    Coût
+
+             Le coût de l'autorisation de barrage routier est de 100,00 $ et est payable lors du
+             dépôt de la demande d'autorisation. Ce montant n'est pas remboursable.
+
+             (Ajouté par l art. 22 de 1-110)
+
+5.7.66.21    Durée
+
+             L autorisation est valide seulement pour la date prévue pour la tenue de l activité.
+
+             Si l activité ne peut avoir lieu à la date prévue pour la tenue du barrage routier pour
+             des raisons de forces majeures hors du contrôle de l organisme, l activité pourra être
+             reportée à une autre date convenue entre les parties.
+
+             (Ajouté par l art. 22 de 1-110)
+
+                                                                                
+5.7.66.22    Prérogative de la Ville
+
+             La Ville de Sherbrooke se réserve le droit, pour des raisons de sécurité ou
+             d entretien majeur de ses infrastructures, de refuser, d interrompre, d annuler ou de
+             déplacer la tenue du barrage routier sur une ou plusieurs intersections identifiées sur
+             l autorisation. Si plus de la moitié des intersections sont visées par la directive de la
+             Ville, l activité pourra être reportée à une autre date convenue entre les parties. Dans
+             aucun cas, la Ville ne pourra être poursuivie pour toute perte de profits ou de dons
+             anticipés par l organisme.
+
+             (Ajouté par l art. 22 de 1-110)
+
+5.7.66.23    Révocation de l autorisation
+
+             Le Service de police peut révoquer en tout temps une autorisation de barrage routier
+             si un organisme à but non lucratif cesse de satisfaire aux conditions d émission de
+             l autorisation ou s il contrevient, ou si un des participants contrevient, à l une ou
+             l autre des dispositions de la présente section.
+
+             (Ajouté par l art. 22 de 1-110)
+
+5.7.66.24    Rencontre d information obligatoire
+
+             Le Service de police convoque, dans un délai minimal de 15 jours avant la tenue de
+             l activité, l organisme autorisé et tous les organismes participants, le cas échéant, à
+             une rencontre d information obligatoire. Un responsable de la sécurité par
+             intersection doit également être présent. Cette rencontre vise à transmettre toutes les
+             directives de sécurité applicables le jour de l activité.
+
+             Le Service de police peut révoquer une autorisation de barrage routier ou retirer une
+             intersection de la liste à tout organisme n ayant pas participé à la rencontre alors
+             qu une convocation lui avait été transmise à cet effet.
+
+             (Ajouté par l art. 22 de 1-110)
+
+5.7.66.25    Directives
+
+             L organisme à but non lucratif autorisé à tenir un barrage routier en vertu de la
+             présente sous-sous-section doit s assurer que les participants respectent les
+             conditions suivantes pendant toute la durée de l activité :
+
+             1)     Tenir le barrage routier qu'entre 8 h 00 et 16 h 00;
+
+             2)     Installer, avant le début de l activité, les cônes, les panneaux de réduction de
+                    vitesse annonçant la levée de fonds et le matériel de sécurité remis par le
+                    Service des infrastructures urbaines et de l environnement tel que requis au
+                    plan de signalisation émis par le Service des infrastructures urbaines et de
+                    l environnement, Division des infrastructures de transport et construction et
+                    maintenir la signalisation en place jusqu à la fin de l activité;
+
+             3)     Être âgé d au moins 16 ans;
+
+             4)     Garder une attitude polie envers les automobilistes et les passagers des
+                    véhicules sollicités et s abstenir de faire preuve d'arrogance ou d'intimidation
+                    envers les personnes sollicitées, d'utiliser un langage grossier ou injurieux ou
+                    de proférer des menaces;
+
+             5)     Remettre à l automobiliste sollicité un billet de courtoisie ou un signet
+                    indiquant qu il a été sollicité;
+
+                                                                                 
                6)     Demeurer sur le trottoir, sur le terre-plein ou dans la zone de sécurité
                       délimitée au plan de signalisation;
 
-               7)     Ne pas circuler dans la rue ou au milieu des voitures;
+               7)     Porter une veste de sécurité avec bandes fluorescentes;
 
-               8)     Porter une veste de sécurité avec bandes fluorescentes;
+               8)     Solliciter les automobilistes ou leur passager seulement lorsque les véhicules
+                      sont complètement immobilisés au feu rouge ou au feu intermittent rouge;
 
-               9)     Solliciter les automobilistes ou leur passager seulement lorsque les véhicules
-                      sont complètement immobilisés au feu rouge ou au feu intermittent rouge.
-               (Ajouté par l art. 21 de 1-22 / Modifié par l art. 28 de 1-43)
+              9)      Respecter toute autre consigne de sécurité émise par un policier.
 
-5.7.66.12      Documents et rapports
+               (Ajouté par l art. 22 de 1-110)
 
-              La personne à qui une autorisation de barrage routier a été émise ou l'organisme sans
-              but lucratif au nom duquel l'activité de sollicitation a été autorisée doit fournir au
-              directeur de l arrondissement, dans les quinze (15) jours suivant la tenue de
+5.7.66.26      Documents et rapports
+
+              L organisme requérant qui a tenu une activité de barrage routier doit remettre au
+              directeur du Service de police, dans les trente (30) jours suivant la tenue de
               l activité, les rapports d'activités ou rapports financiers démontrant que l'activité de
-              sollicitation a été réalisée à des fins non lucratives et conformément aux
+              sollicitation a été réalisée à des fins non lucratives et que les dons sont destinés à la
+              communauté locale ou aux organismes locaux le tout, conformément aux
               dispositions du présent règlement.
-               (Ajouté par l art. 21 de 1-22)
+
+              (Ajouté par l art. 22 de 1-110)
 
 Sous-section 3 - Sollicitation par la tenue d'un lavethon extérieur
 
@@ -31892,63 +32188,63 @@ Sous-section 1 – Taux
 
                     IMMEUBLES NON RÉSIDENTIELS
 
-                        Ascot                                                                         2,1350
+                        Ascot                                                                         2,0688
 
-                        Brompton                                                                     2,1350
+                        Brompton                                                                      2,0688
 
-                        Canton de Brompton                                                           1,9450
+                        Canton de Brompton                                                            2,0538
 
-                        Deauville                                                                     2,1350
+                        Deauville                                                                     2,0688
 
-                        Fleurimont                                                                    2,1350
+                        Fleurimont                                                                    2,0688
 
-                        Lennoxville                                                                  2,1350
+                        Lennoxville                                                                   2,0688
 
-                        Rock Forest                                                                   2,1350
+                        Rock Forest                                                                   2,0688
 
-                        Saint-Élie                                                                    2,1350
+                        Saint-Élie                                                                    2 ,0688
 
-                        Sherbrooke                                                                    2,1350
+                        Sherbrooke                                                                    2,0688
 
-                        Stoke                                                                         2,1350
+                        Stoke                                                                         2,0688
 
                     IMMEUBLES INDUSTRIELS
 
-                        Ascot                                                                         2,7093
+                        Ascot                                                                         2,5734
 
-                        Brompton                                                                      2,7093
+                        Brompton                                                                      2,5734
 
-                        Canton de Brompton                                                            2,3061
+                        Canton de Brompton                                                            2,3719
 
-                        Deauville                                                                     2,7093
+                        Deauville                                                                     2,5734
 
-                        Fleurimont                                                                    2,7093
+                        Fleurimont                                                                    2,5734
 
-                        Lennoxville                                                                   2,7093
+                        Lennoxville                                                                   2,5734
 
-                        Rock Forest                                                                   2,7093
+                        Rock Forest                                                                   2,5734
 
-                        Saint-Élie                                                                    2,7093
+                        Saint-Élie                                                                    2,5734
 
-                        Sherbrooke                                                                    2,7093
+                        Sherbrooke                                                                    2,5734
 
-                        Stoke                                                                         2,7093
+                        Stoke                                                                         2,5734
 
-                    IMMEUBLES AGRICOLES                                                               0,9137
+                    IMMEUBLES AGRICOLES                                                               0,8771
 
-                    IMMEUBLES RÉSIDUELS                                                               0,9658
+                    IMMEUBLES RÉSIDUELS                                                               0,9540
 
-                    IMMEUBLES SIX (6) LOGEMENTS ET PLUS                                               0,9658
+                    IMMEUBLES SIX (6) LOGEMENTS ET PLUS                                               0,9540
 
-                    TERRAINS VAGUES DESSERVIS                                                         1,9316
+                    TERRAINS VAGUES DESSERVIS                                                         1,9080
 
                    (Modifié par l art. 1 de 1-8 / Modifié par l art. 15 de 1-9 / Modifié par l art. 30 de 1-21 / Modifié
                    par l art. 25 de 1-27 / Modifié par l art. 13 de 1-34 / Modifié par l art. 19 de 1-141 / Modifié par
                    l art. 20 de 1-49 / Modifié par l art. 15 de 1-57 / Modifié par l art. 12 de 1-67 / Modifié par l art.
                    39 de 1-72 / Modifié par l art. 20 de 1-80 / Modifié par l art. 25 de 1-89 / Modifié par l art. 38 de
-                   1-95 / Modifié par l art. 17 de 1-103)
+                   1-95 / Modifié par l art. 17 de 1-103 / Modifié par l art. 24 de 1-110)
 
-                                                                                                     7/1/2
+                                                                                                      7/1/2
 Sous-section 2 – Harmonisation
 (Ajoutée par l art. 15 de 1-9)
 
@@ -32018,16 +32314,16 @@ Sous-section 2 – Harmonisation
 
 7.1.2.3      (Ajouté par l art. 15 de 1-9 / Modifié par l art. 31 de 1-21 / Abrogé par l art. 26.1 de 1-27)
 
-7.1.2.4      Calcul du dégrèvement de l année 2015
+7.1.2.4      Calcul du dégrèvement de l année 2016
 
-             Pour calculer le dégrèvement de l année 2015, il faut utiliser le dégrèvement
+             Pour calculer le dégrèvement de l année 2016, il faut utiliser le dégrèvement
              initial révisé et soustraire 14,65 % du fardeau fiscal 2004. Si le résultat est négatif,
              il n y a aucun dégrèvement applicable.
-             (Ajouté par l art. 15 de 1-9 /    Modifié par l art. 31 de 1-21 /   Modifié par l art. 26.2   de   1-27   /
-             Modifié par l art. 15 de 1-34     / Modifié par l art. 20 de 1-41   / Modifié par l art. 21   de   1-49   /
-             Modifié par l art. 16 de 1-57     / Modifié par l art. 13 de 1-67   / Modifié par l art. 40   de   1-72   /
-             Modifié par l art. 21 de 1-80     / Modifié par l art. 26 de 1-89   / Modifié par l art. 39   de   1-95   /
-             Modifié par l art. 18 de 1-103)
+             (Ajouté par l art. 15 de 1-9 / Modifié par l art. 31 de 1-21 /     Modifié par l art. 26.2   de   1-27   /
+             Modifié par l art. 15 de 1-34 / Modifié par l art. 20 de 1-41      / Modifié par l art. 21   de   1-49   /
+             Modifié par l art. 16 de 1-57 / Modifié par l art. 13 de 1-67      / Modifié par l art. 40   de   1-72   /
+             Modifié par l art. 21 de 1-80 / Modifié par l art. 26 de 1-89      / Modifié par l art. 39   de   1-95   /
+             Modifié par l art. 18 de 1-103 / Modifié par l art. 25 de 1-110)
 
 7.1.2.5      (Ajouté par l art. 15 de 1-9 / Modifié par l art. 31 de 1-21 / Abrogé par l art. 26.3 de 1-27)
 
@@ -32068,7 +32364,7 @@ Sous-section 2 – Harmonisation
              continue d être utilisé pour calculer le dégrèvement annuel. Si l immeuble n est
              pas reconstruit dans un délai de 12 mois, il n y a plus de dégrèvement annuel.
 
-                                                                                                 7/1/4
+                                                                                                7/1/4
                    Si le code d imposition d un immeuble est modifié de façon à rendre imposable
                    un immeuble non imposable, le calcul du dégrèvement initial révisé ou du
                    supplément initial révisé se fait selon les dispositions de l article 7.1.2.2 et un
@@ -32083,22 +32379,23 @@ Sous-section 3 – Exigibilité, escompte et intérêt
 
 7.1.3              Exigibilité
 
-                   Pour l année 2015, ladite taxe est exigible en quatre (4) versements égaux payables
+                   Pour l année 2016, ladite taxe est exigible en quatre (4) versements égaux payables
                    de la façon suivante :
 
-                           1er versement                        3 mars 2015
+                           1er versement                        4 mars 2016
 
-                           2e versement                         4 mai 2015
+                           2e versement                         4 mai 2016
 
-                           3e versement                         3 juillet 2015
+                           3e versement                         4 juillet 2016
 
-                           4e versement                         3 septembre 2015
+                           4e versement                         6 septembre 2016
 
                    Lorsqu'un versement n'est pas fait dans le délai prévu, seul le montant du versement
                    échu devient exigible.
 
                    (Modifié par l art. 13 de 1-68 / Modifié par l art. 42 de 1-72 / Modifié par l art. 23 de 1-80 / Modifié
-                   par l art. 27 de 1-89 / Modifié par l art. 40 de 1-95 / Modifié par l art. 19 de 1-103)
+                   par l art. 27 de 1-89 / Modifié par l art. 40 de 1-95 / Modifié par l art. 19 de 1-103 / Modifié par l art.
+                   26 de 1-110)
 
 7.1.3.1            Escompte
 
@@ -32122,7 +32419,7 @@ Section 3 – Taxe foncière sur la dette
 
 7.1.7              (Abrogé par l art. 27 de 1-27)
 
-                                                                                                        7/1/5
+                                                                                                         7/1/5
 Section 3.1 – Base de calcul d un crédit de taxes foncières
 (Ajoutée par l art. 13 de 1-11 / Abrogée par l art. 28 de 1-89)
 
@@ -32184,31 +32481,31 @@ Section 4 - Compensation pour services municipaux
 7.1.11             Taux pour les terrains
 
                    Pour les terrains visés au paragraphe 12 de l'article 204 de la Loi sur la fiscalité
-                   municipale, la compensation est établie à neuf mille six cent cinquante-huit dixième
-                   de dollars ( 0,9658 $) par cent dollars (100,00 $) d'évaluation desdits terrains tels
-                   que portés au rôle d'évaluation de la Ville.
+                   municipale, la compensation est établie à neuf mille cinq cent quarante dixième de
+                   dollars (0,9540 $) par cent dollars (100,00 $) d'évaluation desdits terrains tels que
+                   portés au rôle d'évaluation de la Ville.
+
                    (Modifié par l art. 15 de 1-67 / Modifié par l art. 12 de 1-91 / Modifié par l art. 41 de 1-95 / Modifié
-                   par l art. 20 de 1-103)
+                   par l art. 20 de 1-103 / Modifié par l art. 27 de 1-110)
 
 7.1.12             Exigibilité
 
                    Ladite compensation est exigible selon les mêmes modalités que la taxe foncière
                    soit en quatre (4) versements égaux payables de la façon suivante :
 
-                           1er versement                       3 mars 2015
+                           1er versement                       4 mars 2016
 
-                           2e versement                        4 mai 2015
+                           2e versement                        4 mai 2016
 
-                           3e versement                        3 juillet 2015
+                           3e versement                        4 juillet 2016
 
-                           4e versement                        3 septembre 2015
+                           4e versement                        6 septembre 2016
 
                    Lorsqu'un versement n'est pas fait dans le délai prévu, seul le montant du versement
                    échu devient exigible.
-
                    (Modifié par l art. 15 de 1-67 / Modifié par l art. 14 de 1-68 / Modifié par l art. 43 de 1-72 / Modifié
                    par l art. 24 de 1-80 / Modifié par l art. 29 de 1-89 / Modifié par l art. 42 de 1-95 / Modifié par l art.
-                   21 de 1-103)
+                   21 de 1-103 / Modifié par l art. 27 de 1-110)
 
 7.1.12.1           Escompte
 
@@ -32252,7 +32549,7 @@ Sous-section 1 - Dispositions interprétatives
 
                     4)     Les mots « lot de coin » désignent tout lot situé à l'intersection de deux (2)
                            rues qui, à leur point de rencontre, forment un angle intérieur de moins de
-                           cent trente-cinq degrés (135 );
+                           cent trente-cinq degrés (135);
 
                     5)     Les mots « lot de coin irrégulier » désignent tout lot dont les deux (2) lignes
                            principales de construction ne se joignent pas à l'intérieur du lot;
@@ -32289,19 +32586,19 @@ Sous-section 2 - Imposition
                    La taxe spéciale d'amélioration locale est exigible en quatre (4) versements égaux
                    payables de la façon suivante :
 
-                           1er versement                       3 mars 2015
+                           1er versement                       4 mars 2016
 
-                           2e versement                        4 mai 2015
+                           2e versement                        4 mai 2016
 
-                           3e versement                        3 juillet 2015
+                           3e versement                        4 juillet 2016
 
-                           4e versement                        3 septembre 2015
+                           4e versement                        6 septembre 2016
 
                    Lorsqu'un versement n'est pas fait dans le délai prévu, seul le montant du versement
                    échu devient exigible.
                    (Ajouté par l art. 2 de 1-28 / Modifié par l art. 15 de 1-68 / Modifié par l art. 44 de 1-72 / Modifié par
                    l art. 25 de 1-80 / Modifié par l art. 30 de 1-89 / Modifié par l art. 43 de 1-95 / Modifié par l art. 22
-                   de 1-103)
+                   de 1-103 / Modifié par l art. 28 de 1-110)
 
                                                                                                         7/1/8
 7.1.16.1           Escompte
@@ -32575,52 +32872,52 @@ Sous-section 2 - Taux
 7.3.3         Logement de type résidentiel
 
               Tout logement de type résidentiel situé dans la Ville est assujetti à une taxe annuelle
-              fixe de 124,55 $.
+              fixe de 129,90 $.
 
               Tout immeuble de type résidentiel comportant cinq (5) logements et plus est
-              assujetti à une taxe annuelle fixe de 109,70 $ par logement.
+              assujetti à une taxe annuelle fixe de 114,40 $ par logement.
               (Modifié par l art. 17.2 de 1-9 / Modifié par l art. 18 de 1-34 / Modifié par l art. 26 de 1-41 /
               Modifié par l art. 18 de 1-57 / Modifié par l art. 19 de 1-67 / Modifié par l art. 45 de 1-72 /
               Modifié par l art. 26 de 1-80 / Modifié par l art. 31 de 1-89 / Modifié par l art. 44 de 1-95 /
-              Modifié par l art. 23 de 1-103)
+              Modifié par l art. 23 de 1-103 / Modifié par l art. 29 de 1-110)
 
                                                                                            7/3/2
 7.3.4          Logement de type commercial sans compteur
 
                Tout logement de type commercial dont la consommation d eau n est pas mesurée
-               par un compteur est assujetti à une taxe annuelle fixe de 124,55 $.
+               par un compteur est assujetti à une taxe annuelle fixe de 129,90 $.
 
                Tout immeuble de type commercial comportant cinq (5) logements et plus est
-               assujetti à une taxe annuelle fixe de 109,70 $ par logement.
+               assujetti à une taxe annuelle fixe de 114,40 $ par logement.
 
                (Modifié par l art. 17.2 de 1-9 / Modifié par l art. 18 de 1-34 / Modifié par l art. 26 de 1-41 / Modifié
                par l art. 18 de 1-57 / Modifié par l art. 19 de 1-67 / Modifié par l art. 45 de 1-72 / Modifié par l art.
                26 de 1-80 / Modifié par l art. 31 de 1-89 / Modifié par l art. 44 de 1-95 / Modifié par l art. 23 de
-               1-103)
+               1-103 / Modifié par l art. 29 de 1-110)
 
 7.3.5          Logement de type commercial avec compteur
 
                Tout logement de type commercial situé dans la Ville et dont la consommation
                d eau est mesurée par un compteur est assujetti au tarif suivant :
 
-               1)     Un tarif de base annuel de 37,25 $ est applicable à toute année durant
+               1)     Un tarif de base annuel de 38,85 $ est applicable à toute année durant
                       laquelle l immeuble est muni d un compteur d eau; plus
 
-               2)     Une compensation de 0,3678 $ par mètre cube d eau consommée.
+               2)     Une compensation de 0,3836 $ par mètre cube d eau consommée.
 
                (Modifié par l art. 17.2 de 1-9 / Modifié par l art. 16 de 1-11 / Modifié par l art. 18 de 1-34 / Modifié
                par l art. 26 de 1-41 / Modifié par l art. 18 de 1-57 / Modifié par l art. 19 de 1-67 / Modifié par l art.
                45 de 1-72 / Modifié par l art. 26 de 1-80 / Modifié par l art. 31 de 1-89 / Modifié par l art. 44 de
-               1-95 / Modifié par l art. 23 de 1-103)
+               1-95 / Modifié par l art. 23 de 1-103 / Modifié par l art. 29 de 1-110)
 
 7.3.6          Maison de chambres
 
                Toute maison de chambres située dans la Ville est assujettie à une taxe annuelle
-               fixe de 33,65 $ par chambre.
+               fixe de 35,10 $ par chambre.
                (Modifié par l art. 17.2 de 1-9 / Modifié par l art. 18 de 1-34 / Modifié par l art. 26 de 1-41 / Modifié
                par l art. 18 de 1-57 / Modifié par l art. 19 de 1-67 / Modifié par l art. 45 de 1-72 / Modifié par l art.
                26 de 1-80 / Modifié par l art. 31 de 1-89 / Modifié par l art. 44 de 1-95 / Modifié par l art. 23 de
-               1-103)
+               1-103 / Modifié par l art. 29 de 1-110)
 
 7.3.6.1        (Ajouté par l art. 17.2 de 1-9 / Modifié par l art. 17 de 1-11 / Abrogé par l art. 19 de 1-34)
 
@@ -32634,19 +32931,20 @@ Sous-section 3 - Exigibilité
               pas mesurée par compteur est exigible en quatre (4) versements égaux payables
               de la façon suivante :
 
-                      1er versement                        3 mars 2015
+                      1er versement                        4 mars 2016
 
-                      2e versement                         4 mai 2015
+                      2e versement                         4 mai 2016
 
-                      3e versement                         3 juillet 2015
+                      3e versement                         4 juillet 2016
 
-                      4e versement                         3 septembre 2015
+                      4e versement                         6 septembre 2016
 
                Lorsqu'un versement n'est pas fait dans le délai prévu, seul le montant du versement
                échu devient exigible.
                (Modifié par l art. 17.2 de 1-9 / Modifié par l art. 18 de 1-11 / Modifié par l art. 19 de 1-67 / Modifié
                par l art. 16 de 1-68 / Modifié par l art. 46 de 1-72 / Modifié par l art. 27 de 1-80 / Modifié par l art.
-               31 de 1-89 / Modifié par l art. 44 de 1-95 / Modifié par l art. 24 de 1-103)
+               31 de 1-89 / Modifié par l art. 44 de 1-95 / Modifié par l art. 24 de 1-103 / Modifié par l art. 29 de
+               1-110)
 
                                                                                                     7/3/3
 7.3.7.1        Escompte
@@ -32692,13 +32990,13 @@ Section 3 - Tarification de l'eau fournie à l'extérieur des limites de la Vill
 7.3.10         Tarif au compteur
 
                Le tarif du mètre cube d'eau fourni à l extérieur des limites de la Ville de
-               Sherbrooke est établi à un tarif de 0,3678 $ par mètre cube d eau.
+               Sherbrooke est établi à un tarif de 0,3836 $ par mètre cube d eau.
 
                Le nombre de mètre cube d'eau livré est mesuré par compteur(s).
-
                (Modifié par l art. 21 de 1-34 / Modifié par l art. 27 de 1-41 / Modifié par l art. 19 de 1-57 / Modifié
                par l art. 21 de 1-67 / Modifié par l art. 47 de 1-72 / Modifié par l art. 28 de 1-80 / Modifié par l art.
-               32 de 1-89 / Modifié par l art. 45 de 1-95 / Modifié par l art. 25 de 1-103)
+               32 de 1-89 / Modifié par l art. 45 de 1-95 / Modifié par l art. 25 de 1-103 / Modifié par l art. 30 de
+               1-110)
 
 7.3.11         Exigibilité
 
@@ -32736,48 +33034,48 @@ Sous-section 2 - Taux
 7.3.14        Logement de type résidentiel
 
               Tout logement de type résidentiel situé dans la Ville est assujetti à une taxe annuelle
-              fixe de 228,75 $.
+              fixe de 228,10 $.
 
               Tout immeuble de type résidentiel comportant cinq (5) logements et plus est
-              assujetti à une taxe annuelle fixe de 201,95 $ par logement.
+              assujetti à une taxe annuelle fixe de 201,40 $ par logement.
 
               (Modifié par l art. 17.3 de 1-9 / Modifié par l art. 35 de 1-21 / Modifié par l art. 22 de 1-34 / Modifié
               par l art. 28 de 1-41 / Modifié par l art. 20 de 1-57 / Modifié par l art. 22 de 1-67 / Modifié par l art.
               48 de 1-72 / Modifié par l art. 29 de 1-80 / Modifié par l art. 33 de 1-89 / Modifié par l art. 46 de
-              1-95 / Modifié par l art. 26 de 1-103)
+              1-95 / Modifié par l art. 26 de 1-103 / Modifié par l art. 31 de 1-110)
 
 7.3.15        Logement de type commercial sans compteur
 
               Tout logement de type commercial dont la consommation d eau n est pas mesurée
-              par un compteur est assujetti à une taxe annuelle fixe de 228,75 $.
+              par un compteur est assujetti à une taxe annuelle fixe de 228,10 $.
 
               Tout immeuble de type commercial comportant cinq (5) logements et plus est
-              assujetti à une taxe annuelle fixe de 201,95 $ par logement.
+              assujetti à une taxe annuelle fixe de 201,40 $ par logement.
 
               (Modifié par l art. 17.3 de 1-9 / Modifié par l art. 35 de 1-21 / Modifié par l art. 22 de 1-34 / Modifié
               par l art. 28 de 1-41 / Modifié par l art. 20 de 1-57 / Modifié par l art. 22 de 1-67 / Modifié par l art.
               48 de 1-72 / Modifié par l art. 29 de 1-80 / Modifié par l art. 33 de 1-89 / Modifié par l art. 46 de
-              1-95 / Modifié par l art. 26 de 1-103)
+              1-95 / Modifié par l art. 26 de 1-103 / Modifié par l art. 31 de 1-110)
 
 7.3.15.1      Logement de type commercial avec compteur
 
               Tout logement de type commercial situé dans la Ville et dont la consommation
-              d eau est mesurée par un compteur est assujetti à un tarif de 0,5086 $ par mètre
+              d eau est mesurée par un compteur est assujetti à un tarif de 0,5072 $ par mètre
               cube d eau mesurée.
               (Ajouté par l art. 17.3 de 1-9 / Modifié par l art. 22 de 1-34 / Modifié par l art. 28 de 1-41 /
               Modifié par l art. 20 de 1-57 / Modifié par l art. 22 de 1-67 / Modifié par l art. 48 de 1-72 /
               Modifié par l art. 29 de 1-80 / Modifié par l art. 33 de 1-89 / Modifié par l art. 46 de
-              1-95 / Modifié par l art. 26 de 1-103)
+              1-95 / Modifié par l art. 26 de 1-103 / Modifié par l art. 31 de 1-110)
 
                                                                                                    7/3/5
 7.3.15.2       Maison de chambres
 
                Toute maison de chambres située dans la Ville est assujettie à une taxe annuelle fixe
-               de 61,10 $ par chambre.
+               de 60,95 $ par chambre.
                (Ajouté par l art. 17.3 de 1-9 / Modifié par l art. 22 de 1-34 / Modifié par l art. 28 de 1-41 /
                Modifié par l art. 20 de 1-57 / Modifié par l art. 22 de 1-67 / Modifié par l art. 48 de 1-72 /
                Modifié par l art. 29 de 1-80 / Modifié par l art. 33 de 1-89 / Modifié par l art. 46 de
-               1-95 / Modifié par l art. 26 de 1-103)
+               1-95 / Modifié par l art. 26 de 1-103 / Modifié par l art. 31 de 1-110)
 
 7.3.16         Immeuble muni d une station de pompage pour un réseau d égout à basse
                pression
@@ -32788,28 +33086,28 @@ Sous-section 2 - Taux
                de cette station établie comme suit selon le nombre de logements raccordés au
                réseau :
 
-               -   1 logement :        45,00 $;
-               -   2 logements :       65,00 $;
-               -   3 logements :       85,00 $.
-               -   + 20,00 $ pour tout logement additionnel.
+               -   1 logement :        47,00 $;
+               -   2 logements :       67,75 $;
+               -   3 logements :       88,50 $.
+               -   + 20,75 $ pour tout logement additionnel.
 
                Ladite compensation allocatoire est appliquée sur le compte de taxes transmis
                annuellement par la Ville.
                (Modifié par l art. 17.3 de 1-9 / Modifié par l art. 19 de 1-11 / Modifié par l art. 22 de 1-34 /
                Modifié par l art. 29 de 1-41 / Modifié par l art. 29 de 1-80 / Modifié par l art. 46 de
-               1-95 / Modifié par l art. 26 de 1-103)
+               1-95 / Modifié par l art. 26 de 1-103 / Modifié par l art. 31 de 1-110)
 
 7.3.16.1       (Ajouté par l art. 13 de 1-7 / Modifié par l art. 18 de 1-9 / Abrogé par l art. 22 de 1-34)
 
 7.3.17         Exploitation d'une source d'eau souterraine
 
                Tout immeuble où est exploitée une source d'eau souterraine dans un secteur
-               desservi par le réseau d'égout municipal est assujetti à un tarif de 0,5071 $ le mètre
+               desservi par le réseau d'égout municipal est assujetti à un tarif de 0,5072 $ le mètre
                cube pour la quantité réelle d'eau captée de la source d'eau souterraine mesurée par
                compteur.
                (Modifié par l art. 30 de 1-41 / Modifié par l art. 23 de 1-67 / Modifié par l art. 49 de 1-72 / Modifié
                par l art. 30 de 1-80 / Modifié par l art. 34 de 1-89 / Modifié par l art. 46 de
-               1-95)
+               1-95 / Modifié par l art. 31 de 1-110)
 
 Sous-section 3 - Exigibilité
 
@@ -32818,21 +33116,21 @@ Sous-section 3 - Exigibilité
                La taxe annuelle fixe imposée aux logements et aux maisons de chambres est
                exigible en quatre (4) versements égaux payables de la façon suivante :
 
-                      1er versement                       3 mars 2015
+                      1er versement                        4 mars 2016
 
-                      2e versement                        4 mai 2015
+                      2e versement                         4 mai 2016
 
-                      3e versement                        3 juillet 2015
+                      3e versement                         4 juillet 2016
 
-                      4e versement                        3 septembre 2015
+                      4e versement                         6 septembre 2016
 
                Lorsqu'un versement n'est pas fait dans le délai prévu, seul le montant du versement
                échu devient exigible.
-
                (Modifié par l art. 17 de 1-68 / Modifié par l art. 50 de 1-72 / Modifié par l art. 30 de 1-80 / Modifié
-               par l art. 34 de 1-89 / Modifié par l art. 47 de 1-95 / Modifié par l art. 27 de 1-103)
+               par l art. 34 de 1-89 / Modifié par l art. 47 de 1-95 / Modifié par l art. 27 de 1-103 / Modifié par l art.
+               31 de 1-110)
 
-                                                                                                   7/3/6
+                                                                                                     7/3/6
 7.3.18.1          Escompte
 
                   Un escompte de 1 % est consenti aux contribuables qui acquittent le total de leur
@@ -32894,10 +33192,11 @@ Section 5 – Taxe d assainissement en milieu rural
 7.3.22             Taux
 
                    Tout logement, local ou logement équivalent d'une résidence isolée située dans la
-                   Ville est assujetti à une compensation de 71,55 $ par année.
+                   Ville est assujetti à une compensation de 72,65 $ par année.
                    (Abrogé par l art. 19 de 10 / Ajouté par l art. 8 de 1-14 / Modifié par l art. 32 de 1-41 / Modifié
                    par l art. 21 de 1-57 / Modifié par l art. 25 de 1-67 / Modifié par l art. 51 de 1-72 / Modifié par
-                   l art. 31 de 1-80 / Modifié par l art. 35 de 1-89 / Modifié par l art. 28 de 1-103)
+                   l art. 31 de 1-80 / Modifié par l art. 35 de 1-89 / Modifié par l art. 28 de 1-103 / Modifié par l art.
+                   32 de 1-110)
 
 7.3.23             Exigibilité
 
@@ -32905,20 +33204,18 @@ Section 5 – Taxe d assainissement en milieu rural
                    résidences isolées est exigible en quatre (4) versements égaux payables de la façon
                    suivante :
 
-                           1er versement                        3 mars 2015
+                           1er versement                        4 mars 2016
 
-                           2e versement                         4 mai 2015
+                           2e versement                         4 mai 2016
 
-                           3e versement                         3 juillet 2015
+                           3e versement                         4 juillet 2016
 
-                           4e versement                         3 septembre 2015
+                           4e versement                         6 septembre 2016
 
                    Chacun des versements échoit à la date où il est exigible.
-
-                   Lorsqu'un versement n'est pas fait dans le délai prévu, seul le montant du versement
-                   échu devient exigible.        (Abrogé par l art. 19 de 10 / Ajouté par l art. 8 de 1-14 / Modifié
-                   par l art. 19 de 1-68 / Modifié par l art. 51 de 1-72 / Modifié par l art. 31 de 1-80 / Modifié par
-                   l art. 35 de 1-89 / Modifié par l art. 48 de 1-95 / Modifié par l art. 28 de 1-103)
+                   (Abrogé par l art. 19 de 10 / Ajouté par l art. 8 de 1-14 / Modifié par l art. 19 de 1-68 / Modifié par
+                   l art. 51 de 1-72 / Modifié par l art. 31 de 1-80 / Modifié par l art. 35 de 1-89 / Modifié par l art.
+                   48 de 1-95 / Modifié par l art. 28 de 1-103 / Modifié par l art. 32 de 1-110)
 
 7.3.23.1           Escompte
 
@@ -33185,8 +33482,8 @@ CHAPITRE 5 – MONTANT QUE LA VILLE PEUT ENGAGER À DES FINS
 
              Pour les fins d application de la Loi sur les immeubles industriels municipaux
              (L.R.Q., chapitre I-0.1), la Ville peut dépenser ou engager pendant l exercice
-             financier 2015 un montant n excédant pas quatre millions deux cent mille dollars
-             (4 200 000,00 $) pour l acquisition de terrain, la construction ou l acquisition d un
+             financier 2016 un montant n excédant pas quatre millions deux cent mille dollars
+             (4 250 000,00 $) pour l acquisition de terrain, la construction ou l acquisition d un
              bâtiment industriel locatif, la transformation d un bâtiment industriel locatif, une
              subvention ou un cautionnement à un organisme à but non lucratif pour favoriser la
              construction d un immeuble industriel locatif ou la transformation d un bâtiment en
@@ -33197,7 +33494,7 @@ CHAPITRE 5 – MONTANT QUE LA VILLE PEUT ENGAGER À DES FINS
              l art. 34 de 1-27 / Modifié par l art. 25 de 1-34 / Modifié par l art. 38 de 1-41 / Modifié par l art. 23
              de 1-49 / Modifié par l art. 24 de 1-57 / Modifié par l art. 33 de 1-67 / Modifié par l art. 52 de 1-72 /
              Modifié par l art. 32 de 1-80 / Modifié par l art. 36 de 1-89 / Modifié par l art. 49 de 1-95 / Modifié
-             par l art. 29 de 1-103)
+             par l art. 29 de 1-103 / Modifié par l art. 33 de 1-110)
 
                                                                                                    7/5/1
 TITRE 7 - DISPOSITIONS FINANCIÈRES
@@ -33799,19 +34096,19 @@ Section 3 – Déclaration et droits payables par les exploitants de carrière e
 
 7.6.3.8      Tarif exigible
 
-             Pour l exercice financier municipal 2015, le droit payable par l exploitant pour
+             Pour l exercice financier municipal 2016, le droit payable par l exploitant pour
              toute substance assujettie est le suivant :
 
-             -        Par tonne métrique :                                                          0,55 $
-             -        Par mètre cube (sauf pour la pierre de taille):                               1,05 $
-             -        Par mètre cube pour la pierre de taille :                                     1,49 $
+             -        Par tonne métrique :                                                          0,56 $
+             -        Par mètre cube (sauf pour la pierre de taille):                               1,06 $
+             -        Par mètre cube pour la pierre de taille :                                     1,51 $
 
              Le montant du droit payable est indexé annuellement suivant le taux
              d augmentation décrété par le ministre des Affaires municipales, des Régions et de
              l Occupation du territoire publié dans la Gazette officielle du Québec.
              (Ajouté par l art. 1 de 1-58 / Modifié par l art. 39 de 1-67 / Modifié par l art. 54 de 1-72 / Modifié par
              l art. 34 de 1-80 / Modifié par l art. 39 de 1-89 / Modifié par l art. 52 de 1-95 / Modifié par l art. 32
-             de 1-103)
+             de 1-103 / Modifié par l art. 37 de 1-110)
 
 7.6.3.9      Déclaration de l exploitant
 
@@ -33819,13 +34116,13 @@ Section 3 – Déclaration et droits payables par les exploitants de carrière e
              moyen du formulaire de déclaration fourni à cet effet par le Service des finances
              de la Ville, déclarer :
 
-             1)      si des substances provenant du site et à l égard desquelles un droit est
-                     payable sont susceptibles de transiter par les chemins publics municipaux
-                     durant la période couverte par la déclaration;
+             1)       si des substances provenant du site et à l égard desquelles un droit est
+                      payable sont susceptibles de transiter par les chemins publics municipaux
+                      durant la période couverte par la déclaration;
 
-             2)      la quantité des substances assujetties exprimée en tonnes métriques ou en
-                     mètres cubes qui ont été transportées hors du site durant la période
-                     couverte par la déclaration, le cas échéant.
+             2)       la quantité des substances assujetties exprimée en tonnes métriques ou en
+                      mètres cubes qui ont été transportées hors du site durant la période
+                      couverte par la déclaration, le cas échéant.
 
              L exploitant doit produire sa déclaration au plus tard aux dates suivantes :
 
@@ -38499,8 +38796,9 @@ Sous-section 2 - Permis
 
 7.9.27             Révocation du permis
 
-                   Le chef de la Division revenus du Service des finances peut révoquer en tout
-                   temps un permis de location de chambre si le requérant cesse de satisfaire aux
+                   Le chef de la Division urbanisme, permis et inspection du Service de la
+                   planification et du développement urbain ou son représentant peut révoquer en
+                   tout temps un permis de location de chambre si le requérant cesse de satisfaire aux
                    conditions d émission de ce permis ou si lui ou un de ses chambreurs contrevient
                    à un minimum de deux reprises à l une ou l autre des dispositions du Chapitre 7
                    – Nuisances ou du Chapitre 8 – Prévention contre les incendies du Titre 5 –
@@ -38516,10 +38814,9 @@ Sous-section 2 - Permis
                    2)     avoir informé celui-ci, le cas échéant, de la teneur des plaintes et
                           oppositions qui le concernent;
 
-                   3)     lui avoir donné l'occasion de présenter ses observations et, s'il y a lieu, de
-                          produire des documents pour compléter son dossier.
-
-                   (Ajouté par l art. 13 de 1-94 / Modifié par l art. 73 de 1-104)
+                   3)   lui avoir donné l'occasion de présenter ses observations et, s'il y a lieu, de
+                   produire des documents pour compléter son dossier.
+                   (Ajouté par l art. 13 de 1-94 / Modifié par l art. 73 de 1-104 / Modifié par l art. 46 de 1-110)
 
 7.9.28             Affichage du permis
 
@@ -38540,7 +38837,7 @@ Sous-section 3 – Autres dispositions
 
                    (Ajouté par l art. 13 de 1-94)
 
-                                                                                      7/9/8
+                                                                                                       7/9/8
 7.9.30             Infraction – Titulaire du permis
 
                   Commet une infraction tout titulaire d un permis de location de chambre émis en
@@ -38694,16 +38991,17 @@ Sous-section 2 - Permis
 
 7.9.32.9     Révocation du permis
 
-             Le chef de la Division revenus du Service des finances peut révoquer en tout
-             temps un permis de location de résidence si le requérant cesse de satisfaire aux
-             conditions d émission de ce permis ou si lui ou un de ses locataires contrevient à
-             un minimum de deux reprises à l une ou l autre des dispositions du Chapitre 7 –
-             Nuisances ou du Chapitre 8 – Prévention contre les incendies du Titre 5 –
-             Protection de la personne ou de la propriété du présent règlement en regard de
-             l immeuble faisant l objet du permis de location de résidence.
+             Le chef de la Division urbanisme, permis et inspection du Service de la
+             planification et du développement urbain ou son représentant peut révoquer en
+             tout temps un permis de location de résidence si le requérant cesse de satisfaire
+             aux conditions d émission de ce permis ou si lui ou un de ses locataires
+             contrevient à un minimum de deux reprises à l une ou l autre des dispositions du
+             Chapitre 7 – Nuisances ou du Chapitre 8 – Prévention contre les incendies du
+             Titre 5 – Protection de la personne ou de la propriété du présent règlement en
+             regard de l immeuble faisant l objet du permis de location de résidence.
 
-             Le chef de la Division revenus du Service des finances ne peut révoquer un
-             permis de location de résidence sans, au préalable :
+             Le chef de la Division revenus du Service des finances ne peut révoquer un permis
+             de location de résidence sans, au préalable :
 
              1)     avoir informé le titulaire de son intention ainsi que des motifs sur lesquels
                     celle-ci est fondée;
@@ -38713,8 +39011,7 @@ Sous-section 2 - Permis
 
              3)     lui avoir donné l'occasion de présenter ses observations et, s'il y a lieu, de
                     produire des documents pour compléter son dossier.
-
-             (Ajouté par l art. 14 de 1-94 / Modifié par l art. 75 de 1-104)
+             (Ajouté par l art. 14 de 1-94 / Modifié par l art. 75 de 1-104 / Modifié par l art. 47 de 1-110)
 
 7.9.32.10    Affichage du permis
 
@@ -38723,7 +39020,7 @@ Sous-section 2 - Permis
              chemin public.
              (Ajouté par l art. 14 de 1-94)
 
-                                                                                 
+                                                                                                 
 Sous-section 3 – Autres dispositions
 (Ajoutée par l art. 14 de 1-94)
 
