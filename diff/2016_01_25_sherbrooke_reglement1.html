@@ -1,0 +1,1451 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<style type="text/css">
+.ef0,.f0 { color: #000000; } .eb0,.b0 { background-color: #000000; }
+.ef1,.f1 { color: #AA0000; } .eb1,.b1 { background-color: #AA0000; }
+.ef2,.f2 { color: #00AA00; } .eb2,.b2 { background-color: #00AA00; }
+.ef3,.f3 { color: #AA5500; } .eb3,.b3 { background-color: #AA5500; }
+.ef4,.f4 { color: #0000AA; } .eb4,.b4 { background-color: #0000AA; }
+.ef5,.f5 { color: #AA00AA; } .eb5,.b5 { background-color: #AA00AA; }
+.ef6,.f6 { color: #00AAAA; } .eb6,.b6 { background-color: #00AAAA; }
+.ef7,.f7 { color: #AAAAAA; } .eb7,.b7 { background-color: #AAAAAA; }
+.ef8, .f0 > .bold,.bold > .f0 { color: #555555; font-weight: normal; }
+.ef9, .f1 > .bold,.bold > .f1 { color: #FF5555; font-weight: normal; }
+.ef10,.f2 > .bold,.bold > .f2 { color: #55FF55; font-weight: normal; }
+.ef11,.f3 > .bold,.bold > .f3 { color: #FFFF55; font-weight: normal; }
+.ef12,.f4 > .bold,.bold > .f4 { color: #5555FF; font-weight: normal; }
+.ef13,.f5 > .bold,.bold > .f5 { color: #FF55FF; font-weight: normal; }
+.ef14,.f6 > .bold,.bold > .f6 { color: #55FFFF; font-weight: normal; }
+.ef15,.f7 > .bold,.bold > .f7 { color: #FFFFFF; font-weight: normal; }
+.eb8  { background-color: #555555; }
+.eb9  { background-color: #FF5555; }
+.eb10 { background-color: #55FF55; }
+.eb11 { background-color: #FFFF55; }
+.eb12 { background-color: #5555FF; }
+.eb13 { background-color: #FF55FF; }
+.eb14 { background-color: #55FFFF; }
+.eb15 { background-color: #FFFFFF; }
+.ef16 { color: #000000; } .eb16 { background-color: #000000; }
+.ef17 { color: #00005f; } .eb17 { background-color: #00005f; }
+.ef18 { color: #000087; } .eb18 { background-color: #000087; }
+.ef19 { color: #0000af; } .eb19 { background-color: #0000af; }
+.ef20 { color: #0000d7; } .eb20 { background-color: #0000d7; }
+.ef21 { color: #0000ff; } .eb21 { background-color: #0000ff; }
+.ef22 { color: #005f00; } .eb22 { background-color: #005f00; }
+.ef23 { color: #005f5f; } .eb23 { background-color: #005f5f; }
+.ef24 { color: #005f87; } .eb24 { background-color: #005f87; }
+.ef25 { color: #005faf; } .eb25 { background-color: #005faf; }
+.ef26 { color: #005fd7; } .eb26 { background-color: #005fd7; }
+.ef27 { color: #005fff; } .eb27 { background-color: #005fff; }
+.ef28 { color: #008700; } .eb28 { background-color: #008700; }
+.ef29 { color: #00875f; } .eb29 { background-color: #00875f; }
+.ef30 { color: #008787; } .eb30 { background-color: #008787; }
+.ef31 { color: #0087af; } .eb31 { background-color: #0087af; }
+.ef32 { color: #0087d7; } .eb32 { background-color: #0087d7; }
+.ef33 { color: #0087ff; } .eb33 { background-color: #0087ff; }
+.ef34 { color: #00af00; } .eb34 { background-color: #00af00; }
+.ef35 { color: #00af5f; } .eb35 { background-color: #00af5f; }
+.ef36 { color: #00af87; } .eb36 { background-color: #00af87; }
+.ef37 { color: #00afaf; } .eb37 { background-color: #00afaf; }
+.ef38 { color: #00afd7; } .eb38 { background-color: #00afd7; }
+.ef39 { color: #00afff; } .eb39 { background-color: #00afff; }
+.ef40 { color: #00d700; } .eb40 { background-color: #00d700; }
+.ef41 { color: #00d75f; } .eb41 { background-color: #00d75f; }
+.ef42 { color: #00d787; } .eb42 { background-color: #00d787; }
+.ef43 { color: #00d7af; } .eb43 { background-color: #00d7af; }
+.ef44 { color: #00d7d7; } .eb44 { background-color: #00d7d7; }
+.ef45 { color: #00d7ff; } .eb45 { background-color: #00d7ff; }
+.ef46 { color: #00ff00; } .eb46 { background-color: #00ff00; }
+.ef47 { color: #00ff5f; } .eb47 { background-color: #00ff5f; }
+.ef48 { color: #00ff87; } .eb48 { background-color: #00ff87; }
+.ef49 { color: #00ffaf; } .eb49 { background-color: #00ffaf; }
+.ef50 { color: #00ffd7; } .eb50 { background-color: #00ffd7; }
+.ef51 { color: #00ffff; } .eb51 { background-color: #00ffff; }
+.ef52 { color: #5f0000; } .eb52 { background-color: #5f0000; }
+.ef53 { color: #5f005f; } .eb53 { background-color: #5f005f; }
+.ef54 { color: #5f0087; } .eb54 { background-color: #5f0087; }
+.ef55 { color: #5f00af; } .eb55 { background-color: #5f00af; }
+.ef56 { color: #5f00d7; } .eb56 { background-color: #5f00d7; }
+.ef57 { color: #5f00ff; } .eb57 { background-color: #5f00ff; }
+.ef58 { color: #5f5f00; } .eb58 { background-color: #5f5f00; }
+.ef59 { color: #5f5f5f; } .eb59 { background-color: #5f5f5f; }
+.ef60 { color: #5f5f87; } .eb60 { background-color: #5f5f87; }
+.ef61 { color: #5f5faf; } .eb61 { background-color: #5f5faf; }
+.ef62 { color: #5f5fd7; } .eb62 { background-color: #5f5fd7; }
+.ef63 { color: #5f5fff; } .eb63 { background-color: #5f5fff; }
+.ef64 { color: #5f8700; } .eb64 { background-color: #5f8700; }
+.ef65 { color: #5f875f; } .eb65 { background-color: #5f875f; }
+.ef66 { color: #5f8787; } .eb66 { background-color: #5f8787; }
+.ef67 { color: #5f87af; } .eb67 { background-color: #5f87af; }
+.ef68 { color: #5f87d7; } .eb68 { background-color: #5f87d7; }
+.ef69 { color: #5f87ff; } .eb69 { background-color: #5f87ff; }
+.ef70 { color: #5faf00; } .eb70 { background-color: #5faf00; }
+.ef71 { color: #5faf5f; } .eb71 { background-color: #5faf5f; }
+.ef72 { color: #5faf87; } .eb72 { background-color: #5faf87; }
+.ef73 { color: #5fafaf; } .eb73 { background-color: #5fafaf; }
+.ef74 { color: #5fafd7; } .eb74 { background-color: #5fafd7; }
+.ef75 { color: #5fafff; } .eb75 { background-color: #5fafff; }
+.ef76 { color: #5fd700; } .eb76 { background-color: #5fd700; }
+.ef77 { color: #5fd75f; } .eb77 { background-color: #5fd75f; }
+.ef78 { color: #5fd787; } .eb78 { background-color: #5fd787; }
+.ef79 { color: #5fd7af; } .eb79 { background-color: #5fd7af; }
+.ef80 { color: #5fd7d7; } .eb80 { background-color: #5fd7d7; }
+.ef81 { color: #5fd7ff; } .eb81 { background-color: #5fd7ff; }
+.ef82 { color: #5fff00; } .eb82 { background-color: #5fff00; }
+.ef83 { color: #5fff5f; } .eb83 { background-color: #5fff5f; }
+.ef84 { color: #5fff87; } .eb84 { background-color: #5fff87; }
+.ef85 { color: #5fffaf; } .eb85 { background-color: #5fffaf; }
+.ef86 { color: #5fffd7; } .eb86 { background-color: #5fffd7; }
+.ef87 { color: #5fffff; } .eb87 { background-color: #5fffff; }
+.ef88 { color: #870000; } .eb88 { background-color: #870000; }
+.ef89 { color: #87005f; } .eb89 { background-color: #87005f; }
+.ef90 { color: #870087; } .eb90 { background-color: #870087; }
+.ef91 { color: #8700af; } .eb91 { background-color: #8700af; }
+.ef92 { color: #8700d7; } .eb92 { background-color: #8700d7; }
+.ef93 { color: #8700ff; } .eb93 { background-color: #8700ff; }
+.ef94 { color: #875f00; } .eb94 { background-color: #875f00; }
+.ef95 { color: #875f5f; } .eb95 { background-color: #875f5f; }
+.ef96 { color: #875f87; } .eb96 { background-color: #875f87; }
+.ef97 { color: #875faf; } .eb97 { background-color: #875faf; }
+.ef98 { color: #875fd7; } .eb98 { background-color: #875fd7; }
+.ef99 { color: #875fff; } .eb99 { background-color: #875fff; }
+.ef100 { color: #878700; } .eb100 { background-color: #878700; }
+.ef101 { color: #87875f; } .eb101 { background-color: #87875f; }
+.ef102 { color: #878787; } .eb102 { background-color: #878787; }
+.ef103 { color: #8787af; } .eb103 { background-color: #8787af; }
+.ef104 { color: #8787d7; } .eb104 { background-color: #8787d7; }
+.ef105 { color: #8787ff; } .eb105 { background-color: #8787ff; }
+.ef106 { color: #87af00; } .eb106 { background-color: #87af00; }
+.ef107 { color: #87af5f; } .eb107 { background-color: #87af5f; }
+.ef108 { color: #87af87; } .eb108 { background-color: #87af87; }
+.ef109 { color: #87afaf; } .eb109 { background-color: #87afaf; }
+.ef110 { color: #87afd7; } .eb110 { background-color: #87afd7; }
+.ef111 { color: #87afff; } .eb111 { background-color: #87afff; }
+.ef112 { color: #87d700; } .eb112 { background-color: #87d700; }
+.ef113 { color: #87d75f; } .eb113 { background-color: #87d75f; }
+.ef114 { color: #87d787; } .eb114 { background-color: #87d787; }
+.ef115 { color: #87d7af; } .eb115 { background-color: #87d7af; }
+.ef116 { color: #87d7d7; } .eb116 { background-color: #87d7d7; }
+.ef117 { color: #87d7ff; } .eb117 { background-color: #87d7ff; }
+.ef118 { color: #87ff00; } .eb118 { background-color: #87ff00; }
+.ef119 { color: #87ff5f; } .eb119 { background-color: #87ff5f; }
+.ef120 { color: #87ff87; } .eb120 { background-color: #87ff87; }
+.ef121 { color: #87ffaf; } .eb121 { background-color: #87ffaf; }
+.ef122 { color: #87ffd7; } .eb122 { background-color: #87ffd7; }
+.ef123 { color: #87ffff; } .eb123 { background-color: #87ffff; }
+.ef124 { color: #af0000; } .eb124 { background-color: #af0000; }
+.ef125 { color: #af005f; } .eb125 { background-color: #af005f; }
+.ef126 { color: #af0087; } .eb126 { background-color: #af0087; }
+.ef127 { color: #af00af; } .eb127 { background-color: #af00af; }
+.ef128 { color: #af00d7; } .eb128 { background-color: #af00d7; }
+.ef129 { color: #af00ff; } .eb129 { background-color: #af00ff; }
+.ef130 { color: #af5f00; } .eb130 { background-color: #af5f00; }
+.ef131 { color: #af5f5f; } .eb131 { background-color: #af5f5f; }
+.ef132 { color: #af5f87; } .eb132 { background-color: #af5f87; }
+.ef133 { color: #af5faf; } .eb133 { background-color: #af5faf; }
+.ef134 { color: #af5fd7; } .eb134 { background-color: #af5fd7; }
+.ef135 { color: #af5fff; } .eb135 { background-color: #af5fff; }
+.ef136 { color: #af8700; } .eb136 { background-color: #af8700; }
+.ef137 { color: #af875f; } .eb137 { background-color: #af875f; }
+.ef138 { color: #af8787; } .eb138 { background-color: #af8787; }
+.ef139 { color: #af87af; } .eb139 { background-color: #af87af; }
+.ef140 { color: #af87d7; } .eb140 { background-color: #af87d7; }
+.ef141 { color: #af87ff; } .eb141 { background-color: #af87ff; }
+.ef142 { color: #afaf00; } .eb142 { background-color: #afaf00; }
+.ef143 { color: #afaf5f; } .eb143 { background-color: #afaf5f; }
+.ef144 { color: #afaf87; } .eb144 { background-color: #afaf87; }
+.ef145 { color: #afafaf; } .eb145 { background-color: #afafaf; }
+.ef146 { color: #afafd7; } .eb146 { background-color: #afafd7; }
+.ef147 { color: #afafff; } .eb147 { background-color: #afafff; }
+.ef148 { color: #afd700; } .eb148 { background-color: #afd700; }
+.ef149 { color: #afd75f; } .eb149 { background-color: #afd75f; }
+.ef150 { color: #afd787; } .eb150 { background-color: #afd787; }
+.ef151 { color: #afd7af; } .eb151 { background-color: #afd7af; }
+.ef152 { color: #afd7d7; } .eb152 { background-color: #afd7d7; }
+.ef153 { color: #afd7ff; } .eb153 { background-color: #afd7ff; }
+.ef154 { color: #afff00; } .eb154 { background-color: #afff00; }
+.ef155 { color: #afff5f; } .eb155 { background-color: #afff5f; }
+.ef156 { color: #afff87; } .eb156 { background-color: #afff87; }
+.ef157 { color: #afffaf; } .eb157 { background-color: #afffaf; }
+.ef158 { color: #afffd7; } .eb158 { background-color: #afffd7; }
+.ef159 { color: #afffff; } .eb159 { background-color: #afffff; }
+.ef160 { color: #d70000; } .eb160 { background-color: #d70000; }
+.ef161 { color: #d7005f; } .eb161 { background-color: #d7005f; }
+.ef162 { color: #d70087; } .eb162 { background-color: #d70087; }
+.ef163 { color: #d700af; } .eb163 { background-color: #d700af; }
+.ef164 { color: #d700d7; } .eb164 { background-color: #d700d7; }
+.ef165 { color: #d700ff; } .eb165 { background-color: #d700ff; }
+.ef166 { color: #d75f00; } .eb166 { background-color: #d75f00; }
+.ef167 { color: #d75f5f; } .eb167 { background-color: #d75f5f; }
+.ef168 { color: #d75f87; } .eb168 { background-color: #d75f87; }
+.ef169 { color: #d75faf; } .eb169 { background-color: #d75faf; }
+.ef170 { color: #d75fd7; } .eb170 { background-color: #d75fd7; }
+.ef171 { color: #d75fff; } .eb171 { background-color: #d75fff; }
+.ef172 { color: #d78700; } .eb172 { background-color: #d78700; }
+.ef173 { color: #d7875f; } .eb173 { background-color: #d7875f; }
+.ef174 { color: #d78787; } .eb174 { background-color: #d78787; }
+.ef175 { color: #d787af; } .eb175 { background-color: #d787af; }
+.ef176 { color: #d787d7; } .eb176 { background-color: #d787d7; }
+.ef177 { color: #d787ff; } .eb177 { background-color: #d787ff; }
+.ef178 { color: #d7af00; } .eb178 { background-color: #d7af00; }
+.ef179 { color: #d7af5f; } .eb179 { background-color: #d7af5f; }
+.ef180 { color: #d7af87; } .eb180 { background-color: #d7af87; }
+.ef181 { color: #d7afaf; } .eb181 { background-color: #d7afaf; }
+.ef182 { color: #d7afd7; } .eb182 { background-color: #d7afd7; }
+.ef183 { color: #d7afff; } .eb183 { background-color: #d7afff; }
+.ef184 { color: #d7d700; } .eb184 { background-color: #d7d700; }
+.ef185 { color: #d7d75f; } .eb185 { background-color: #d7d75f; }
+.ef186 { color: #d7d787; } .eb186 { background-color: #d7d787; }
+.ef187 { color: #d7d7af; } .eb187 { background-color: #d7d7af; }
+.ef188 { color: #d7d7d7; } .eb188 { background-color: #d7d7d7; }
+.ef189 { color: #d7d7ff; } .eb189 { background-color: #d7d7ff; }
+.ef190 { color: #d7ff00; } .eb190 { background-color: #d7ff00; }
+.ef191 { color: #d7ff5f; } .eb191 { background-color: #d7ff5f; }
+.ef192 { color: #d7ff87; } .eb192 { background-color: #d7ff87; }
+.ef193 { color: #d7ffaf; } .eb193 { background-color: #d7ffaf; }
+.ef194 { color: #d7ffd7; } .eb194 { background-color: #d7ffd7; }
+.ef195 { color: #d7ffff; } .eb195 { background-color: #d7ffff; }
+.ef196 { color: #ff0000; } .eb196 { background-color: #ff0000; }
+.ef197 { color: #ff005f; } .eb197 { background-color: #ff005f; }
+.ef198 { color: #ff0087; } .eb198 { background-color: #ff0087; }
+.ef199 { color: #ff00af; } .eb199 { background-color: #ff00af; }
+.ef200 { color: #ff00d7; } .eb200 { background-color: #ff00d7; }
+.ef201 { color: #ff00ff; } .eb201 { background-color: #ff00ff; }
+.ef202 { color: #ff5f00; } .eb202 { background-color: #ff5f00; }
+.ef203 { color: #ff5f5f; } .eb203 { background-color: #ff5f5f; }
+.ef204 { color: #ff5f87; } .eb204 { background-color: #ff5f87; }
+.ef205 { color: #ff5faf; } .eb205 { background-color: #ff5faf; }
+.ef206 { color: #ff5fd7; } .eb206 { background-color: #ff5fd7; }
+.ef207 { color: #ff5fff; } .eb207 { background-color: #ff5fff; }
+.ef208 { color: #ff8700; } .eb208 { background-color: #ff8700; }
+.ef209 { color: #ff875f; } .eb209 { background-color: #ff875f; }
+.ef210 { color: #ff8787; } .eb210 { background-color: #ff8787; }
+.ef211 { color: #ff87af; } .eb211 { background-color: #ff87af; }
+.ef212 { color: #ff87d7; } .eb212 { background-color: #ff87d7; }
+.ef213 { color: #ff87ff; } .eb213 { background-color: #ff87ff; }
+.ef214 { color: #ffaf00; } .eb214 { background-color: #ffaf00; }
+.ef215 { color: #ffaf5f; } .eb215 { background-color: #ffaf5f; }
+.ef216 { color: #ffaf87; } .eb216 { background-color: #ffaf87; }
+.ef217 { color: #ffafaf; } .eb217 { background-color: #ffafaf; }
+.ef218 { color: #ffafd7; } .eb218 { background-color: #ffafd7; }
+.ef219 { color: #ffafff; } .eb219 { background-color: #ffafff; }
+.ef220 { color: #ffd700; } .eb220 { background-color: #ffd700; }
+.ef221 { color: #ffd75f; } .eb221 { background-color: #ffd75f; }
+.ef222 { color: #ffd787; } .eb222 { background-color: #ffd787; }
+.ef223 { color: #ffd7af; } .eb223 { background-color: #ffd7af; }
+.ef224 { color: #ffd7d7; } .eb224 { background-color: #ffd7d7; }
+.ef225 { color: #ffd7ff; } .eb225 { background-color: #ffd7ff; }
+.ef226 { color: #ffff00; } .eb226 { background-color: #ffff00; }
+.ef227 { color: #ffff5f; } .eb227 { background-color: #ffff5f; }
+.ef228 { color: #ffff87; } .eb228 { background-color: #ffff87; }
+.ef229 { color: #ffffaf; } .eb229 { background-color: #ffffaf; }
+.ef230 { color: #ffffd7; } .eb230 { background-color: #ffffd7; }
+.ef231 { color: #ffffff; } .eb231 { background-color: #ffffff; }
+.ef232 { color: #080808; } .eb232 { background-color: #080808; }
+.ef233 { color: #121212; } .eb233 { background-color: #121212; }
+.ef234 { color: #1c1c1c; } .eb234 { background-color: #1c1c1c; }
+.ef235 { color: #262626; } .eb235 { background-color: #262626; }
+.ef236 { color: #303030; } .eb236 { background-color: #303030; }
+.ef237 { color: #3a3a3a; } .eb237 { background-color: #3a3a3a; }
+.ef238 { color: #444444; } .eb238 { background-color: #444444; }
+.ef239 { color: #4e4e4e; } .eb239 { background-color: #4e4e4e; }
+.ef240 { color: #585858; } .eb240 { background-color: #585858; }
+.ef241 { color: #626262; } .eb241 { background-color: #626262; }
+.ef242 { color: #6c6c6c; } .eb242 { background-color: #6c6c6c; }
+.ef243 { color: #767676; } .eb243 { background-color: #767676; }
+.ef244 { color: #808080; } .eb244 { background-color: #808080; }
+.ef245 { color: #8a8a8a; } .eb245 { background-color: #8a8a8a; }
+.ef246 { color: #949494; } .eb246 { background-color: #949494; }
+.ef247 { color: #9e9e9e; } .eb247 { background-color: #9e9e9e; }
+.ef248 { color: #a8a8a8; } .eb248 { background-color: #a8a8a8; }
+.ef249 { color: #b2b2b2; } .eb249 { background-color: #b2b2b2; }
+.ef250 { color: #bcbcbc; } .eb250 { background-color: #bcbcbc; }
+.ef251 { color: #c6c6c6; } .eb251 { background-color: #c6c6c6; }
+.ef252 { color: #d0d0d0; } .eb252 { background-color: #d0d0d0; }
+.ef253 { color: #dadada; } .eb253 { background-color: #dadada; }
+.ef254 { color: #e4e4e4; } .eb254 { background-color: #e4e4e4; }
+.ef255 { color: #eeeeee; } .eb255 { background-color: #eeeeee; }
+
+.f9 { color: #000000; }
+.b9 { background-color: #FFFFFF; }
+.f9 > .bold,.bold > .f9, body.f9 > pre > .bold {
+  /* Bold is heavy black on white, or bright white
+     depending on the default background */
+  color: #000000;
+  font-weight: bold;
+}
+.reverse {
+  /* CSS does not support swapping fg and bg colours unfortunately,
+     so just hardcode something that will look OK on all backgrounds. */
+  color: #000000; background-color: #AAAAAA;
+}
+.underline { text-decoration: underline; }
+.line-through { text-decoration: line-through; }
+.blink { text-decoration: blink; }
+
+</style>
+</head>
+
+<body class="f9 b9">
+<pre>
+<span class="bold">diff --git a/texte/sherbrooke_reglement1.txt b/texte/sherbrooke_reglement1.txt</span>
+<span class="bold">index 9ed1c6e..3fd87f8 100644</span>
+<span class="bold">--- a/texte/sherbrooke_reglement1.txt</span>
+<span class="bold">+++ b/texte/sherbrooke_reglement1.txt</span>
+<span class="f6">@@ -239,6 +239,21 @@</span> Chapitre 5. Bibliothèques municipales .........................................
+
+     Section 3.           Dispositions pénales ................................................................................... 
+
+<span class="f2">{+Chapitre 6. Infractions aux règlements municipaux............................................................ 4/6/1+}</span>
+
+<span class="f2">{+     Section 1.           Définitions ..................................................................................................... 4/6/1+}
+</span>
+<span class="f2">{+     Section 2.           Dispositions générales .................................................................................. 4/6/1+}</span>
+
+<span class="f2">{+     Section 3.           Les personnes pouvant commettre des infractions à des règlements ........... 4/6/2+}</span>
+
+<span class="f2">{+     Section 4.           Les moyens employés pour commettre l infraction ..................................... 4/6/3+}</span>
+
+<span class="f2">{+     Section 5.           Délivrance de constats d infraction .............................................................. 4/6/4+}</span>
+
+<span class="f2">{+     Section 6.           Dispositions diverses .................................................................................... 4/6/5+}</span>
+
+ 
+TITRE 5- PROTECTION DE LA PERSONNE ET DE LA PROPRIÉTÉ
+
+Chapitre 1. Circulation ............................................................................................................ 5/1/1
+<span class="f6">@@ -835,6 +851,8 @@</span> Chapitre 7. Tarification ponctuelle ............................................
+
+     Section 11. Service des affaires juridiques .................................................................... 
+
+     <span class="f2">{+Section 12. Centre de foires ...........................................................................................+}</span> 
+
+Chapitre 8. Activités commerciales ........................................................................................ 7/8/1
+
+     Section 1.         Dispositions interprétatives .......................................................................... 7/8/1
+<span class="f6">@@ -899,6 +918,12 @@</span> Chapitre 9. Activités lucratives ..............................................
+
+Chapitre 10.            Activités communautaires ....................................................................... 7/10/1
+
+     <span class="f2">{+Section 1.         Rassemblement communautaire ................................................................. 7/10/1+}</span>
+
+<span class="f2">{+     Section 2.         Cloches à dons de vêtements ...................................................................... 7/10/3+}</span>
+
+<span class="f2">{+     Section 3.         Dispositions pénales ................................................................................... 7/10/6+}</span>
+
+TITRE 7.1 – SOCIÉTÉ DE DÉVELOPPEMENT COMMERCIAL ............................ 7.1/1/1
+
+Chapitre 1.             Dispositions générales .............................................................................. 7.1/1/1
+<span class="f6">@@ -935,7 +960,7 @@</span> Chapitre 5.             Organisation, fonctionnement et dissolution ............
+     Section 3.         Conseil d administration ............................................................................ 7.1/5/3
+
+     Section 4. Assemblées générales ................................................................................ 7.1/5/5
+         <span class="f1">[-Sous-ection-]</span><span class="f2">{+Sous-section+}</span> 1. Dispositions applicables à toutes les assemblées
+                         générales ....................................................................................... 7.1/5/5
+         Sous-section 2. Dispositions applicables à l assemblée générale
+                         annuelle......................................................................................... 7.1/5/5
+<span class="f6">@@ -7554,6 +7579,366 @@</span> Section 3 - Dispositions pénales
+                  (Ajouté par l art. 2 de 1-72)
+
+                                                                                    
+<span class="f2">{+TITRE 4 - ADMINISTRATION MUNICIPALE+}</span>
+
+<span class="f2">{+CHAPITRE 6 – INFRACTIONS AUX RÈGLEMENTS MUNICIPAUX+}</span>
+<span class="f2">{+(Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+Section 1 - Définitions+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.1             Définitions+}</span>
+
+<span class="f2">{+                   À moins de déclaration contraire, expresse ou résultant du contexte de la+}</span>
+<span class="f2">{+                   disposition, les expressions, termes et mots suivants ont, dans le présent chapitre, le+}</span>
+<span class="f2">{+                   sens et l'application que leur attribue le présent article :+}</span>
+
+<span class="f2">{+                   1)      Le mot « évènement » désigne un rassemblement de personnes organisé pour+}</span>
+<span class="f2">{+                           diverses fins, privées ou publiques, notamment et non limitativement une+}</span>
+<span class="f2">{+                           rencontre, une réunion, un rassemblement, des festivités, un spectacle, une+}</span>
+<span class="f2">{+                           manifestation, une activité sportive ou autre;+}</span>
+
+<span class="f2">{+                   2)      Le mot « règlement », utilisé au singulier ou au pluriel, désigne tout+}</span>
+<span class="f2">{+                           règlement municipal en vigueur qui a été adopté à compter du 1er janvier+}</span>
+<span class="f2">{+                           2002 par la Ville de Sherbrooke constituée en vertu du décret du+}</span>
+<span class="f2">{+                           Gouvernement du Québec numéro 850-2001 ou avant cette date par les+}</span>
+<span class="f2">{+                           anciennes villes de Sherbrooke, de Rock-Forest, de Lennoxville, de+}</span>
+<span class="f2">{+                           Fleurimont et de Bromptonville, ou des municipalités d Ascot et de+}</span>
+<span class="f2">{+                           Deauville, de Saint-Élie-d Orford, de Stoke, de Saint-Denis-de-Brompton+}</span>
+<span class="f2">{+                           ou du Canton de Brompton et qui sont encore en vigueur et qui s appliquent+}</span>
+<span class="f2">{+                           toujours à une partie du territoire de la Ville de Sherbrooke. Lorsqu il s agit+}</span>
+<span class="f2">{+                           d un règlement autre, il doit être utilisé en conjonction avec les termes « du+}</span>
+<span class="f2">{+                           gouvernement du Canada » ou « du gouvernement du Québec » pour+}</span>
+<span class="f2">{+                           signifier un règlement adopté par l un ou l autre de ces gouvernements;+}</span>
+
+<span class="f2">{+                   3)      Le mot « Ville » désigne la Ville de Sherbrooke.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+Section 2 - Dispositions générales+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.2             Application+}</span>
+
+<span class="f2">{+                   Le présent chapitre s'applique à tout règlement.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.3             Objet+}</span>
+
+<span class="f2">{+                  L objectif du présent chapitre est d assurer l homogénéité des dispositions pénales+}</span>
+<span class="f2">{+                  des différents règlements, notamment en établissant des normes standardisées+}</span>
+<span class="f2">{+                  quant aux personnes visées par ces dispositions pénales, quant aux moyens+}</span>
+<span class="f2">{+                  employés pour commettre des infractions à quelque disposition de ces règlements+}</span>
+<span class="f2">{+                  et quant à l application de ces dispositions en cas d infraction aux règlements.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+                                                                                         4/6/1+}</span>
+<span class="f2">{+4.6.4              Préséance+}</span>
+
+<span class="f2">{+                  Le présent chapitre prévaut sur toute autre disposition incompatible de tout autre+}</span>
+<span class="f2">{+                  règlement ou de toute résolution de la Ville.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.5              Application immédiate+}</span>
+
+<span class="f2">{+                  Le présent chapitre contient des dispositions interprétatives ainsi que des+}</span>
+<span class="f2">{+                  dispositions d ordre procédural. Conséquemment, il s applique à toutes les+}</span>
+<span class="f2">{+                  infractions à un quelconque règlement peu importe le moment où elles ont été+}</span>
+<span class="f2">{+                  commises ainsi qu à toute procédure pénale intentée en vertu d un règlement peu+}</span>
+<span class="f2">{+                  importe le moment où l instance a débuté, sous réserve de toute disposition+}</span>
+<span class="f2">{+                  contraire contenue aux différentes lois traitant des droits et libertés de la personne.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+Section 3 – Les personnes pouvant commettre des infractions à des règlements+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.6             Disposition générale+}</span>
+
+<span class="f2">{+                  Malgré le fait qu un règlement puisse être muet à cet effet, commet une infraction+}</span>
+<span class="f2">{+                  toute personne qui contrevient à quelque disposition d un règlement.+}</span>
+
+<span class="f2">{+                  Le présent article est de portée générale la plus large qui soit. Il vise toute+}</span>
+<span class="f2">{+                  personne, peu importe son statut, qui commet ou participe d une quelconque façon+}</span>
+<span class="f2">{+                  à la commission d une infraction et vise tout moyen, ou absence d agir, le cas+}</span>
+<span class="f2">{+                  échéant, dans le cadre de la commission d une infraction.+}</span>
+
+<span class="f2">{+                  Ainsi, les dispositions qui suivent visent à permettre d identifier certaines+}</span>
+<span class="f2">{+                  personnes pouvant commettre des infractions aux règlements en vertu du présent+}</span>
+<span class="f2">{+                  article et à énumérer des moyens de commettre des infractions. Ces dispositions+}</span>
+<span class="f2">{+                  n étant pas limitatives, elles n ont pas comme conséquence de restreindre d une+}</span>
+<span class="f2">{+                  quelconque façon la portée de la présente disposition générale.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.7             La personne qui commet une infraction+}</span>
+
+<span class="f2">{+                  La personne qui contrevient de par ses faits et gestes à quelque disposition d un+}</span>
+<span class="f2">{+                  règlement commet une infraction au sens de l article 4.6.6.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.8             Le propriétaire d un immeuble+}</span>
+
+<span class="f2">{+                  Lorsqu'une personne commet une infraction au sens de l article 4.6.6 qui se+}</span>
+<span class="f2">{+                  rapporte à l utilisation d un immeuble, le propriétaire de cet immeuble est+}</span>
+<span class="f2">{+                  présumé avoir commis lui-même cette infraction, à moins qu'il n'établisse qu'il a+}</span>
+<span class="f2">{+                  fait preuve de diligence raisonnable en prenant toutes les précautions nécessaires+}</span>
+<span class="f2">{+                  pour en prévenir la perpétration.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+                                                                                        4/6/2+}</span>
+<span class="f2">{+4.6.9              Le complice+}</span>
+
+<span class="f2">{+                  Toute personne qui conseille, encourage ou incite une autre personne à faire une+}</span>
+<span class="f2">{+                  chose qui constitue une infraction au sens de l article 4.6.6 ou qui commet ou+}</span>
+<span class="f2">{+                  omet de faire une chose qui a pour effet d aider une autre personne à commettre+}</span>
+<span class="f2">{+                  une infraction au sens de l article 4.6.6, commet elle-même l infraction et est+}</span>
+<span class="f2">{+                  passible de la même peine que celle qui est prévue pour le contrevenant, que celui-+}</span>
+<span class="f2">{+                  ci ait été poursuivi ou non ou qu il ait été déclaré coupable ou acquitté.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.10             Les administrateurs et dirigeants+}</span>
+
+<span class="f2">{+                  Lorsqu'une personne morale, un agent, mandataire ou employé de celle-ci ou d'une+}</span>
+<span class="f2">{+                  société de personnes ou d'une association non personnalisée commet une+}</span>
+<span class="f2">{+                  infraction au sens de l article 4.6.6, l'administrateur ou le dirigeant de la personne+}</span>
+<span class="f2">{+                  morale, société ou association est présumé avoir commis lui-même cette+}</span>
+<span class="f2">{+                  infraction, à moins qu'il n'établisse qu'il a fait preuve de diligence raisonnable en+}</span>
+<span class="f2">{+                  prenant toutes les précautions nécessaires pour en prévenir la perpétration.+}</span>
+
+<span class="f2">{+                  Pour l'application du présent article, dans le cas d'une société de personnes, tous+}</span>
+<span class="f2">{+                  les associés, à l'exception des commanditaires, sont présumés être les+}</span>
+<span class="f2">{+                  administrateurs de la société en l'absence de toute preuve contraire désignant l'un+}</span>
+<span class="f2">{+                  ou plusieurs d'entre eux ou un tiers pour gérer les affaires de la société.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.11            L organisateur d un évènement+}</span>
+
+<span class="f2">{+                  Toute personne qui organise un évènement lors duquel un participant commet une+}</span>
+<span class="f2">{+                  infraction au sens de l article 4.6.6, commet elle-même l infraction et est passible+}</span>
+<span class="f2">{+                  de la même peine que celle qui est prévue pour le contrevenant, que celui-ci ait été+}</span>
+<span class="f2">{+                  poursuivi ou non ou qu il ait été déclaré coupable ou acquitté, à moins qu'il+}</span>
+<span class="f2">{+                  n'établisse qu'il a fait preuve de diligence raisonnable en prenant toutes les+}</span>
+<span class="f2">{+                  précautions nécessaires pour en prévenir la perpétration.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+Section 4 – Les moyens employés pour commettre l infraction+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.12            Les divers moyens de commettre une infraction+}</span>
+
+<span class="f2">{+                  De façon non limitative et sans restreindre la portée de l article 4.6.6, une personne+}</span>
+<span class="f2">{+                  commet une infraction au sens de cet article en :+}</span>
+
+<span class="f2">{+                  1)      posant elle-même les faits et gestes à l origine de l infraction ou en omettant+}</span>
+<span class="f2">{+                          de poser les faits et gestes qui s imposent en vertu d un règlement pour+}</span>
+<span class="f2">{+                          éviter la commission d une infraction;+}</span>
+
+<span class="f2">{+                  2)      autorisant, en permettant ou en tolérant l utilisation d un bien meuble qui+}</span>
+<span class="f2">{+                          lui appartient pour commettre une infraction alors qu elle sait que ce bien+}</span>
+<span class="f2">{+                          sera utilisé pour commettre une infraction ou qu elle ne peut l ignorer vu+}</span>
+<span class="f2">{+                          les circonstances;+}</span>
+
+<span class="f2">{+                  3)      autorisant, en permettant ou en tolérant l utilisation d un immeuble dont+}</span>
+<span class="f2">{+                          elle est propriétaire ou locataire par une personne à qui elle a autorisé+}</span>
+<span class="f2">{+                          l accès et qui y commet une infraction, à moins qu'elle n'établisse qu'elle a+}</span>
+<span class="f2">{+                          fait preuve de diligence raisonnable en prenant toutes les précautions+}</span>
+<span class="f2">{+                          nécessaires pour en prévenir la perpétration;+}</span>
+
+<span class="f2">{+                                                                                        4/6/3+}</span>
+<span class="f2">{+                  4)      conseillant, en encourageant ou en incitant une autre personne à commettre+}</span>
+<span class="f2">{+                          une infraction;+}</span>
+
+<span class="f2">{+                  5)      posant un geste ou en omettant de faire une chose qui a pour effet d aider+}</span>
+<span class="f2">{+                          une autre personne à commettre une infraction;+}</span>
+
+<span class="f2">{+                  6)      maintenant ou en continuant un état de fait, des usages, des activités, des+}</span>
+<span class="f2">{+                          travaux, des ouvrages ou des constructions réalisés sans avoir obtenu au+}</span>
+<span class="f2">{+                          préalable toute autorisation requise par un règlement.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+Section 5 – Délivrance de constats d infraction+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.13            Dispositions générales+}</span>
+
+<span class="f2">{+                  Toute infraction à un règlement peut faire l objet d une poursuite pénale en vertu+}</span>
+<span class="f2">{+                  du Code de procédure pénale (RLRQ, c. C-25.1).+}</span>
+
+<span class="f2">{+                  Conformément aux dispositions du Code de procédure pénale, la Ville a donné+}</span>
+<span class="f2">{+                  l autorisation de délivrer des constats aux personnes spécifiquement indiquées+}</span>
+<span class="f2">{+                  dans tout règlement ou toute résolution.+}</span>
+
+<span class="f2">{+                  À moins de mention contraire dans un règlement ou une résolution, une personne+}</span>
+<span class="f2">{+                  autorisée à délivrer des constats peut le faire pour toute infraction ou catégorie+}</span>
+<span class="f2">{+                  d infraction.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.14            Absence d autorisation de délivrer des constats+}</span>
+
+<span class="f2">{+                  Lorsqu un règlement ne prévoit pas d autorisation de délivrer de constat conforme+}</span>
+<span class="f2">{+                  aux dispositions du Code de procédure pénale, tout stagiaire en droit ou avocat à+}</span>
+<span class="f2">{+                  l'emploi du Service des affaires juridiques de la Ville est par les présentes autorisé à+}</span>
+<span class="f2">{+                  délivrer un constat d'infraction pour toute infraction à ce règlement.+}</span>
+
+<span class="f2">{+                  Sans restreindre la portée du paragraphe qui précède, lorsqu un tel règlement est+}</span>
+<span class="f2">{+                  adopté en vertu de la Loi sur l aménagement et l urbanisme (RLRQ, c. A-19.1), le+}</span>
+<span class="f2">{+                  directeur du Service de la planification et du développement urbain, le chef de+}</span>
+<span class="f2">{+                  Division de l urbanisme, permis et inspection, le chef de Section - permis et+}</span>
+<span class="f2">{+                  inspection, les inspecteurs-coordonnateurs, les inspecteurs en bâtiments et les+}</span>
+<span class="f2">{+                  inspecteurs en salubrité et environnement sont autorisés à délivrer tout constat+}</span>
+<span class="f2">{+                  d'infraction pour toute infraction à ce règlement.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.15            Constat d infraction – Code de la sécurité routière+}</span>
+
+<span class="f2">{+                  Tout membre du Service de police de la Ville et tout stagiaire en droit ou avocat à+}</span>
+<span class="f2">{+                  l'emploi du Service des affaires juridiques de la Ville est autorisé à délivrer des+}</span>
+<span class="f2">{+                  constats d infraction pour toute infraction au Code de la sécurité routière (RLRQ,+}</span>
+<span class="f2">{+                  c. C-24.2), ainsi que toute autre loi ou règlement du gouvernement du Québec+}</span>
+<span class="f2">{+                  relatif à la circulation et à l usage des véhicules.+}</span>
+
+<span class="f2">{+                  De plus, toute personne ou préposé d'une personne dont les services sont retenus+}</span>
+<span class="f2">{+                  par la Ville pour s assurer du respect des règles de droit en matière de+}</span>
+<span class="f2">{+                  stationnement est autorisé à délivrer un constat d'infraction pour toute infraction+}</span>
+<span class="f2">{+                  en matière de stationnement prévue au Code de la sécurité routière.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+<span class="f2">{+                                                                                         4/6/4+}</span>
+<span class="f2">{+4.6.16             Constat d infraction – Évacuation et traitement des eaux usées+}</span>
+
+<span class="f2">{+                  Tout inspecteur du Service de la planification et du développement urbain, le+}</span>
+<span class="f2">{+                  coordonnateur à la gestion des installations septiques ainsi que tout stagiaire en+}</span>
+<span class="f2">{+                  droit ou avocat à l'emploi du Service des affaires juridiques de la Ville sont+}</span>
+<span class="f2">{+                  autorisés à délivrer un constat d'infraction pour toute infraction au Règlement sur+}</span>
+<span class="f2">{+                  l évacuation et le traitement des eaux usées des résidences isolées (RLRQ, c. Q-2,+}</span>
+<span class="f2">{+                  r.22) pour laquelle la Ville agit à titre de poursuivant.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.17             Constat d infraction – Piscine résidentielle+}</span>
+
+<span class="f2">{+                  Le directeur du Service de la planification et du développement urbain, le chef de+}</span>
+<span class="f2">{+                  Division de l urbanisme, permis et inspection, le chef de Section - permis et+}</span>
+<span class="f2">{+                  inspection, les inspecteurs-coordonateurs, les inspecteurs en bâtiments, les+}</span>
+<span class="f2">{+                  inspecteurs en salubrité et environnement et tout stagiaire en droit ou avocat à+}</span>
+<span class="f2">{+                  l'emploi du Service des affaires juridiques de la Ville sont autorisés à délivrer des+}</span>
+<span class="f2">{+                  constats d infraction pour toute infraction à la Loi sur la sécurité des piscines+}</span>
+<span class="f2">{+                  résidentielles (RLRQ, c. S-3.1.02) ainsi qu à son Règlement sur la sécurité des+}</span>
+<span class="f2">{+                  piscines résidentielles (RLRQ, c. S-3.1.02, r. 1).+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.18             Constat d infraction – Pouvoir résiduaire+}</span>
+
+<span class="f2">{+                  Lorsqu une loi ou un règlement du gouvernement du Canada ou du gouvernement+}</span>
+<span class="f2">{+                  du Québec prévoit que la Ville peut agir à titre de poursuivante en vertu d une+}</span>
+<span class="f2">{+                  telle loi ou règlement, si la Ville n a pas autrement donné une autorisation de+}</span>
+<span class="f2">{+                  délivrer des constats d infraction qui soit conforme aux dispositions du Code de+}</span>
+<span class="f2">{+                  procédure pénale pour des infractions à ceux-ci, tout stagiaire en droit ou avocat à+}</span>
+<span class="f2">{+                  l'emploi du Service des affaires juridiques de la Ville est par les présentes autorisé à+}</span>
+<span class="f2">{+                  délivrer un constat d'infraction pour toute infraction à une telle loi ou à un tel+}</span>
+<span class="f2">{+                  règlement du gouvernement du Canada ou du gouvernement du Québec pour+}</span>
+<span class="f2">{+                  laquelle la Ville a compétence.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+Section 6 – Dispositions diverses+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.19            Rédaction d un chef d infraction+}</span>
+
+<span class="f2">{+                  Il n est pas nécessaire, dans un chef d accusation, de référer à une disposition+}</span>
+<span class="f2">{+                  réglementaire qui crée une infraction, notamment lorsqu elle est incluse dans le+}</span>
+<span class="f2">{+                  présent chapitre.+}</span>
+
+<span class="f2">{+                  De plus, un chef d accusation n est pas invalide du seul fait qu il ne mentionne+}</span>
+<span class="f2">{+                  pas le moyen employé pour commettre l infraction prévu à la section 4 du présent+}</span>
+<span class="f2">{+                  chapitre.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.20            Défaut d accomplir un acte ou une opération déterminée+}</span>
+
+<span class="f2">{+                  Lorsqu un règlement stipule qu il est nécessaire d accomplir un acte ou une+}</span>
+<span class="f2">{+                  opération déterminée pour qu un état de fait, des usages, des activités, des+}</span>
+<span class="f2">{+                  travaux, des ouvrages ou des constructions soient conformes à ce règlement, le+}</span>
+<span class="f2">{+                  défaut d accomplir un tel acte ou une telle opération constitue une infraction à ce+}</span>
+<span class="f2">{+                  règlement, même si ce règlement ne l indique pas de façon spécifique.+}</span>
+
+<span class="f2">{+                                                                                         4/6/5+}</span>
+<span class="f2">{+             Ainsi, une obligation réglementaire d accomplir un acte ou une opération+}</span>
+<span class="f2">{+             déterminée comprend son contraire, soit de s abstenir, de négliger, de tolérer ou de+}</span>
+<span class="f2">{+             refuser de poser un tel geste.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.21       Avis préalable+}</span>
+
+<span class="f2">{+             Lorsqu un règlement stipule qu il est nécessaire de transmettre un avis préalable à+}</span>
+<span class="f2">{+             un contrevenant avant que celui-ci puisse être considéré en infraction à l une ou+}</span>
+<span class="f2">{+             l autre des dispositions de ce règlement, un tel avis n est nécessaire que dans la+}</span>
+<span class="f2">{+             mesure où l infraction reprochée est continue au sens du Code de procédure+}</span>
+<span class="f2">{+             pénale.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.22       Montant des amendes+}</span>
+
+<span class="f2">{+             Lorsqu'un règlement ne prévoit aucune peine pour la sanction d'une infraction, la+}</span>
+<span class="f2">{+             peine est une amende de 50 $ à 1 000 $ si le contrevenant est une personne+}</span>
+<span class="f2">{+             physique ou 100 $ à 2 000 $ s'il est une personne morale.+}</span>
+
+<span class="f2">{+             Pour une récidive, la peine est une amende de 100 $ à 2 000 $ si le contrevenant+}</span>
+<span class="f2">{+             est une personne physique ou de 200 $ à 4 000 $ s'il est une personne morale.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.23       Montant des amendes aux règlements de zonage déjà en vigueur+}</span>
+
+<span class="f2">{+             Pour tout règlement de zonage adopté avant l entrée en vigueur du présent+}</span>
+<span class="f2">{+             chapitre, qu une peine pour la sanction d'une infraction ait été prévue ou non à+}</span>
+<span class="f2">{+             celui-ci, la peine pour la sanction d une infraction à un tel règlement est désormais+}</span>
+<span class="f2">{+             une amende de 250 $ à 1 000 $ si le contrevenant est une personne physique ou+}</span>
+<span class="f2">{+             500 $ à 2 000 $ s'il est une personne morale.+}</span>
+
+<span class="f2">{+             Pour une récidive, la peine est une amende de 500 $ à 2 000 $ si le contrevenant+}</span>
+<span class="f2">{+             est une personne physique ou de 1 000 $ à 4 000 $ s'il est une personne morale.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+4.6.24       Montant des amendes pour l abattage d arbres+}</span>
+
+<span class="f2">{+             Conformément à la Loi sur l aménagement et l urbanisme, l abattage d arbres fait+}</span>
+<span class="f2">{+             en contravention de tout règlement de zonage ou de tout règlement de contrôle+}</span>
+<span class="f2">{+             intérimaire adopté avant l entrée en vigueur du présent chapitre est sanctionné par+}</span>
+<span class="f2">{+             une amende d un montant minimal de 500 $ à laquelle s ajoute :+}</span>
+
+<span class="f2">{+             1)      Dans le cas d un abattage sur une superficie inférieure à un hectare, un+}</span>
+<span class="f2">{+             montant minimal de 100 $ et maximal de 200 $ par arbre abattu illégalement,+}</span>
+<span class="f2">{+             jusqu à concurrence de 5 000 $;+}</span>
+
+<span class="f2">{+             2)     Dans le cas d un abattage sur une superficie de un hectare ou plus, une+}</span>
+<span class="f2">{+             amende d un montant minimal de 5 000 $ et maximal de 15 000 $ par hectare+}</span>
+<span class="f2">{+             complet déboisé auquel s ajoute pour chaque infraction d hectare déboisé, un+}</span>
+<span class="f2">{+             montant déterminé conformément au paragraphe 1.+}</span>
+
+<span class="f2">{+             Les montants prévus au premier alinéa sont doublés en cas de récidive.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 1 de 1-111)+}</span>
+
+<span class="f2">{+                                                                                 4/6/6+}</span>
+TITRE 5 -      PROTECTION DE LA PERSONNE ET DE LA PROPRIÉTÉ
+
+CHAPITRE 1 - CIRCULATION
+<span class="f6">@@ -7734,11 +8119,7 @@</span> Sous-section 1 - Dispositions déclaratoires et interprétatives
+             circulation et à l'usage des véhicules. Ils ont également le pouvoir de diriger la
+             circulation.
+
+<span class="f1">[-Les membres du Service de police sont autorisés à délivrer des constats d infraction-]</span>
+<span class="f1">[-             pour toute infraction au Code de la sécurité routière, L.R.Q., chapitre C-24.2, ainsi-]</span>
+<span class="f1">[-             que toute autre loi ou règlement relatif à la circulation et à l usage des véhicules.-]</span>             (Modifié par l art. 5 de <span class="f1">[-1-93)-]</span><span class="f2">{+1-93 / Modifié par l art. 2 de 1-111)+}
+</span>
+                                                                                                5/1/3
+5.1.10        Pouvoirs spéciaux des pompiers
+<span class="f6">@@ -8455,8 +8835,7 @@</span> Modifié par l art. 15 de 1-89 / Modifié par l art. 7 de 1-93)
+                      b) Arrondissement de Fleurimont
+
+                                    RUE                              EMPLACEMENT
+             <span class="f1">[-e-]</span>
+<span class="f1">[-             10-]</span><span class="f2">{+10e+}</span> Avenue Sud                          face au parc Édouard-Boudreau, entre les rues du
+                                                     Conseil et King Est
+             24-Juin, du                             face à l entrée principale du Centre de formation
+                                                     professionnelle
+<span class="f6">@@ -8565,8 +8944,7 @@</span> Modifié par l art. 15 de 1-89 / Modifié par l art. 7 de 1-93)
+                     b) Arrondissement de Fleurimont
+
+                                  RUE                              EMPLACEMENT
+             <span class="f1">[-e-]</span>
+<span class="f1">[-             10-]</span><span class="f2">{+10e+}</span> Avenue Nord                          entre Papineau et Rondeau
+             Caravelle, de la                         des Frères-Giroux
+             Galvin, chemin                           face au parc Desranleau
+             Lys, des                                 des Violettes
+<span class="f6">@@ -9308,8 +9685,7 @@</span> Section 3 - Règles relatives aux limites de vitesse dans les rues
+
+             Rue                              Localisation
+                                              De:                               À:
+             <span class="f1">[-e-]</span>
+<span class="f1">[-             8-]</span><span class="f2">{+8e+}</span> Avenue Nord                   Papineau, rue                     # 130, 8e Avenue Nord
+             9e Avenue Nord                   Papineau, rue                     # 120, 9e Avenue Nord
+             10e Avenue Nord                  Rondeau, rue                      Langlois, rue
+             15e Avenue Sud                   Chalifoux, rue                    Conseil, rue du
+<span class="f6">@@ -9567,8 +9943,7 @@</span> Sous-section 3 - Circulation des camions et des véhicules-outils
+               règlement en annexe pour en faire partie intégrante.
+
+                            RUE                                   DE                       À
+               <span class="f1">[-e-]</span>
+<span class="f1">[-               3-]</span><span class="f2">{+3e+}</span> Avenue
+               4e Avenue
+               5e Avenue
+               6e Avenue
+<span class="f6">@@ -11157,7 +11532,8 @@</span> Sous-section 3 - Circulation des camions et des véhicules-outils
+             est prohibée entre 22 h et 7 h sur les rues suivantes :
+
+                           RUE                                   DE                                   À
+              <span class="f1">[-7e-]</span><span class="f2">{+e+}</span>
+<span class="f2">{+             7+}</span> Avenue Sud                        Woodward                            Galt Est
+             10e Avenue Sud                      du Conseil                          Woodward
+             24-Juin, du
+             Belvédère Nord                      King Ouest                          Boulevard Queen Victoria
+<span class="f6">@@ -11548,8 +11923,7 @@</span> Sous-section 5 - Circulation des véhicules hors route
+                                          limite municipale, sur l accotement
+
+                                          1150 mètres à partir du passage situé près du 489,
+             <span class="f1">[-e-]</span>
+<span class="f1">[-             3-]</span><span class="f2">{+3e+}</span> Rang, chemin du           chemin du 3e Rang jusqu au passage situé près du
+                                          563, chemin du 3e Rang, sur l accotement
+
+                                          125 mètres à partir du chemin du 5e Rang vers la
+<span class="f6">@@ -16309,10 +16683,10 @@</span> Section 4.1   Réservation d espaces de stationnement aux fins de rénovation ou
+5.2.63.3      Location de housse
+
+              La personne ayant réservé un espace de stationnement aux fins de rénovation ou
+              de construction d un immeuble doit recouvrir le<span class="f1">[-chronomètre de stationnement ou-]</span>
+<span class="f1">[-              le-]</span> panonceau attitré à cet espace
+              d une housse fournie par la chef de la Division du revenu du Service des finances
+              ou son représentant autorisé. La housse demeure la propriété de la Ville et doit
+              être retournée à la fin de la période de réservation.
+
+              Un dépôt de sécurité de trente dollars (30,00 $) par housse est exigible. Ce dépôt
+              est remboursable à la fin de la période de réservation.
+<span class="f6">@@ -16320,7 +16694,7 @@</span> Section 4.1   Réservation d espaces de stationnement aux fins de rénovation ou
+              En cas de perte, vol ou bris de la housse, la personne visée au premier alinéa en
+              est responsable et ne peut recouvrir le dépôt de sécurité.
+
+              (Ajouté par l art. 16 de <span class="f1">[-1-88)-]</span><span class="f2">{+1-88 / Modifié par l art. 3 de 1-111)+}</span>
+
+Section 5 - Permis de stationnement pour les terrains de stationnement publics
+
+<span class="f6">@@ -16403,9 +16777,6 @@</span> Section 5 - Permis de stationnement pour les terrains de stationnement publics
+
+                  - Abénaquis
+
+<span class="f1">[-         D                                                                                                      440 $ / an-]</span>
+<span class="f1">[-                  - Webster                         - niveaux 1 à 6-]</span>
+
+                                                                                                    
+                                                                                                        Tarif
+                     Permis valide dans les
+<span class="f6">@@ -16413,6 +16784,9 @@</span> Section 5 - Permis de stationnement pour les terrains de stationnement publics
+                       endroits suivants
+                                                                                                      incluses)
+
+                 <span class="f2">{+- Webster                    - niveaux 1 à 6+}</span>
+
+<span class="f2">{+        D                                                                                             440 $ / an+}</span>
+                 - Magog
+
+                 - Abénaquis
+<span class="f6">@@ -16474,19 +16848,15 @@</span> Section 5 - Permis de stationnement pour les terrains de stationnement publics
+                 - Wellington Sud
+        L                                                                                             440 $ / an
+                 - du Dépôt
+                                              <span class="f2">{+- remis au détenteur d une vignette de toute autre+}</span>
+<span class="f2">{+       M         Aux endroits prévus à la     catégorie                                                gratuite+}</span>
+<span class="f2">{+                 vignette principale          - valide uniquement pour une moto+}</span>
+
+                 - Plateau Sylvie-Daigle                                                               105 $ /
+        P
+                                                                                                       session
+                 - Stade Amédée-Roy
+
+<span class="f1">[-                 - Webster                    - niveaux 1 à 6-]</span>
+
+<span class="f1">[-                 - Magog-]</span>
+<span class="f1">[-                                                                                                      315 $ / an-]</span>
+<span class="f1">[-        Z-]</span>
+<span class="f1">[-                 - Abénaquis-]</span>
+
+                                                                                          
+                                                                                                                           Tarif
+                         Permis valide dans les
+<span class="f6">@@ -16494,8 +16864,14 @@</span> Section 5 - Permis de stationnement pour les terrains de stationnement publics
+                           endroits suivants
+                                                                                                                         incluses)
+
+                   - <span class="f1">[-du Dépôt-]</span><span class="f2">{+Webster                           - niveaux 1 à 6+}</span>
+
+                   <span class="f2">{+- Magog+}</span>
+
+<span class="f2">{+                   - Abénaquis+}</span>
+
+<span class="f2">{+        Z          - du Dépôt+}</span>
+<span class="f2">{+                                                                                                                         315 $ / an+}</span>
+                   - Wellington Sud
+
+                   - La Grenouillère                   - excluant la section réservée aux détenteurs de permis
+<span class="f6">@@ -16555,9 +16931,9 @@</span> Section 5 - Permis de stationnement pour les terrains de stationnement publics
+                           stationnement de la Place de la Cité, à l exclusion de la section de la
+                           bibliothèque et celle du 455, rue King Ouest, le stationnement La
+                           Grenouillère, à l exclusion de la section réservée aux détenteurs de
+                           permis « C », le stationnement Webster niveau <span class="f1">[-0 et 1 exclusivement,-]</span><span class="f2">{+0,+}</span> les rues Marquette, de
+                           la rue Belvédère Nord à la rue Couture, Couture et Goodhue, l ensemble
+                           du plateau <span class="f1">[-Sylvie-Daigle,-]</span><span class="f2">{+Sylvie-Daigle incluant Amédée-Roy,+}</span> le stationnement du
+                           centre récréatif Eugène Lalonde, le stationnement de la Maison bleue du
+                           Domaine Howard et les espaces de stationnement de 120 minutes
+                           réservés aux utilisateurs du parc du Domaine Howard.
+<span class="f6">@@ -16565,17 +16941,17 @@</span> Section 5 - Permis de stationnement pour les terrains de stationnement publics
+             4)     Permis journalier stationnement du plateau Sylvie-Daigle
+
+                    Ce permis donne le privilège de stationner sur le terrain de stationnement du
+                    plateau Sylvie-Daigle <span class="f2">{+et du stade Amédée-Roy+}</span> lors d évènements spéciaux
+                    tenus par le Collège de Sherbrooke. La clientèle peut se procurer un permis
+                    journalier au coût de 5,00 $ en se présentant à l administration du Collège de
+                    Sherbrooke qui est en charge de la distribution.
+
+             4.1) Permis journalier <span class="f1">[-Orford-Express-]</span><span class="f2">{+La Cigarerie+}</span>
+
+                    Ce permis donne le privilège<span class="f1">[-à la clientèle du train Orford-Express-]</span> de se stationner sur le terrain de stationnement
+                    La Cigarerie. La clientèle peut se procurer un permis journalier au coût de
+                    5,00 $ en se présentant <span class="f2">{+au 145, rue Wellington Nord,+}</span> à la <span class="f1">[-billeterie-]</span><span class="f2">{+Division+}</span> du
+                    <span class="f1">[-train Orford-Express qui est en charge de la distribution.-]</span><span class="f2">{+revenu.+}</span>
+
+             5)     Permis temporaire
+
+<span class="f6">@@ -16602,7 +16978,7 @@</span> Section 5 - Permis de stationnement pour les terrains de stationnement publics
+             l art. 41 de 1-73 / Modifié par l art. 15 de 1-80 / Modifié par l art. 12 de 1-81 / Modifié par l art. 20
+             de 1-89 / Modifié par l art. 18 de 1-93 / Modifié par l art. 11 de 1-95 / Modifié par l art. 30 de 1-96 /
+             Modifié par l art. 13 de 1-99 / Modifié par l art. 11 de 1-101 / Modifié par l art. 10 de 1-103 /
+             Modifié par l art. 22 de <span class="f1">[-1-107)-]</span><span class="f2">{+1-107 / Modifié par les art. 4 et 5 de 1-111)+}</span>
+
+                                                                                                
+5.2.67       Attribution des permis
+<span class="f6">@@ -16818,26 +17194,26 @@</span> Section 5 - Permis de stationnement pour les terrains de stationnement publics
+                 DU - AU              Facturation        Remboursement           Facturation        Remboursement
+
+                  1er - 31
+                  Janvier              <span class="f1">[-100,00-]</span><span class="f2">{+105,00+}</span> $               <span class="f1">[-45,00-]</span><span class="f2">{+49,00+}</span> $                   ---                    ---
+
+                   1er - 28
+                   Février              <span class="f1">[-80,00-]</span><span class="f2">{+84,00+}</span> $               <span class="f1">[-25,00-]</span><span class="f2">{+28,00+}</span> $                   ---                    ---
+                   <span class="f1">[-er-]</span>
+<span class="f1">[-                   1-]</span><span class="f2">{+1er+}</span> - 31
+                    Mars                <span class="f1">[-60,00 $               5,00-]</span><span class="f2">{+63,00$                7,00+}</span> $                    ---                    ---
+
+                   1er - 30
+                    Avril               <span class="f1">[-40,00-]</span><span class="f2">{+42,00+}</span> $               0,00 $                    ---                    ---
+                   1er - 31
+                    Mai                 <span class="f1">[-20,00-]</span><span class="f2">{+21,00+}</span> $               0,00 $                    ---                    ---
+
+                   1er - 31
+                    Août                ---                     ---               100,00 $                <span class="f1">[-45,00-]</span><span class="f2">{+49,00+}</span> $
+
+                   1er - 30
+                 Septembre              ---                     ---                80,00 $                <span class="f1">[-25,00-]</span><span class="f2">{+28,00+}</span> $
+                    <span class="f1">[-1er-]</span><span class="f2">{+er+}</span>
+<span class="f2">{+                  1+}</span> - 31
+                  Octobre               ---                     ---                60,00$                  <span class="f1">[-5,00-]</span><span class="f2">{+7,00+}</span> $
+
+                  1er - 30
+                 Novembre               ---                     ---                40,00 $                 0,00 $
+<span class="f6">@@ -16846,7 +17222,7 @@</span> Section 5 - Permis de stationnement pour les terrains de stationnement publics
+                 Décembre               ---                     ---                20,00 $                 0,00 $
+
+             (Modifié par l art. 19 de 1-27 / Modifié par l art. 6 de 1-55 / Modifié par l art. 12 de 1-57 / Modifié
+             par l art. 7 de 1-67 /Modifié par l art. 21 de <span class="f1">[-1-93)-]</span><span class="f2">{+1-93 / Modifié par l art. 6 de 1-111)+}</span>
+
+5.2.79       Annulation d'un permis
+
+<span class="f6">@@ -17376,16 +17752,16 @@</span> Sous-section 6.1 – Secteurs particuliers
+             Les permis de stationnement en bordure de rue sont valides pour la durée
+             mentionnée aux paragraphes suivants :
+
+             a)     Pour les permis « Q » émis aux résidents du secteur : jusqu au 30 juin <span class="f1">[-2014-]</span><span class="f2">{+2017+}</span> et
+                    renouvelable aux trois (3) ans;
+
+             b)     Pour les permis « Q » émis aux visiteurs : du 1er juillet au 30 juin de l année
+                    suivante et renouvelable annuellement;
+
+             c)     Pour le permis « FL1 » émis aux résidents du secteur : jusqu au 30 juin <span class="f1">[-2014-]</span><span class="f2">{+2017+}</span>
+                    et renouvelable aux trois (3) ans;
+
+             d)     Pour le permis « FL2 » émis aux résidents du secteur : jusqu au 30 juin <span class="f1">[-2014-]</span><span class="f2">{+2017+}</span>
+                    et renouvelable aux trois (3) ans;
+
+             e)     Pour le permis « FL1 » émis aux commerçants du secteur : la première
+<span class="f6">@@ -17394,16 +17770,16 @@</span> Sous-section 6.1 – Secteurs particuliers
+                    décembre et sont renouvelables annuellement;
+
+             f)     Pour les permis « MB1 », « MB2 » et « MB3 » émis aux résidents du secteur :
+                    jusqu au 30 juin <span class="f1">[-2014-]</span><span class="f2">{+2017+}</span> et renouvelable aux trois (3) ans;
+
+             g)     Pour le permis « MB1 » et « MB2 » émis aux commerçants du secteur : la
+                    vignette est valide jusqu au 30 juin <span class="f1">[-2014-]</span><span class="f2">{+2017+}</span> et renouvelable aux trois (3) ans;
+
+             h)     Pour les permis « JC1 », « JC2 » et « JC3 » émis aux résidents du secteur :
+                    jusqu au 30 juin <span class="f1">[-2014-]</span><span class="f2">{+2017+}</span> et renouvelable aux trois (3) ans.
+             (Modifié par l art. 20 de 1-29 / Modifié par l art. 13 de 1-70 / Modifié par l art. 17 de 1-75 / Modifié
+             par l art. 9 de 1-77 / Modifié par l art. 18 de 1-79 / Modifié par l art. 14 de 1-87 / Modifié par l art. 24
+             de 1-93 / Modifié par l art. 10 de <span class="f1">[-1-94)-]</span><span class="f2">{+1-94 / Modifié par l art. 7 de 1-111)+}</span>
+
+                                                                                                  
+5.2.86       Incessibilité
+<span class="f6">@@ -17431,12 +17807,12 @@</span> Sous-section 6.1 – Secteurs particuliers
+
+             Toutefois, pour le permis de stationnement du secteur « FL1 » émis aux
+             commerçants, le coût annuel pour chacune des deux (2) vignettes supplémentaires
+             émises en vertu de la présente sous-section est de <span class="f1">[-quatre-cent-vingt-]</span><span class="f2">{+quatre cent quarante+}</span> dollars
+             <span class="f1">[-(420,00-]</span><span class="f2">{+(440,00+}</span> $), taxes incluses. Pour ces vignettes additionnelles, le coût de
+             remplacement du permis est de vingt-cinq dollars (25,00 $).
+
+             (Modifié par l art. 20 de 1-29 / Modifié par l art. 9 de 1-64 / Modifié par l art. 18 de 1-75 / Modifié
+             par l art. 25 de <span class="f1">[-1-93)-]</span><span class="f2">{+1-93 / Modifié par l art. 8 de 1-111)+}</span>
+
+5.2.88       (Modifié par l art. 20 de 1-29 / Modifié par l art. 12 de 1-69 / Abrogé par l art. 14 de 1-70)
+
+<span class="f6">@@ -17501,11 +17877,11 @@</span> Sous-section 6.2 - Rue Bowen Sud
+
+5.2.94             Coût du permis
+
+                   Le coût annuel pour chacun des permis est fixé à quatre cent <span class="f1">[-vingt-]</span><span class="f2">{+quarante+}</span> dollars
+                   <span class="f1">[-(420,00-]</span><span class="f2">{+(440,00+}</span> $).
+
+                   (Abrogé par l art. 18 de 1-1 / Ajouté par l art. 20 de 1-29 / Modifié par l art. 13 de 1-69 / Modifié par
+                   l art. 17 de <span class="f1">[-1-70)-]</span><span class="f2">{+1-70 / Modifié par l art. 9 de 1-111)+}</span>
+
+Sous-section 6.3 - Rue des Fusiliers
+(Ajoutée par l art. 20 de 1-29 / Modifiée par l art. 22 de 1-72 / Modifiée par l art. 20 de 1-88)
+<span class="f6">@@ -17521,10 +17897,10 @@</span> Sous-section 6.3 - Rue des Fusiliers
+
+5.2.96             Coût du permis
+
+                  Le coût annuel pour chacun des espaces réservés est fixé à quatre cent <span class="f1">[-vingt-]</span><span class="f2">{+quarante+}</span>
+                  dollars <span class="f1">[-(420,00-]</span><span class="f2">{+(440,00+}</span> $).
+                  (Abrogé par l art. 18 de 1-1 / Ajouté par l art. 20 de 1-29 / Modifié par l art. 11 de 1-54 / Modifié par
+                  l art. 13 de <span class="f1">[-1-69)-]</span><span class="f2">{+1-69 / Modifié par l art. 10 de 1-111)+}</span>
+
+                                                                                                        
+Sous-section 6.4 - Rue de l Esplanade
+<span class="f6">@@ -17564,10 +17940,10 @@</span> Sous-section 6.4 - Rue de l Esplanade
+
+5.2.96.3          Coût du permis
+
+                  Le coût annuel des huit espaces de stationnement est <span class="f1">[-fixéà-]</span><span class="f2">{+fixé à+}</span> deux <span class="f1">[-cents-]</span><span class="f2">{+cent dix+}</span> dollars
+                  <span class="f1">[-(200,00-]</span><span class="f2">{+(210,00+}</span> $).
+                  (Ajouté par l art. 20 de 1-29 / Modifié par l art. 11 de 1-54 / Modifié par l art. 18 de <span class="f1">[-1-70)-]</span><span class="f2">{+1-70 / Modifié+}</span>
+<span class="f2">{+                  par l art. 11 de 1-111)+}</span>
+
+Sous-section 6.5 –Sages-femmes
+(Ajoutée par l art. 15 de 1-31)
+<span class="f6">@@ -17749,10 +18125,9 @@</span> Sous-section 6.7 – Rue Avila
+
+5.2.96.18          Coût du permis
+
+                   Le coût annuel pour chacun des espaces réservés est fixé à quatre cent <span class="f1">[-vingt-]</span><span class="f2">{+quarante+}</span>
+                   dollars <span class="f1">[-(420,00-]</span><span class="f2">{+(440,00+}</span> $).
+                   (Ajouté par l art. 14 de 1-69 / Modifié par l art. 27 de <span class="f1">[-1-72)-]</span><span class="f2">{+1-72 / Modifié par l art. 12 de 1-111)+}</span>
+
+Sous-section 6.8 – Rue du Fédéral
+(Ajoutée par l art. 19 de 1-70 / Abrogée par l art. 14 de 1-81)
+<span class="f6">@@ -17782,10 +18157,9 @@</span> Sous-section 6.9 – Secteur CHUS - site Hôtel-Dieu
+
+5.2.96.23         Coût d un espace réservé en bordure de rue
+
+                  Le coût annuel pour chacun des espaces réservés est fixé à quatre cent <span class="f1">[-vingt-]</span><span class="f2">{+quarante+}</span>
+                  dollars <span class="f1">[-(420,00-]</span><span class="f2">{+(440,00+}</span> $).
+                  (Ajouté par l art. 20 de 1-70 / Modifié par l art. 29 de <span class="f1">[-1-72)-]</span><span class="f2">{+1-72 / Modifié par l art. 13 de 1-111)+}</span>
+
+Sous-section 6.10 – Rue Murray
+(Ajoutée par l art. 6 de 1-74 / Abrogée par l art. 23 de 1-89)
+<span class="f6">@@ -27838,14 +28212,7 @@</span> Section 7 - Dispositions pénales
+                  toute infraction au présent chapitre pour laquelle la Ville agit à titre de poursuivant.
+                  (Ajouté par l art. 20 de 1-40)
+
+6.1.126.1<span class="f1">[-Constat d infraction – Évacuation et traitement des eaux usées-]</span>
+
+<span class="f1">[-                  Tout inspecteur du Service de la planification et du développement urbain, le-]</span>
+<span class="f1">[-                  coordonnateur à la gestion des installations septiques et tout avocat à l emploi de la-]</span>
+<span class="f1">[-                  Ville est autorisé à délivrer un constat d'infraction pour toute infraction au-]</span>
+<span class="f1">[-                  Règlement sur l évacuation et le traitement des eaux usées des résidences isolées-]</span>
+<span class="f1">[-                  (chapitre Q-2, r.22) pour laquelle la Ville agit à titre de poursuivant.-]</span>         (Ajouté par l art. 15 de <span class="f1">[-1-90)-]</span><span class="f2">{+1-90 / Abrogé par l art. 14 de 1-111)+}</span>
+
+6.1.127           Amende minimale de 100,00 $
+
+<span class="f6">@@ -34940,10 +35307,9 @@</span> Section 3 – Service de la planification et du développement urbain
+             cation ou d occupation d un immeuble (PPCMOI)             1 000 $          2 500 $
+
+             À l exception des demandes :
+             <span class="f2">{++}</span> relatives à un projet commercial et/ou public
+             sur un terrain de <span class="f1">[-5000-]</span><span class="f2">{+5 000+}</span> mètres carrés et plus             2 000 $          2 500 $
+             <span class="f1">[-Relatives-]</span><span class="f2">{+ relatives+}</span> à un projet résidentiel ou mixte de           2 000 $          2 500 $
+             12 logements et plus
+
+             Étude et cheminement d un usage conditionnel              1 000 $             500 $
+<span class="f6">@@ -36629,6 +36995,95 @@</span> Section 11 -      Service des affaires juridiques
+                  paiement en ligne d un constat d infraction s appliquent à chaque transaction.
+                  (Ajouté par l art. 28 de 1-88)
+
+<span class="f2">{+Section 12 – Centre de foires+}</span>
+<span class="f2">{+(Ajoutée par l art. 15 de 1-111)+}</span>
+
+<span class="f2">{+7.7.55            Salles+}</span>
+
+<span class="f2">{+Les tarifs suivants, taxes en sus, sont exigibles lors de la location d un espace :+}</span>
+
+<span class="f2">{+                                                       2016              2017               2018+}</span>
+<span class="f2">{+ Montage et démontage+}</span>
+<span class="f2">{+ Basse –Moyenne- Haute saison                      0,0901 $/pi2      0,0928 $/pi2       0,0956 $/pi2+}</span>
+
+<span class="f2">{+ Salons et expositions incluant internet+}</span>
+<span class="f2">{+ Basse saison                                      0,1078 $/pi2      0,1108 $/pi2       0,1140 $/pi2+}</span>
+<span class="f2">{+ Moyenne saison                                    0,1303 $/pi2      0,1340 $/pi2       0,1378 $/pi2+}</span>
+<span class="f2">{+ Haute saison                                      0,1415 $/pi2      0,1455 $/pi2       0,1497 $/pi2+}</span>
+
+<span class="f2">{+ Salles de réunion et mezzanine+}</span>
+<span class="f2">{+ Salle 1                                           270,00 $/jour     280,00 $/jour      290,00 $/jour+}</span>
+<span class="f2">{+ Bar VIP                                           175,00 $/jour     180,00 $/jour      185,00 $/jour+}</span>
+<span class="f2">{+ Restaurant et Atrium                              390,00 $/jour     405,00 $/jour      415,00 $/jour+}</span>
+<span class="f2">{+ Alcôve                                            170,00 $/jour     175,00$/jour       180,00 $/jour+}</span>
+
+<span class="f2">{+ Parvis extérieur+}</span>
+<span class="f2">{+ Parvis A                                            800,00 $          824,00 $           848,72 $+}</span>
+<span class="f2">{+ Parvis C                                            500,00 $          515,00 $           530,45 $+}</span>
+<span class="f2">{+ Parvis A-C                                         1 300,00 $        1 339,00 $         1 379,17 $+}</span>
+
+<span class="f2">{+(Ajouté par l art. 15 de 1-111)+}</span>
+
+<span class="f2">{+                                                                                       +}</span>
+<span class="f2">{+7.7.56            Services+}</span>
+
+<span class="f2">{+Les tarifs suivants, taxes en sus, sont exigibles pour les services énumérés au tableau lors de la+}</span>
+<span class="f2">{+location d un espace :+}</span>
+
+<span class="f2">{+                                                       2016                  2017                  2018+}</span>
+<span class="f2">{+ Raccordement électrique+}</span>
+<span class="f2">{+ Prise régulière de 15 ampères                    84,50 $/kiosque      87,00 $/kiosque        90,00 $/kiosque+}</span>
+
+<span class="f2">{+ Accrochage et manutention                         84,50 $/heure        87,00 $/heure          90,00 $/heure+}</span>
+
+<span class="f2">{+ Prises téléphoniques,            télécopieurs,+}</span>
+<span class="f2">{+                                                  82,50 $/kiosque      85,00$/kiosque         87,50 $/kiosque+}</span>
+<span class="f2">{+ cartes de crédit+}</span>
+
+<span class="f2">{+ Internet haute vitesse+}</span>
+<span class="f2">{+ Tarif de base                                    175,00 $/kiosque     180,00 $/kiosque       185,00 $/kiosque+}</span>
+<span class="f2">{+ Accès pour ordinateur supplémentaire             30,00 $/kiosque      32,00 $/kiosque        34,00 $/kiosque+}</span>
+
+<span class="f2">{+ Eau et drainage+}</span>
+<span class="f2">{+ Alimentation en eau froide et drainage               79,50 $               82,00 $               84,50 $+}</span>
+<span class="f2">{+ Alimentation en eau chaude et drainage              319,00 $              329,00 $              339,00 $+}</span>
+<span class="f2">{+ Remplissage et vidange pour baignoires+}</span>
+<span class="f2">{+                                                      82,50 $               85,00 $               87,50 $+}</span>
+<span class="f2">{+ à remous ou lit+}</span>
+<span class="f2">{+ Remplissage et vidange pour piscine 18+}</span>
+<span class="f2">{+                                                     185,50 $              191,25 $              197,00 $+}</span>
+<span class="f2">{+ pieds ou moins+}</span>
+<span class="f2">{+ Frais de raccord (si pas de boyau+}</span>
+<span class="f2">{+                                                   85,00 $/heure        85,00 $/heure          88,00 $/heure+}</span>
+<span class="f2">{+ d arrosage)+}</span>
+
+<span class="f2">{+ Billetterie+}</span>
+<span class="f2">{+ Frais de billetterie                             11 %, minimum 11 %, minimum 12 %, minimum+}</span>
+<span class="f2">{+                                                      0,55 $        0,55 $        0,58 $+}</span>
+
+<span class="f2">{+ Vestiaire                                        2,50 $/personne      2,50 $/personne        2,50 $/personne+}</span>
+
+<span class="f2">{+(Ajouté par l art. 15 de 1-111)+}</span>
+
+<span class="f2">{+7.7.57            Équipements+}</span>
+
+<span class="f2">{+Les tarifs suivants, taxes en sus, sont exigibles pour la location d équipements énumérés au+}</span>
+<span class="f2">{+tableau lors de la location d un espace :+}</span>
+
+<span class="f2">{+                                                       2016                   2017                 2018+}</span>
+<span class="f2">{+                                                                     Prix unitaire par jour+}</span>
+<span class="f2">{+ Chaise                                                1,55 $                1,60 $                1,65 $+}</span>
+<span class="f2">{+ Table ronde 60 pouces                                 8,25 $                8,50 $                8,75 $+}</span>
+<span class="f2">{+ Table bistro (3 bancs inclus)                         5,70 $                5,85 $                6,00 $+}</span>
+<span class="f2">{+ Table rectangle 6 pieds                               6,50 $                6,75 $                6,95 $+}</span>
+<span class="f2">{+ Verre dégustation (INAQ)                              0,45 $                0,47 $                0,49 $+}</span>
+<span class="f2">{+ Bar et réfrigérateur                                 82,50 $               85,00 $               87,50 $+}</span>
+<span class="f2">{+ Vestiaire mobile                                     25,75 $               26,50 $               27,50 $+}</span>
+<span class="f2">{+ Micro                                                17,50 $               18,00 $               18,50 $+}</span>
+<span class="f2">{+ Radio portative                                      16,50 $              17, 00 $               17,55 $+}</span>
+
+<span class="f2">{+(Ajouté par l art. 15 de 1-111)+}</span>
+
+                                                                                             
+TITRE 7 - DISPOSITIONS FINANCIÈRES
+
+<span class="f6">@@ -39336,11 +39791,14 @@</span> TITRE 7 - DISPOSITIONS FINANCIÈRES
+
+CHAPITRE 10 - ACTIVITÉS COMMUNAUTAIRES
+
+<span class="f2">{+Section 1 – Rassemblement communautaire+}</span>
+<span class="f2">{+(Ajoutée par l art. 1 de 1-109)+}</span>
+
+7.10.1             Définitions
+
+                   À moins de déclaration contraire, expresse ou résultant du contexte de la
+                   disposition, les expressions, termes et mots suivants ont, dans <span class="f1">[-le présent chapitre,-]</span><span class="f2">{+la présente section,+}</span> le
+                   sens et l'application que leur attribue le présent article :
+
+                   1)     Les mots « cité », « ville » ou « municipalité » employés dans le présent
+                          chapitre désignent la Ville de Sherbrooke;
+<span class="f6">@@ -39379,18 +39837,18 @@</span> CHAPITRE 10 - ACTIVITÉS COMMUNAUTAIRES
+                   9)     L'expression « Service de police » désigne le Service de police de la Ville de
+                          Sherbrooke.
+
+                   (Modifié par l art. 29 de <span class="f1">[-1-3)-]</span><span class="f2">{+1-3 / Modifié par l art. 2 de 1-109)+}</span>
+
+                                                                                       <span class="f2">{+7/10/1+}</span>
+7.10.2       Permis
+
+             Il est défendu à toute personne d'utiliser les places publiques municipales pour y
+             tenir une fête populaire ou un rassemblement communautaire sans avoir demandé et
+             obtenu au préalable un permis du directeur de l arrondissement ou est situé la place
+             publique municipale ou de son représentant autorisé.
+
+             (Modifié par l art. 29 de 1-3)
+
+<span class="f1">[-                                                                                 7/10/1-]</span>
+7.10.3       Demande de permis
+
+             Tout résident de la ville désirant obtenir un permis de fête populaire doit demander
+<span class="f6">@@ -39429,13 +39887,15 @@</span> CHAPITRE 10 - ACTIVITÉS COMMUNAUTAIRES
+             Le directeur du Service de police et le directeur du Service de protection contre les
+             incendies doivent vérifier la conformité de la demande aux lois et règlements qu'ils
+             ont charge de faire appliquer. S'ils sont d'opinion que la demande est conforme en
+             tous points aux lois et règlements qu'ils ont charge de faire appliquer, ils
+             transmettent au un avis de conformité au directeur de l arrondissement ou à son
+             représentant autorisé. Dans le cas contraire, ils avisent le directeur de
+             l arrondissement ou son représentant autorisé qui refuse la demande et en donne les
+             motifs.
+
+             (Modifié par l art. 30 de 1-3 / Modifié par l art. 41 de 1-36)
+
+                                                                                   <span class="f2">{+7/10/2+}</span>
+7.10.6             Émission du permis
+
+                   Sur réception de l'avis de conformité requis, le directeur de l arrondissement ou son
+<span class="f6">@@ -39448,24 +39908,224 @@</span> CHAPITRE 10 - ACTIVITÉS COMMUNAUTAIRES
+
+                   Le permis de fête populaire est émis pour la période mentionnée sur ledit permis.
+
+<span class="f1">[-7/10/2-]</span>
+<span class="f1">[-7.10.8       Constat d'infraction-]</span><span class="f2">{+Section 2 – Cloches à dons de vêtements+}</span>
+<span class="f2">{+(Ajoutée par l art. 3 de 1-109)+}</span>
+
+<span class="f1">[-Toute personne-]</span><span class="f2">{+7.10.8             Définitions+}</span>
+
+<span class="f2">{+                   À moins de déclaration contraire, expresse+}</span> ou <span class="f1">[-préposé d'une personne dont-]</span><span class="f2">{+résultant du contexte de la+}</span>
+<span class="f2">{+                   disposition, l expression suivante a, dans la présente section, le sens et l'application+}</span>
+<span class="f2">{+                   que lui attribue le présent article :+}</span>
+
+<span class="f2">{+                   1)     L'expression « cloche à dons de vêtements » désigne un conteneur fermé dans+}</span>
+<span class="f2">{+                          lequel+}</span> les <span class="f1">[-services-]</span><span class="f2">{+donateurs peuvent déposer des vêtements à des fins de récupération+}</span>
+<span class="f2">{+                          et de réemploi au profit d organismes à but non lucratif.+}</span>
+
+<span class="f2">{+                   (Modifié par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+7.10.9             Interdiction+}</span>
+
+<span class="f2">{+                   Il est défendu à toute personne d installer une cloche à dons de vêtements sur un+}</span>
+<span class="f2">{+                   immeuble à moins d avoir demandé et obtenu un permis valide.+}</span>
+
+<span class="f2">{+                   (Modifié par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+7.10.10            Exception+}</span>
+
+<span class="f2">{+                  L obligation de détenir un permis autorisant l installation d une cloche à dons ne+}</span>
+<span class="f2">{+                  s applique pas lorsque la cloche est située sur le terrain d un lieu de culte ou sur le+}</span>
+<span class="f2">{+                  terrain où s exerce l activité commerciale ou de bienfaisance et que la cloche est+}</span>
+<span class="f2">{+                  utilisée de façon accessoire par l occupant des lieux.+}</span>
+
+<span class="f2">{+                  (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+7.10.11            Demandeur admissible+}</span>
+
+<span class="f2">{+                   Seules+}</span> sont <span class="f1">[-retenus-]</span><span class="f2">{+autorisées les cloches à dons de vêtements utilisées+}</span> par <span class="f2">{+un organisme à+}</span>
+<span class="f2">{+                   but non lucratif qui rencontre l une des exigences suivantes :+}</span>
+
+<span class="f2">{+                  1)      Être reconnu en vertu de la politique de reconnaissance des organismes de+}</span> la
+                          Ville <span class="f1">[-aux fins d'appliquer-]</span><span class="f2">{+de Sherbrooke;+}</span>
+
+<span class="f2">{+                  2)      Posséder un établissement d entreprise sur le territoire de la ville de+}</span>
+<span class="f2">{+                          Sherbrooke et réutiliser+}</span> les <span class="f1">[-dispositions contenues-]</span><span class="f2">{+bénéfices tirés de la collecte des dons de+}</span>
+<span class="f2">{+                          vêtements pour les besoins d une clientèle établie sur le territoire de la ville+}</span>
+<span class="f2">{+                          de Sherbrooke.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+                                                                                       7/10/3+}</span>
+<span class="f2">{+7.10.12      Demande de permis+}</span>
+
+<span class="f2">{+             Un organisme qui désire installer une cloche à dons de vêtements doit faire une+}</span>
+<span class="f2">{+             demande de permis par écrit sur la formule prescrite à cet effet+}</span> au <span class="f2">{+Service de la+}</span>
+<span class="f2">{+             planification et du développement urbain de la Ville.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+7.10.13      Informations devant être fournies+}</span>
+
+<span class="f2">{+             La demande de permis doit notamment contenir les renseignements suivants :+}</span>
+
+<span class="f2">{+             1)     Le nom, l adresse et le numéro de téléphone de l organisme à but non lucratif+}</span>
+<span class="f2">{+                    pour lequel la ou les cloches seront installées+}</span>
+
+<span class="f2">{+             2)     Le nom du requérant et ses coordonnées pour le rejoindre;+}</span>
+
+<span class="f2">{+             3)     L'adresse du ou des immeubles faisant l'objet de la demande;+}</span>
+
+<span class="f2">{+             4)     Le nombre de cloches à dons de vêtements installées par immeuble et leur+}</span>
+<span class="f2">{+                    emplacement;+}</span>
+
+<span class="f2">{+             5)     La clientèle visée bénéficiant de la collecte de dons de vêtements s il s agit+}</span>
+<span class="f2">{+                    d un établissement jugé admissible conformément au paragraphe 2) de+}</span>
+<span class="f2">{+                    l article 7.10.11;+}</span>
+
+<span class="f2">{+             6)     La date de sa fin d année financière.+}</span>
+
+<span class="f2">{+             Le requérant doit signer la demande de permis et attester que les renseignements+}</span>
+<span class="f2">{+             fournis sont exacts.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+7.10.14      Documents accompagnant la demande+}</span>
+
+<span class="f2">{+             La demande de permis doit être accompagnée des documents suivants :+}</span>
+
+<span class="f2">{+             1)     La résolution du conseil d administration de l organisme à but non lucratif+}</span>
+<span class="f2">{+                    autorisant la signature de la demande de permis;+}</span>
+
+<span class="f2">{+             2)     Une copie de l acte constitutif de l organisme à but non lucratif;+}</span>
+
+<span class="f2">{+             3)     L autorisation écrite du propriétaire de l immeuble qui permet l installation+}</span>
+<span class="f2">{+                    de la cloche à dons de vêtements. Cette exigence ne s applique pas dans le cas+}</span>
+<span class="f2">{+                    où l organisme est propriétaire ou occupant des lieux où l on retrouve la+}</span>
+<span class="f2">{+                    cloche à dons de vêtements.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+7.10.15      Coût du permis+}</span>
+
+<span class="f2">{+             Des frais administratifs non remboursables au montant de 100,00 $ sont exigés pour+}</span>
+<span class="f2">{+             procéder à l'étude de la demande et à l'émission du permis qui autorise l installation+}</span>
+<span class="f2">{+             de cloche à dons de vêtements, s'il y a lieu.+}</span>
+
+<span class="f2">{+             Le paiement peut s effectuer en argent comptant ou par chèque.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+                                                                                7/10/4+}</span>
+<span class="f2">{+7.10.16      Demande de modification+}</span>
+
+<span class="f2">{+             Le détenteur d un permis valide peut demander que soient modifiés les endroits+}</span>
+<span class="f2">{+             autorisés pour l installation des cloches à dons de vêtements ou que des endroits+}</span>
+<span class="f2">{+             supplémentaires soient autorisés. Le détenteur de permis doit fournir l information+}</span>
+<span class="f2">{+             requise à l article 7.10.13.+}</span>
+
+<span class="f2">{+             Des frais administratifs non remboursables de 25,00 $ sont exigibles pour toute+}</span>
+<span class="f2">{+             demande de modification. Le paiement peut s effectuer en argent comptant ou par+}</span>
+<span class="f2">{+             chèque.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+7.10.17      Émission du permis+}</span>
+
+<span class="f2">{+             Sur réception de la demande de permis pour l installation de cloche à dons de+}</span>
+<span class="f2">{+             vêtements dûment complétée accompagnée des documents et du paiement requis, le+}</span>
+<span class="f2">{+             directeur du Service de la planification et du développement urbain, ou son+}</span>
+<span class="f2">{+             représentant autorisé, doit vérifier la conformité de la demande aux lois et aux+}</span>
+<span class="f2">{+             règlements qu'il a charge de faire appliquer. S'il constate que la demande est+}</span>
+<span class="f2">{+             conforme, il doit émettre le permis si les conditions suivantes sont rencontrées :+}</span>
+
+<span class="f2">{+             1)       La demande est formulée par un organisme à but non lucratif admissible+}</span>
+<span class="f2">{+                      conformément à l article 7.10.11;+}</span>
+
+<span class="f2">{+             2)       La demande de permis est conforme aux articles 7.10.13 et 7.10.14 du+}</span>
+                      présent <span class="f1">[-chapitre-]</span><span class="f2">{+règlement;+}</span>
+
+<span class="f2">{+             3)       Le coût du permis est acquitté.+}</span>
+
+<span class="f2">{+             Le directeur du Service de la planification+}</span> et<span class="f1">[-tout policier-]</span> du <span class="f2">{+développement urbain, ou son+}</span>
+<span class="f2">{+             représentant autorisé, transmet une copie autocollante du permis au requérant qui+}</span>
+<span class="f2">{+             doit l apposer en façade sur la cloche à dons de vêtements. Le+}</span> Service <span class="f2">{+émet autant+}</span>
+             de <span class="f1">[-police-]</span><span class="f2">{+copie autocollante du permis qu il y a de cloche à dons de vêtements autorisée au+}</span>
+<span class="f2">{+             bénéfice de l organisme à but non lucratif.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+7.10.18      Durée du permis+}</span>
+
+<span class="f2">{+             Le permis est valide pour une période de deux ans.+}</span>
+
+<span class="f2">{+             Dans les trente jours précédant l expiration du permis, le titulaire de ce permis qui+}</span>
+<span class="f2">{+             désire maintenir l installation de cloches à dons de vêtements aux endroits désignés+}</span>
+<span class="f2">{+             dans sa première demande doit présenter une nouvelle demande conformément à la+}</span>
+<span class="f2">{+             présente section et acquitter les coûts prévus;+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+7.10.19      Validité du permis+}</span>
+
+<span class="f2">{+             Tout permis émis en vertu de la présente section n'est valide que pour l organisme+}</span>
+<span class="f2">{+             au nom duquel il est émis, les endroits qui y+}</span> sont <span class="f1">[-autorisés-]</span><span class="f2">{+indiqués et la période de temps qui+}</span>
+<span class="f2">{+             y est indiquée.+}</span>
+
+<span class="f2">{+             (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+                                                                                7/10/5+}</span>
+<span class="f2">{+7.10.20            Documents et rapports+}</span>
+
+<span class="f2">{+                  Le détenteur d un permis doit déposer une fois par année, dans un délai de trente+}</span>
+<span class="f2">{+                  jours suivant la fin de son année financière, les rapports d'activités ou rapports+}</span>
+<span class="f2">{+                  financiers démontrant que les bénéfices retirés de l exploitation des cloches à dons+}</span>
+<span class="f2">{+                  de vêtements sont utilisés pour les besoins d une clientèle établie sur le territoire de+}</span>
+<span class="f2">{+                  la ville de Sherbrooke.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+7.10.21            Révocation du permis+}</span>
+
+<span class="f2">{+                   Le Service de la planification et du développement urbain peut révoquer le permis+}</span>
+<span class="f2">{+                   de l organisme à but non lucratif qui cesse de satisfaire aux conditions d émission+}</span>
+<span class="f2">{+                   du permis ou s il contrevient à l une ou l autre des dispositions de la présente+}</span>
+<span class="f2">{+                   section.+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+Section 3 – Dispositions pénales+}</span>
+<span class="f2">{+(Ajoutée par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+7.10.22            Constat d'infraction+}</span>
+
+<span class="f2">{+                   Tout inspecteur du Service de la planification et du développement urbain est+}</span>
+<span class="f2">{+                   autorisé+}</span> à délivrer un constant d'infraction pour toute infraction au présent chapitre
+                   <span class="f1">[-qu'ils ont-]</span><span class="f2">{+qu'il a+}</span> la charge de faire appliquer.
+
+                   Tout avocat à l'emploi de la Ville est autorisé à délivrer un constat d'infraction pour
+                   toute infraction au présent chapitre pour laquelle la Ville agit à titre de poursuivant.
+
+                   <span class="f1">[-7.10.9       Infraction - amende minimale-]</span><span class="f2">{+(Ajouté par l art. 4+}</span> de <span class="f1">[-100,00 $-]</span><span class="f2">{+1-109)+}</span>
+
+<span class="f1">[-Quiconque contrevient à quelques dispositions de l'article 7.10.2 du présent chapitre,-]</span>
+<span class="f1">[-             commet une infraction et est passible d'une-]</span><span class="f2">{+7.10.23            Infraction -+}</span> amende minimale de <span class="f1">[-cent dollars-]</span>
+<span class="f1">[-             (100,00 $) et maximale de deux cents dollars (200,00 $).-]</span><span class="f2">{+100,00 $+}</span>
+
+                   <span class="f1">[-7/10/3-]</span><span class="f2">{+Quiconque contrevient à quelques dispositions de l article 7.10.2 du présent+}</span>
+<span class="f2">{+                   chapitre, commet une infraction et est passible d'une amende minimale de cent+}</span>
+<span class="f2">{+                   dollars (100,00 $) et maximale de deux cents dollars (200,00 $).+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+7.10.24            Infraction – amende minimale de 250,00 $+}</span>
+
+<span class="f2">{+                   Quiconque contrevient à quelques dispositions de l article 7.10.9 du présent+}</span>
+<span class="f2">{+                   chapitre commet une infraction et est passible d une amende minimale de deux+}</span>
+<span class="f2">{+                   cent cinquante dollars (250,00 $) et maximale de deux mille dollars (2 000,00 $).+}</span>
+
+<span class="f2">{+                   Pour une récidive, l amende minimale est de cinq cents dollars (500,00 $) et+}</span>
+<span class="f2">{+                   maximale de quatre mille dollars (4 000,00 $).+}</span>
+
+<span class="f2">{+                   (Ajouté par l art. 4 de 1-109)+}</span>
+
+<span class="f2">{+                                                                                        7/10/6+}</span>
+TITRE 7.1 – SOCIÉTÉ DE DÉVELOPPEMENT COMMERCIAL
+(Ajouté par l art. 1 de 1-106)
+
+<span class="f6">@@ -39610,14 +40270,18 @@</span> Section 2 - Imposition de la cotisation
+                  2)       l adresse de l établissement d entreprise;
+                  3)       l adresse de correspondance de l établissement d entreprise;
+                  4)       les nom et prénom de la personne responsable;
+                  5)       la date d occupation de l établissement d entreprise dans l <span class="f1">[-immeuble.-]</span><span class="f2">{+immeuble;+}</span>
+<span class="f2">{+                  6)       la superficie occupée d un lieu d affaires pour chacun des contribuables+}</span>
+<span class="f2">{+                           assujettis à la cotisation;+}</span>
+<span class="f2">{+                  7)       le montant de la cotisation attribuable à chacun des contribuables inscrits+}</span>
+<span class="f2">{+                           sur la liste.+}</span>
+
+                                                                                         <span class="f2">{+7.1/3/1+}</span>
+             La société doit également transmettre toute modification à ces informations se
+             produisant en cours d année.
+
+             (Ajouté par l art. 1 de <span class="f1">[-1-106)-]</span><span class="f2">{+1-106 / Modifié par l art. 16 de 1-111)+}</span>
+
+<span class="f1">[-                                                                                         7.1/3/1-]</span>
+7.1.3.6      Montant de la cotisation
+
+             Pour chacun des contribuables assujettis, la cotisation annuelle est établie comme
+</pre>
+</body>
+</html>
