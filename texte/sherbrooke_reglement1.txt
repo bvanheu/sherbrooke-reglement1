@@ -284,9 +284,10 @@ Chapitre 1. Circulation ........................................................
 
       Section 6. Obstructions à la circulation ....................................................................... 
           Sous-section 1. Dispositions générales................................................................... 
+          Sous-section 1.1 Sécurité .......................................................................................... 
           Sous-section 2. Activités dans les rues ................................................................... 
           Sous-section 3. Entrave à la circulation nécessitant une fermeture
-                          temporaire ou partielle d un chemin public .................................. 
+                           temporaire ou partielle d un chemin public .................................. 
 
       Section 6.1. Numérotage des maisons et bâtiments ....................................................... 
 
@@ -755,7 +756,7 @@ Chapitre 3. Taxes de services ..................................................
      Section 1.            Dispositions interprétatives .......................................................................... 7/3/1
 
      Section 2. Taxe d'eau...................................................................................................... 7/3/2
-         Sous-section 1. Imposition ........................................................................................ 7/3/2
+         Sous-section 1. Imposition........................................................................................ 7/3/2
          Sous-section 2. Taux ................................................................................................. 7/3/2
          Sous-section 3. Exigibilité ........................................................................................ 7/3/3
          Sous-section 4. Intérêt ............................................................................................... 7/3/4
@@ -12368,6 +12369,17 @@ Sous-section 5 - Circulation des véhicules hors route
 
               (Ajouté par l art. 8 de 1-21)
 
+5.1.45.15.1   Accès restreint aux sentiers
+
+              Un repère visuel doit être installé sur un câble d acier, une chaîne ou tout autre type
+              de matériel qui est utilisé comme barrière pour restreindre l accès à un sentier.
+
+              Ce repère visuel doit être d une dimension minimale de 900 cm2, rigide, visible et
+              réfléchissant. Un minimum d un repère visuel doit être installé à tous les 6 mètres de
+              barrière.
+
+              (Ajouté par l art. 5 de 1-110)
+
 5.1.45.16     Respect de la signalisation
 
               Le conducteur d un véhicule hors route doit respecter la signalisation routière
@@ -12383,68 +12395,69 @@ Section 5 – Dispositions applicables aux piétons
               Toute personne qui attend pour prendre place dans un autobus doit se tenir sur le
               trottoir et y demeurer aussi longtemps que l'autobus n'est pas immobilisé.
 
-5.1.47        Feux de piétons
-
-              Lorsque des feux de piétons sont installés à une intersection, un piéton doit s'y
-              conformer.
-
-              En face d'un feu blanc, un piéton peut traverser la chaussée.
-
-              En face d'un feu orange, un piéton ne peut s'engager sur la chaussée.
-              En face d'un clignotant, un piéton qui a déjà commencé à traverser la chaussée doit
-              presser le pas jusqu'au trottoir ou à la zone de sécurité.
-
-5.1.48        Feux de circulation
-
-              Lorsqu'il n'y a pas de feux de piétons, un piéton doit se conformer aux feux de circu-
-              lation.
-
                                                                                                 
-5.1.49        Passage pour piétons
+5.1.47       Feux de piétons
 
-              À un passage pour piétons qui n'est pas situé à une intersection réglementée par des
-              feux de circulation, un piéton doit, avant de s'y engager, s'assurer qu'il peut le faire
-              sans risque.
+             Lorsque des feux de piétons sont installés à une intersection, un piéton doit s'y
+             conformer.
 
-5.1.50        Cession de passage
+             En face d'un feu blanc, un piéton peut traverser la chaussée.
 
-              Lorsqu'il n'y a pas d'intersection ou de passage pour piétons clairement identifiés et
-              situés à proximité, un piéton qui traverse un chemin public doit céder le passage aux
-              véhicules routiers et aux cyclistes qui y circulent.
+             En face d'un feu orange, un piéton ne peut s'engager sur la chaussée.
+             En face d'un clignotant, un piéton qui a déjà commencé à traverser la chaussée doit
+             presser le pas jusqu'au trottoir ou à la zone de sécurité.
 
-5.1.51        Sollicitation sur la chaussée
+5.1.48       Feux de circulation
 
-              Il est défendu à tout piéton de se tenir sur la chaussée pour solliciter son transport ou
-              pour traiter avec l'occupant d'un véhicule.
+             Lorsqu'il n'y a pas de feux de piétons, un piéton doit se conformer aux feux de circu-
+             lation.
 
-5.1.52        Sollicitation où le dépassement est interdit
+5.1.49       Passage pour piétons
 
-              Il est défendu à tout piéton de solliciter son transport aux endroits où le dépassement
-              est interdit.
+             À un passage pour piétons qui n'est pas situé à une intersection réglementée par des
+             feux de circulation, un piéton doit, avant de s'y engager, s'assurer qu'il peut le faire
+             sans risque.
 
-5.1.53        Passage pour piétons
+5.1.50       Cession de passage
 
-              Lorsqu'il y a une intersection ou un passage pour piétons à proximité, un piéton ne
-              peut traverser un chemin public qu'à l'un de ces endroits.
+             Lorsqu'il n'y a pas d'intersection ou de passage pour piétons clairement identifiés et
+             situés à proximité, un piéton qui traverse un chemin public doit céder le passage aux
+             véhicules routiers et aux cyclistes qui y circulent.
 
-5.1.54        Intersection en diagonale
+5.1.51       Sollicitation sur la chaussée
 
-              Il est défendu à tout piéton de traverser une intersection en diagonale sauf s'il y est
-              autorisé par un agent de la paix ou une signalisation.
+             Il est défendu à tout piéton de se tenir sur la chaussée pour solliciter son transport ou
+             pour traiter avec l'occupant d'un véhicule.
 
-5.1.55        Trottoir
+5.1.52       Sollicitation où le dépassement est interdit
 
-              Lorsqu'un trottoir borde la chaussée, un piéton est tenu de l'utiliser.
+             Il est défendu à tout piéton de solliciter son transport aux endroits où le dépassement
+             est interdit.
 
-              En cas d'impossibilité d'utiliser le trottoir, le piéton peut longer celui-ci sur le bord de
-              la chaussée, en s'assurant qu'il peut le faire sans danger.
+5.1.53       Passage pour piétons
 
-5.1.56        Absence de trottoir
+             Lorsqu'il y a une intersection ou un passage pour piétons à proximité, un piéton ne
+             peut traverser un chemin public qu'à l'un de ces endroits.
 
-              Lorsqu  aucun trottoir ne borde une chaussée, un piéton doit circuler sur le bord de la
-              chaussée et dans le sens contraire de la circulation des véhicules, en s'assurant qu'il
-              peut le faire sans danger.
+5.1.54       Intersection en diagonale
 
+             Il est défendu à tout piéton de traverser une intersection en diagonale sauf s'il y est
+             autorisé par un agent de la paix ou une signalisation.
+
+5.1.55       Trottoir
+
+             Lorsqu'un trottoir borde la chaussée, un piéton est tenu de l'utiliser.
+
+             En cas d'impossibilité d'utiliser le trottoir, le piéton peut longer celui-ci sur le bord de
+             la chaussée, en s'assurant qu'il peut le faire sans danger.
+
+5.1.56       Absence de trottoir
+
+             Lorsqu  aucun trottoir ne borde une chaussée, un piéton doit circuler sur le bord de la
+             chaussée et dans le sens contraire de la circulation des véhicules, en s'assurant qu'il
+             peut le faire sans danger.
+
+                                                                                     
 Section 6 - Obstructions à la circulation
 
 Sous-section 1 - Dispositions générales
@@ -12455,127 +12468,145 @@ Sous-section 1 - Dispositions générales
               débris, des déchets, de la boue, de la terre, des pierres, du gravier ou des matériaux
               de même nature ou toutes matières ou obstructions nuisibles.
 
-                                                                                      
-             1)       Nettoyage
+              1)       Nettoyage
 
-                      Le conducteur et le propriétaire du véhicule peuvent être contraints de
-                      nettoyer ou faire nettoyer la chaussée concernée et à défaut de ce faire dans
-                      un délai de vingt-quatre (24) heures, la Ville est autorisée à effectuer le
-                      nettoyage et les frais leur seront réclamés;
+                       Le conducteur et le propriétaire du véhicule peuvent être contraints de
+                       nettoyer ou faire nettoyer la chaussée concernée et à défaut de ce faire dans
+                       un délai de vingt-quatre (24) heures, la Ville est autorisée à effectuer le
+                       nettoyage et les frais leur seront réclamés;
 
-             2)       Responsabilité de l'entrepreneur
+              2)       Responsabilité de l'entrepreneur
 
-                      Aux fins de l'application du paragraphe 1) du présent article, un entrepreneur
-                      est responsable de ses employés, préposés ou sous-traitants.
+                       Aux fins de l'application du paragraphe 1) du présent article, un entrepreneur
+                       est responsable de ses employés, préposés ou sous-traitants.
 
-5.1.58       Dommage aux panneaux de signalisation
+5.1.58        Dommage aux panneaux de signalisation
 
-             Il est défendu d'endommager, de déplacer ou de masquer volontairement un panneau
-             de signalisation.
+              Il est défendu d'endommager, de déplacer ou de masquer volontairement un panneau
+              de signalisation.
 
-5.1.59       Obstruction aux panneaux de signalisation
+5.1.59        Obstruction aux panneaux de signalisation
 
-             Il est défendu de maintenir sur un immeuble des arbustes ou des arbres dont les
-             branches ou les feuilles masquent en tout ou en partie la visibilité d'un panneau de
-             signalisation.
+              Il est défendu de maintenir sur un immeuble des arbustes ou des arbres dont les
+              branches ou les feuilles masquent en tout ou en partie la visibilité d'un panneau de
+              signalisation.
 
-5.1.60       Contrôle des animaux
+5.1.60        Contrôle des animaux
 
-             Il est défendu de monter ou de conduire un animal sur un chemin public ou un
-             trottoir sans avoir les moyens nécessaires pour le diriger et le contrôler; il est
-             également défendu de le conduire ou de le diriger à un train rapide.
-             (Modifié par l art. 10 de 1-3)
+              Il est défendu de monter ou de conduire un animal sur un chemin public ou un
+              trottoir sans avoir les moyens nécessaires pour le diriger et le contrôler; il est
+              également défendu de le conduire ou de le diriger à un train rapide.
+              (Modifié par l art. 10 de 1-3)
 
-5.1.61       Cheval sous garde
+5.1.61        Cheval sous garde
 
-             Il est défendu de laisser sur un chemin public ou un trottoir un cheval, attelé ou
-             non, sauf s'il est sous la garde d'une personne responsable ou s'il est entravé,
-             attaché ou retenu.
-             (Modifié par l art. 10 de 1-3)
+              Il est défendu de laisser sur un chemin public ou un trottoir un cheval, attelé ou
+              non, sauf s'il est sous la garde d'une personne responsable ou s'il est entravé,
+              attaché ou retenu.
+              (Modifié par l art. 10 de 1-3)
 
-5.1.62       Circulation à cheval
+5.1.62        Circulation à cheval
 
-             Il est défendu de circuler sur le territoire de la Ville avec un cheval qui n'est pas
-             muni d'une couche permettant de recueillir ses excréments.
+              Il est défendu de circuler sur le territoire de la Ville avec un cheval qui n'est pas
+              muni d'une couche permettant de recueillir ses excréments.
 
-5.1.63       Lavage de véhicule
+5.1.63        Lavage de véhicule
 
-             Il est défendu de laver un véhicule sur un chemin public ou un trottoir.
-             (Modifié par l art. 11 de 1-3)
+              Il est défendu de laver un véhicule sur un chemin public ou un trottoir.
+              (Modifié par l art. 11 de 1-3)
 
-5.1.64       Réparation
+                                                                                 
+5.1.64            Réparation
 
-             Il est défendu de réparer un véhicule sur un chemin public ou un trottoir sauf s'il
-             s'agit d'une panne temporaire et légère.
-             (Modifié par l art. 11 de 1-3)
+                  Il est défendu de réparer un véhicule sur un chemin public ou un trottoir sauf s'il
+                  s'agit d'une panne temporaire et légère.
+                  (Modifié par l art. 11 de 1-3)
 
-5.1.65       Panneau de rabattement
+5.1.65            Panneau de rabattement
 
-             Le panneau de rabattement (tail board) d'un camion-automobile doit toujours être
-             fermé sauf s'il supporte des matériaux dont la longueur dépasse la boîte du camion.
+                  Le panneau de rabattement (tail board) d'un camion-automobile doit toujours être
+                  fermé sauf s'il supporte des matériaux dont la longueur dépasse la boîte du camion.
 
-                                                                                
+Sous-section 1.1 – Sécurité
+(Ajoutée par l art. 6 de 1-110)
+
+5.1.65.1          Accès restreint à une propriété par un câble ou une chaîne
+
+                  Tout propriétaire, locataire ou toute personne responsable de l entretien d un
+                  chemin privé ou public, d un sentier, d une piste cyclable ou d un passage qui
+                  restreint l accès à sa propriété par un câble d acier, une chaîne ou tout autre type
+                  de matériel de même nature utilisé comme barrière doit installer sur ladite barrière
+                  un repère visuel permettant à une personne qui circule en véhicule motorisé ou en
+                  bicyclette de modifier sa trajectoire à temps afin d éviter un contact, un
+                  traumatisme ou un décès.
+
+                  Ce repère visuel doit être d une dimension minimale de 900 cm2, rigide, visible et
+                  réfléchissant. Un minimum d un repère visuel doit être installé à tous les 6 mètres
+                  de barrière.
+
+                  (Ajouté par l art. 6 de 1-110)
+
 Sous-section 2 - Activités dans les rues
 
-5.1.66         Interdiction de circuler
+5.1.66            Interdiction de circuler
 
-               Il est défendu de circuler sur la chaussée, une allée ou un trottoir avec des skis, des
-               patins à roulettes, des patins à glace, une planche à roulettes ou tout autre jeu ou
-               sport de même genre.
+                  Il est défendu de circuler sur la chaussée, une allée ou un trottoir avec des skis, des
+                  patins à roulettes, des patins à glace, une planche à roulettes ou tout autre jeu ou
+                  sport de même genre.
 
-               Le précédent paragraphe ne s applique pas à la bicyclette. Une bicyclette peut
-               circuler sur la chaussée ou une allée. Pour circuler sur un trottoir, une personne doit
-               marcher à côté de sa bicyclette. Pour traverser la chaussée à un passage pour piétons,
-               la priorité existe au même titre que celle prévue pour le piéton.
+                  Le précédent paragraphe ne s applique pas à la bicyclette. Une bicyclette peut
+                  circuler sur la chaussée ou une allée. Pour circuler sur un trottoir, une personne doit
+                  marcher à côté de sa bicyclette. Pour traverser la chaussée à un passage pour piétons,
+                  la priorité existe au même titre que celle prévue pour le piéton.
 
-               (Modifié par l art. 3 de 1-70 / Modifié par l art. 7 de 1-110)
+                  (Modifié par l art. 3 de 1-70 / Modifié par l art. 7 de 1-110)
 
-5.1.66.1      Animaux en laisse
+5.1.66.1          Animaux en laisse
 
-               Il est défendu de circuler à bicyclette sur la chaussée ou une allée en tenant un
-               animal en laisse.
+                  Il est défendu de circuler à bicyclette sur la chaussée ou une allée en tenant un
+                  animal en laisse.
 
-               (Ajouté par l art. 1 de 1-100)
+                  (Ajouté par l art. 1 de 1-100)
 
-5.1.67         Interdiction de circuler sur la chaussée
+5.1.67            Interdiction de circuler sur la chaussée
 
-               Il est défendu de circuler sur la chaussée avec une trottinette, un tricycle ou une
-               voiturette ou tout autre jeu ou sport du même genre, sauf pour traverser la chaussée à
-               un passage pour piétons où la priorité existe au même titre que celle prévue pour le
-               piéton.
+                  Il est défendu de circuler sur la chaussée avec une trottinette, un tricycle ou une
+                  voiturette ou tout autre jeu ou sport du même genre, sauf pour traverser la chaussée à
+                  un passage pour piétons où la priorité existe au même titre que celle prévue pour le
+                  piéton.
 
-5.1.67.1       Équipement de protection - Bicyclette
+                                                                                     
+5.1.67.1     Équipement de protection - Bicyclette
 
-               Il est défendu à toute personne prenant place sur une bicyclette et qui est âgée de
-               moins de 18 ans de circuler sur la chaussée sans être équipée d un casque
-               protecteur conçu pour cette activité.
-               (Ajouté par l art. 31 de 1-73)
+             Il est défendu à toute personne prenant place sur une bicyclette et qui est âgée de
+             moins de 18 ans de circuler sur la chaussée sans être équipée d un casque
+             protecteur conçu pour cette activité.
+              (Ajouté par l art. 31 de 1-73)
 
-5.1.67.2       Mineurs
+5.1.67.2      Mineurs
 
-               Il est défendu au père, à la mère, au tuteur ou à toute personne qui se voit confier,
-               par délégation ou autrement, la garde, la surveillance ou l'éducation d un mineur
-               âgé de moins de dix-huit ans de laisser ce mineur circuler en contravention de
-               l article 5.1.67.1.
-               (Ajouté par l art. 31 de 1-73 / Modifié par l art. 4 de 1-82)
+             Il est défendu au père, à la mère, au tuteur ou à toute personne qui se voit confier,
+             par délégation ou autrement, la garde, la surveillance ou l'éducation d un mineur
+             âgé de moins de dix-huit ans de laisser ce mineur circuler en contravention de
+             l article 5.1.67.1.
+             (Ajouté par l art. 31 de 1-73 / Modifié par l art. 4 de 1-82)
 
 Sous-section 3 - Entrave à la circulation nécessitant une fermeture temporaire ou partielle
               d un chemin public
 
-5.1.68        Travaux
+5.1.68       Travaux
 
-              Il est défendu à toute personne qui réalise des travaux d occuper la chaussée,
-              l accottement ou le trottoir, d y placer un véhicule ou un obstacle ou d entraver de
-              quelque manière la circulation des véhicules routiers ou des piétons ou d occuper des
-              espaces de stationnement pour d autres fins que le stationnement d un véhicule sans
-              avoir obtenu au préalable l autorisation décrite à l article 5.1.70 du présent
-              règlement.
+             Il est défendu à toute personne qui réalise des travaux d occuper la chaussée,
+             l accottement ou le trottoir, d y placer un véhicule ou un obstacle ou d entraver de
+             quelque manière la circulation des véhicules routiers ou des piétons ou d occuper des
+             espaces de stationnement pour d autres fins que le stationnement d un véhicule sans
+             avoir obtenu au préalable l autorisation décrite à l article 5.1.70 du présent
+             règlement.
 
-              L alinéa précédent ne s applique pas aux travaux de voirie municipale et du Service
-              de l Hydro-Sherbrooke.
-               (Modifié par l art. 12 de 1-1)
+             L alinéa précédent ne s applique pas aux travaux de voirie municipale et du Service
+             de l Hydro-Sherbrooke.
+              (Modifié par l art. 12 de 1-1)
 
-                                                                                  
 5.1.68.1     Travaux d excavation
 
              Toute personne qui réalise des travaux nécessitant l excavation de la chaussée, de
@@ -12596,66 +12627,67 @@ Sous-section 3 - Entrave à la circulation nécessitant une fermeture temporaire
              L alinéa précédent ne s applique pas aux cas d urgence, de nécessité ou de
              circonstances exceptionnelles pouvant mettre en danger la sécurité des personnes ou
              des choses.
-             (Modifié par l art. 12 de 1-1)
+              (Modifié par l art. 12 de 1-1)
 
+                                                                               
 5.1.70       Procédure d autorisation
 
-             1)     Conditions
+             1)   Conditions
 
-                    L autorisation d occuper partiellement ou temporairement un chemin public
-                    est donnée par les personnes ou instances indiquées au paragraphe 2) du
-                    présent article après qu elles se soient assurées de la réalisation des conditions
-                    suivantes :
+                  L autorisation d occuper partiellement ou temporairement un chemin public
+                  est donnée par les personnes ou instances indiquées au paragraphe 2) du
+                  présent article après qu elles se soient assurées de la réalisation des conditions
+                  suivantes :
 
-                    a) Que les mesures de sécurité adéquates pour la circulation automobile et
-                       piétonnière ont été prévues avec les services concernés et seront
-                       appliquées;
+                  a) Que les mesures de sécurité adéquates pour la circulation automobile et
+                     piétonnière ont été prévues avec les services concernés et seront
+                     appliquées;
 
-                    b) Que la signalisation appropriée et conforme aux lois et règlements en
-                       vigueur soit prévue et installée;
+                  b) Que la signalisation appropriée et conforme aux lois et règlements en
+                     vigueur soit prévue et installée;
 
-                    c) Que les citoyens et commerçants concernés, le cas échéant, soient avisés
-                       avant les travaux ou l événement;
+                  c) Que les citoyens et commerçants concernés, le cas échéant, soient avisés
+                     avant les travaux ou l événement;
 
-                    d) Que la demande d autorisation soit présentée dans un délai minimal de
-                       24 heures à la personne ou à l instance indiquée au sous-paragraphe b) du
-                       paragraphe 2) du présent article pour tout événement de type
-                       manifestation.
+                  d) Que la demande d autorisation soit présentée dans un délai minimal de
+                     24 heures à la personne ou à l instance indiquée au sous-paragraphe b) du
+                     paragraphe 2) du présent article pour tout événement de type
+                     manifestation.
 
-             2)     Responsables
+             2)   Responsables
 
-                    Les personnes ou instances nommées aux paragraphes suivants sont
-                    responsables d émettre les autorisations d occupation ou de fermeture de rue
-                    pour les situations identifiées comme relevant de leur autorité :
+                  Les personnes ou instances nommées aux paragraphes suivants sont
+                  responsables d émettre les autorisations d occupation ou de fermeture de rue
+                  pour les situations identifiées comme relevant de leur autorité :
 
-                    a) Le chef de la Division des infrastructures de transport et construction du
-                       Service des infrastructures urbaines et de l environnement
+                  a) Le chef de la Division des infrastructures de transport et construction du
+                     Service des infrastructures urbaines et de l environnement
 
-                         Il est responsable d émettre les autorisations lors de travaux réalisés par les
-                         entreprises d utilité publique sur le chemin public ou par quiconque sur la
-                         propriété privée et qui nécessitent un empiétement sur le chemin public.
+                     Il est responsable d émettre les autorisations lors de travaux réalisés par les
+                     entreprises d utilité publique sur le chemin public ou par quiconque sur la
+                     propriété privée et qui nécessitent un empiétement sur le chemin public.
 
-                         Il est de plus responsable d émettre les autorisations pour des événements
-                         spéciaux, autre que des fêtes ou rassemblements communautaires visés au
-                         paragraphe c), nécessitant l occupation ou la fermeture d une rue
-                         résidentielle secondaire.
+                     Il est de plus responsable d émettre les autorisations pour des événements
+                     spéciaux, autre que des fêtes ou rassemblements communautaires visés au
+                     paragraphe c), nécessitant l occupation ou la fermeture d une rue
+                     résidentielle secondaire.
 
-                                                                                    
-                          b) Le directeur du Service de police ou son représentant autorisé
+                  b) Le directeur du Service de police ou son représentant autorisé
 
-                                Il est responsable de donner les autorisations pour tout événement de type
-                                manifestation c est-à-dire une démonstration collective, paisible, publique
-                                et organisée d une opinion ou d une volonté nécessitant la fermeture ou
-                                l occupation partielle d un chemin public.
+                     Il est responsable de donner les autorisations pour tout événement de type
+                     manifestation c est-à-dire une démonstration collective, paisible, publique
+                     et organisée d une opinion ou d une volonté nécessitant la fermeture ou
+                     l occupation partielle d un chemin public.
 
-                          c) Le directeur de l arrondissement ou son représentant autorisé
+                  c) Le directeur de l arrondissement ou son représentant autorisé
 
-                                Il est responsable d émettre les autorisations pour l occupation de rues
-                                résidentielles secondaires lors de la tenue de fêtes, de rassemblements
-                                populaires décrits au chapitre 10 du titre 7 du présent règlement et lors
-                                d événements spéciaux ponctuels non prévus aux paragraphes a) ou b) du
-                                présent alinéa .
+                     Il est responsable d émettre les autorisations pour l occupation de rues
+                     résidentielles secondaires lors de la tenue de fêtes, de rassemblements
+                     populaires décrits au chapitre 10 du titre 7 du présent règlement et lors
+                     d événements spéciaux ponctuels non prévus aux paragraphes a) ou b) du
+                     présent alinéa .
 
+                                                                                
                           d) Le conseil d arrondissement
 
                                 Il est responsable de donner les autorisations pour tout événement à
@@ -12692,7 +12724,6 @@ Section 6.1 – Numérotage des maisons et bâtiments
 
                    (Ajouté par l art. 13 de 1-1)
 
-                                                                                                       
 Section 7 - Nuisances
 
 Sous-section 1 - Dispositions générales
@@ -12713,6 +12744,7 @@ Sous-section 1 - Dispositions générales
                    déchets un camion dont la benne n'est pas étanche ou qui laisse échapper des déchets
                    solides sur le sol.
 
+                                                                                                       
 5.1.74             Motoneige et véhicule de loisir
 
                    Sauf dans les endroits spécialement pourvus à cette fin, l'usage des motoneiges et
@@ -12751,71 +12783,89 @@ Sous-section 2 - Nuisances visuelles ou sonores
                    Les conducteurs de véhicules chargés de ferraille ou autres articles bruyants doivent
                    prendre les moyens nécessaires pour assourdir ce bruit.
 
-                                                                                                        
 Section 8 - Dispositions pénales
 
-5.1.78        Constat d'infraction
+5.1.78             Constat d'infraction
 
-              Toute personne ou préposé d'une personne dont les services sont retenus par la Ville
-              aux fins d'appliquer les règlements relatifs au stationnement, tout officier et
-              inspecteur du Service de protection contre les incendies et tout policier du Service de
-              police sont autorisés à délivrer un constat d'infraction pour toute infraction au présent
-              chapitre qu'ils ont la charge de faire appliquer.
+                   Toute personne ou préposé d'une personne dont les services sont retenus par la Ville
+                   aux fins d'appliquer les règlements relatifs au stationnement, tout officier et
+                   inspecteur du Service de protection contre les incendies et tout policier du Service de
+                   police sont autorisés à délivrer un constat d'infraction pour toute infraction au présent
+                   chapitre qu'ils ont la charge de faire appliquer.
 
-              Pour l application de la sous-section 5 relative à la circulation des véhicules hors
-              route du présent chapitre, seuls les policiers du Service de police ainsi que les
-              agents de surveillance de sentier sont autorisés à délivrer un constat d infraction.
+                   Pour l application de la sous-section 5 relative à la circulation des véhicules hors
+                   route du présent chapitre, seuls les policiers du Service de police ainsi que les
+                   agents de surveillance de sentier sont autorisés à délivrer un constat d infraction.
 
-              Tout avocat à l'emploi de la Ville est autorisé à délivrer un constat d'infraction pour
-              toute infraction au présent chapitre pour laquelle la Ville agit à titre de poursuivant.
+                   Pour l application de l article 5.1.65.1, les policiers du Service de police, les agents
+                   de surveillance de sentier et les inspecteurs du Service de la planification et du
+                   développement urbain sont autorisés à délivrer un constat d infraction.
 
-              (Modifié par l art. 2 de 1-20 / Modifié par l art. 9 de 1-21)
+                   Tout avocat à l'emploi de la Ville est autorisé à délivrer un constat d'infraction pour
+                   toute infraction au présent chapitre pour laquelle la Ville agit à titre de poursuivant.
 
-5.1.79        Infraction - amende minimale 20,00 $
+                   (Modifié par l art. 2 de 1-20 / Modifié par l art. 9 de 1-21 / Modifié par l art. 9 de 1-110)
 
-              Quiconque contrevient à quelques dispositions des articles 5.1.46 à 5.1.56 du présent
-              chapitre commet une infraction et est passible d'une amende minimale de vingt
-              dollars (20,00 $) et maximum de soixante-quinze dollars (75,00 $).
+                                                                                                         
+5.1.79       Infraction - amende minimale 20,00 $
 
-5.1.80        Infraction - amende minimale 30,00 $
+             Quiconque contrevient à quelques dispositions des articles 5.1.46 à 5.1.56 du présent
+             chapitre commet une infraction et est passible d'une amende minimale de vingt
+             dollars (20,00 $) et maximum de soixante-quinze dollars (75,00 $).
 
-              Quiconque contrevient à quelques dispositions des articles 5.1.20, 5.1.21, 5.1.44,
-              5.1.63, 5.1.64, 5.1.66, 5.1.66.1 et 5.1.67 à 5.1.67.2 du présent chapitre commet une
-              infraction et est passible d'une amende minimale de trente dollars (30,00 $) et
-              maximale de soixante dollars (60,00 $).
+5.1.80       Infraction - amende minimale 30,00 $
 
-              (Modifié par l art. 33 de 1-73 / Modifié par l art. 11 de 1-104)
+             Quiconque contrevient à quelques dispositions des articles 5.1.20, 5.1.21, 5.1.44,
+             5.1.63, 5.1.64, 5.1.66, 5.1.66.1 et 5.1.67 à 5.1.67.2 du présent chapitre commet une
+             infraction et est passible d'une amende minimale de trente dollars (30,00 $) et
+             maximale de soixante dollars (60,00 $).
 
-5.1.81        Infraction - amende minimale 60,00 $
+             (Modifié par l art. 33 de 1-73 / Modifié par l art. 11 de 1-104)
 
-              Quiconque contrevient à quelques dispositions des articles 5.1.22 à 5.1.33
-              inclusivement, 5.1.35, 5.1.36, 5.1.42, 5.1.42.1, 5.1.57 à 5.1.62 inclusivement, 5.1.65,
-              5.1.70.1, 5.1.71 à 5.1.74 inclusivement, 5.1.75.2, 5.1.76 et 5.1.77 et à toute
-              disposition du présent chapitre pour laquelle aucune pénalité particulière n'est prévue
-              commet une infraction et est passible d'une amende minimale de soixante dollars
-              (60,00 $) et maximale de soixante-quinze dollars (75,00 $).
-              (Modifié par l art. 14 de 1-1 / Modifié par l art. 3 de 1-20 / Modifié par l art. 6 de 1-40 / Modifié par
-              l art. 11 de 1-104)
+5.1.81       Infraction - amende minimale 60,00 $
 
-5.1.82        Infraction - amende minimale de 100,00 $
+             Quiconque contrevient à quelques dispositions des articles 5.1.22 à 5.1.33
+             inclusivement, 5.1.35, 5.1.36, 5.1.42, 5.1.42.1, 5.1.57 à 5.1.62 inclusivement, 5.1.65,
+             5.1.70.1, 5.1.71 à 5.1.74 inclusivement, 5.1.75.2, 5.1.76 et 5.1.77 et à toute
+             disposition du présent chapitre pour laquelle aucune pénalité particulière n'est prévue
+             commet une infraction et est passible d'une amende minimale de soixante dollars
+             (60,00 $) et maximale de soixante-quinze dollars (75,00 $).
+             (Modifié par l art. 14 de 1-1 / Modifié par l art. 3 de 1-20 / Modifié par l art. 6 de 1-40 / Modifié par
+             l art. 11 de 1-104)
 
-              Quiconque contrevient à quelques dispositions des articles 5.1.40, 5.1.43, 5.1.45.1 à
-              5.1.45.15, 5.1.45.16, 5.1.68, 5.1.69 et 5.1.75 du présent chapitre, commet une
-              infraction et est passible d'une amende minimale de cent dollars (100,00 $) et
-              maximale de trois cents dollars (300,00 $).
-              (Modifié par l art. 14 de 1-1 / Modifié par l art. 10 de 1-21 / Modifié par l art. 6 de 1-40 / Modifié par
-              l art. 10 de 1-110)
+5.1.82       Infraction - amende minimale de 100,00 $
 
-5.1.83        Infraction – amende minimale de 175,00$
+             Quiconque contrevient à quelques dispositions des articles 5.1.40, 5.1.43, 5.1.45.1 à
+             5.1.45.15, 5.1.45.16, 5.1.68, 5.1.69 et 5.1.75 du présent chapitre, commet une
+             infraction et est passible d'une amende minimale de cent dollars (100,00 $) et
+             maximale de trois cents dollars (300,00 $).
+             (Modifié par l art. 14 de 1-1 / Modifié par l art. 10 de 1-21 / Modifié par l art. 6 de 1-40 / Modifié par
+             l art. 10 de 1-110)
 
-              Quiconque contrevient à quelques dispositions des articles 5.1.38, 5.1.39 et 5.1.41.1
-              à 5.1.41.7 inclusivement, du présent chapitre, commet une infraction et est passible
-              d une amende minimale de cent soixante-quinze dollars (175,00 $) et maximale de
-              cinq cent vingt-cinq dollars (525,00 $).
-              (Modifié par l art. 14 de 1-1 / Modifié par l art. 2 de 1-5 / Modifié par l art. 6 de 1-9 / Modifié par
-              l art. 10 de 1-46)
+5.1.82.1     Infraction - amende minimale de 150,00 $
 
-                                                                                                  
+             Quiconque contrevient à quelques dispositions des articles 5.1.45.15.1 et 5.1.65.1
+             commet une infraction et est passible d'une amende minimale de cent cinquante
+             dollars (150,00 $) et d'au plus mille dollars (1 000,00 $) si le contrevenant est une
+             personne physique ou de deux mille dollars (2 000,00 $) s'il est une personne
+             morale.
+
+             Pour une récidive, le montant maximum est de deux mille dollars (2 000,00 $) si le
+             contrevenant est une personne physique ou de quatre mille dollars (4 000,00 $) s'il
+             est une personne morale.
+
+             (Ajouté par l art. 11 de 1-110)
+
+5.1.83       Infraction – amende minimale de 175,00$
+
+             Quiconque contrevient à quelques dispositions des articles 5.1.38, 5.1.39 et 5.1.41.1
+             à 5.1.41.7 inclusivement, du présent chapitre, commet une infraction et est passible
+             d une amende minimale de cent soixante-quinze dollars (175,00 $) et maximale de
+             cinq cent vingt-cinq dollars (525,00 $).
+             (Modifié par l art. 14 de 1-1 / Modifié par l art. 2 de 1-5 / Modifié par l art. 6 de 1-9 / Modifié par
+             l art. 10 de 1-46)
+
+                                                                                                 
 5.1.83.1     Infraction – amende minimale de 200,00 $
 
              Quiconque contrevient à l article 5.1.75.1 du présent chapitre commet une infraction
